@@ -7,7 +7,7 @@ const Citizen = require ('./models/citizen')
 const Schedule = require('./models/schedule')
 const mongoose = require('mongoose')
 mongoose.connect(dblink).then(() => {
-    app.listen(process.env.PORT)
+    app.listen(3000)
     console.log("Connected")
 })
 
@@ -95,6 +95,18 @@ app.post('/login', async (req, res) => {
 })
 
 //financial
+app.post('/delete-schedule', async (req, res) => {
+    
+    await Schedule.findOneAndDelete({
+        Zone: req.body.zone,
+        Socialclass: req.body.socialclass,
+        Scheduledate: req.body.scheduledate,
+        Scheduletime: req.body.scheduletime,
+        Amount: req.body.amount,
+    })
+
+    res.send('Done')
+})
 
 app.get('/fetch-schedule', async (req, res) => {
     await Schedule.find().sort({ Zone1: 1 }).then(result => {
@@ -105,7 +117,7 @@ app.get('/fetch-schedule', async (req, res) => {
 
 app.post('/add-schedule', async (req, res) => {
     const addSchedule = new Schedule({
-        Zone: req.body.zone1,
+        Zone: req.body.zone,
         Socialclass: req.body.socialclass,
         Scheduledate: req.body.scheduledate,
         Scheduletime: req.body.scheduletime,
