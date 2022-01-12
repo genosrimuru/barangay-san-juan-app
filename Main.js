@@ -7,7 +7,7 @@ const Citizen = require ('./models/citizen')
 const Schedule = require('./models/schedule')
 const mongoose = require('mongoose')
 mongoose.connect(dblink).then(() => {
-    app.listen(3000)
+    app.listen(process.env.PORT)
     console.log("Connected")
 })
 
