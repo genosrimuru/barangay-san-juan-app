@@ -9,7 +9,7 @@ function fetchVisualization(filter) {
     url: '/visualization',
     method: 'GET',
     success: function(result) {
-      console.log(result)
+     
       let poorArr = [], lowArr = [], midArr = [], highArr = [], socialClass = 0
       let maleArr = [], femaleArr = [], gender = 0
       let singleArr = [], marriedArr = [], widowArr = [], separatedArr = [], unknownArr = [], widowerArr = [], civil = 0
