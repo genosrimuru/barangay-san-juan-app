@@ -12,9 +12,38 @@
     <body>
 
       <div id="login-form">
+        
+        <img src="../San Juan Logo-modified.png" class="login-logo">
+        <b class="login-word-small">PAMAHALAANG &nbsp; BARANGAY &nbsp; NG </b>
+        <span class="login-word">SAN JUAN</span>
+        <table class="login-view">
+          <tr>
+            <td>
+        <label class="login-user">Username</label>
+            </td>
+          </tr>
+      <tr>
+        <td>
         <input id="username" type="text" placeholder="Username">
-        <input id="password" type="password" placeholder="Username">
+      </td>
+      </tr>
+      <tr>
+        <td>
+        <Label class="login-user">Password</Label>
+      </td>
+      </tr>
+        <tr>
+          <td>
+        <input id="password" type="password" placeholder="Password">
+      </td>
+      </tr>
+      <tr>
+        <td>
         <button id="login-user">Login</button>
+      </td>
+      </tr>
+    
+      </table>
       </div>
       <div id="all-pages"> 
         <nav>
@@ -23,11 +52,11 @@
                 <h3>PAMAHALAANG BARANGAY NG</h3>
                 <h1>SAN JUAN</h1>
                 <ul>
-                    <li><button id="Visualization-tab">VISUALIZATION</button></li>
-                    <li><button id="Population-tab">POPULATION</button></li>
-                    <li><button id="Financial-tab">FINANCIAL AID</button></li>
-                    <li><button id="About-tab">ABOUT</button></li>
-                    <li><button id="logout-button"><i class="fas fa-sign-out-alt"></i></button></li>
+                    <li><button class="nav-button" id="Visualization-tab">VISUALIZATION</button></li>
+                    <li><button class="nav-button" id="Population-tab">POPULATION</button></li>
+                    <li><button class="nav-button" id="Financial-tab">FINANCIAL AID</button></li>
+                    <li><button class="nav-button" id="About-tab">ABOUT</button></li>
+                    <li><button class="nav-button" id="logout-button"><i class="fas fa-sign-out-alt"></i></button></li>
                 </ul>
             </div>
 
@@ -110,29 +139,58 @@
       </div>
       <br>
       <div id="form-edit">
+        
           <form >
-             <label>Name:</label>
-             <input id="newname" type="text" required ><br>
-             <label>Age:</label>
-             <input id="newage" type="text" required><br>
-             <label>Gender:</label>
-             <input id="newgender" type="text" required><br>
-             <label >Civil Status:</label>
-             <input id="newstatus" type="text" required><br>
-             <label >Zone: </label>
-             <input id="newzone" type="text" required><br>
-             <label >Work:</label>
-             <input id="newwork" type="text" required><br>
-             <label >Source of Income: </label>
-             <input id="newincome" type="text" required><br>
-             <label >Budget: </label>
-             <input id="newbudget" type="text" required><br>
-             <label>Social Class: </label>
-             <input id="newclass" type="text" required><br>
-             <label>Educational Attainment: </label>
-             <input id="neweducational" type="text" required><br>
-             <button id="new-record">Update</button>&nbsp <button id="form-close">Close</button>
+            <table>
+              <tr>
+                <td><label>Name:</label></td>
+                <td><input id="newname" type="text" required ><br></td>
+              </tr>
+             <tr>
+               <td><label>Age:</label></td>
+               <td><input id="newage" type="text" required><br></td>
+             </tr>
+             <tr>
+               <td><label>Gender:</label></td>
+               <td><input id="newgender" type="text" required><br></td>
+             </tr>
+             <tr>
+               <td><label >Civil Status:</label></td>
+               <td> <input id="newstatus" type="text" required><br></td>
+             </tr>
+             <tr>
+               <td><label >Zone: </label></td>
+               <td> <input id="newzone" type="text" required><br></td>
+             </tr>
+             <tr>
+               <td><label >Work:</label></td>
+               <td><input id="newwork" type="text" required><br></td>
+             </tr>
+            <tr>
+              <td><label >Source of Income: </label></td>
+              <td><input id="newincome" type="text" required><br></td>
+            </tr>
+             <tr>
+               <td><label >Budget: </label></td>
+               <td><input id="newbudget" type="text" required><br></td>
+             </tr>
+            <tr>
+              <td><label>Social Class: </label></td>
+              <td><input id="newclass" type="text" required><br></td>
+            </tr>
+             <tr>
+               <td><label>Educational Attainment: </label></td>
+               <td><input id="neweducational" type="text" required><br></td>
+             </tr>
+             <tr>
+               <td>
+             <button id="new-record" >Update</button>&nbsp; <button id="form-close">Close</button>
+             </td>
+             </tr>
+            </table>
+        
           </form>
+
       </div>
 
 
@@ -158,29 +216,54 @@
       <div class="citizen">
           <table>
              <form >
-             <label class="name">Name:</label>
-             <input id="citizen-name" type="text" required><br>
-             <label class="name">Age:</label>
-             <input id="citizen-age" type="text" required><br>
-             <label class="name">Gender:</label>
-             <input id="citizen-gender" type="text" required><br>
-             <label class="name">Civil Status:</label>
-             <input id="citizen-status" type="text" required><br>
-             <label class="name">Zone: </label>
-             <input id="citizen-zone" type="text" required><br>
-             <label class="name">Work:</label>
-             <input id="citizen-work" type="text" required><br>
-             <label class="name">Source of Income: </label>
-             <input id="citizen-income" type="text" required><br>
-             <label class="name">Budget: </label>
-             <input id="citizen-budget" type="text" required><br>
-             <label class="name">Social Class: </label>
-             <input id="citizen-class" type="text" required><br>
-             <label class="name">Educational Attainment: </label>
-             <input id="citizen-educational" type="text" rqeuired><br>
-
-             <button id="submit-citizen">Confirm</button>
-             <button id="btn-back-population">Back</button>
+               <tr>
+                 <td><label class="name">Name:</label></td>
+                <td><input id="citizen-name" type="text" required><br></td>
+            </tr>
+            
+             <tr>
+               <td><label class="name">Age:</label></td>
+               <td><input id="citizen-age" type="text" required><br></td>
+             </tr>
+             <tr>
+               <td><label class="name">Gender:</label></td>
+               <td><input id="citizen-gender" type="text" required><br></td>
+             </tr>
+            
+             <tr>
+               <td><label class="name">Civil Status:</label></td>
+               <td> <input id="citizen-status" type="text" required><br></td>
+             </tr>
+     
+            <tr>
+              <td><label class="name">Zone: </label></td>
+              <td><input id="citizen-zone" type="text" required><br></td>
+            </tr>
+            
+             <tr>
+               <td> <label class="name">Work:</label></td>
+               <td><input id="citizen-work" type="text" required><br></td>
+             </tr>
+             <tr>
+               <td> <label class="name">Source of Income: </label></td>
+               <td> <input id="citizen-income" type="text" required><br></td>
+             </tr>
+            <tr>
+              <td><label class="name">Budget: </label></td>
+              <td> <input id="citizen-budget" type="text" required><br></td>
+            </tr>
+            <tr>
+              <td><label class="name">Social Class: </label></td>
+              <td><input id="citizen-class" type="text" required><br></td>
+            </tr>
+             <tr>
+               <td> <label class="name">Educational Attainment: </label></td>
+               <td><input id="citizen-educational" type="text" rqeuired><br></td>
+             </tr>
+             <tr>
+             <td colspan="2"><button id="submit-citizen">Confirm</button>
+             <button id="btn-back-population">Back</button></td>
+            </tr>
           </form>
          
       </table>
