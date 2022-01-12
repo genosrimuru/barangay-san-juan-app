@@ -1,0 +1,1375 @@
+NAME,ReligionRecoded,EducationalAttainmentRecoded,AnimalsHayupanRecoded,PlantsHalamananRecoded,WorkRecoded,SourceofIncomeRecoded,ZonePurokRecoded,Age,GenderRecoded,CivilStatusRecoded,PhilHealthRecoded,Household Income,Social Class
+Jacinta Bayod,Catholic,Elementary,No,Yes,None,None,1,62,Female,Widow,Yes,"<5,000",1
+Katherine Gutierrez,Catholic,College,No,No,None,None,1,33,Female,Single,Yes,"<5,000",1
+Shane Rubio,Catholic,Currently Studying,No,No,None,None,1,11,Female,Single,No,"<5,000",1
+Celso Flores Jr.,Catholic,College,No,No,Office,Work Salary,1,50,Male,Married,Yes,"11,000-20,000",3
+Violeta Flores,Catholic,College,No,No,Office,Work Salary,1,51,Female,Married,Yes,"11,000-20,000",3
+Bea Flores,Catholic,College,No,No,Office,Work Salary,1,22,Female,Single,No,"11,000-20,000",3
+John Flores,Catholic,College,No,No,None,Student's Allowance,1,20,Male,Single,No,"<5,000",1
+Pedro Faustino,Born Again,College,Yes,No,Retired,Pension,1,68,Male,Married,Yes,"11,000-20,000",3
+Adelaida Faustino,Born Again,College,Yes,No,Teacher,Work Salary,1,68,Female,Married,Yes,"11,000-20,000",3
+Ronie Tamaliuan,Catholic,Secondary,No,Yes,None,None,1,61,Male,Married,Yes,"11,000-20,000",3
+Rafaela Tamaliuan,Catholic,College,No,Yes,Barangay Official,Work Salary,1,61,Female,Married,Yes,"11,000-20,000",3
+Ron Tamaliuan,Catholic,College,No,No,Office,Work Salary,1,34,Male,Single,Yes,"11,000-20,000",3
+Judy Laderas,Catholic,College,Yes,Yes,None,4ps,1,0,Female,Single,Yes,"<5,000",1
+Gerardo Negado,Catholic,Secondary,No,No,None,None,1,65,Male,Married,Yes,"<5,000",1
+Virginia Negado,Catholic,Secondary,No,No,None,None,1,70,Female,Married,No,"<5,000",1
+Jayvie Negado,Catholic,Currently Studying,No,No,None,None,1,0,Male,Single,No,"<5,000",1
+Crispin Ibalio,Catholic,Secondary,No,No,Business Owner,Business Income,1,47,Male,Married,Yes,"11,000-20,000",3
+Ma. Rosario Ibalio,Catholic,College,No,No,Business Owner,Business Income,1,45,Female,Married,Yes,"21,000-30,000",4
+Ella Ibalio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,20,Female,Single,No,"<5,000",1
+Elcid Ibalio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,19,Male,Single,No,"<5,000",1
+Jerome Carpio,Catholic,College,Yes,No,OFW,Work Income,1,44,Male,Married,No,"21,000-30,000",4
+Edlyn Carpio,Catholic,College,No,No,None,None,1,36,Female,Married,Yes,"<5,000",1
+Juanic Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,20,Male,Single,No,"<5,000",1
+Jetiel Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,19,Female,Single,No,"<5,000",1
+Emilio Carpio,Catholic,College,No,Yes,Office,Work Salary,1,41,Male,Married,Yes,"11,000-20,000",3
+Mallene Carpio,Catholic,College,No,Yes,None,None,1,40,Female,Married,Yes,"11,000-20,000",3
+Elise Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,19,Female,Single,No,"<5,000",1
+Erwin Santos,Catholic,College,No,No,Office,Work Salary,1,49,Male,Married,Yes,"11,000-20,000",3
+Merlinda Santos,Catholic,College,No,No,Teacher,Work Salary,1,42,Female,Married,Yes,"11,000-20,000",3
+Jairus Santos,Catholic,Currently Studying,No,No,None,Student's Allowance,1,14,Male,Single,No,"<5,000",1
+Kurt Santos,Catholic,Not Yet Studying,No,No,None,None,1,5,Male,Single,No,"<5,000",1
+Jireh Santos,Catholic,Not Yet Studying,No,No,None,None,1,4,Female,Single,No,"<5,000",1
+Nicanor Santos,Born Again,Secondary,No,No,Driver,Work Income,1,41,Male,Married,Yes,"<5,000",1
+Janeth Delfin,Born Again,Secondary,No,No,Sales,Work Salary,1,43,Female,Married,No,"11,000-20,000",3
+Menela Delfin,Born Again,College,No,No,Sales,Work Salary,1,23,Female,Single,No,"11,000-20,000",3
+Yvan Santos,Born Again,Currently Studying,No,No,None,Student's Allowance,1,15,Male,Single,No,"<5,000",1
+Yrish Santos,Born Again,Currently Studying,No,No,None,Student's Allowance,1,12,Female,Single,No,"<5,000",1
+Armando Dela Cruz,Catholic,Elementary,Yes,No,Construction,Work Salary,1,62,Male,Separated,Yes,"<5,000",1
+Marza Dela Cruz,Catholic,Secondary,Yes,No,None,None,1,28,Female,Single,No,"<5,000",1
+Jimbo Dela Cruz,Catholic,Secondary,Yes,No,None,None,1,31,Male,Single,No,"<5,000",1
+Dianie Panganiban,Catholic,Secondary,No,No,None,None,1,35,Female,Separated,No,"<5,000",1
+Bilaiden Panganiban,Catholic,Currently Studying,No,No,None,None,1,6,Male,Single,No,"<5,000",1
+Aries Gutierrez,Catholic,Secondary,No,No,None,4ps,1,23,Male,Married,No,"<5,000",1
+Eya Tulbo,Catholic,Secondary,No,No,None,None,1,23,Female,Married,Yes,"<5,000",1
+Kathlyn Gutierrez,Catholic,Secondary,No,No,None,Pension,1,91,Female,Widow,Yes,"11,000-20,000",3
+Joseph De Dios,Catholic,College,Yes,No,None,None,1,49,Male,Married,Yes,"<5,000",1
+Rosa De Dios,Catholic,College,Yes,No,Business Owner,Business Income,1,54,Female,Married,Yes,"21,000-30,000",4
+Ayessa De Dios,Catholic,Currently Studying,Yes,No,None,Student's Allowance,1,20,Female,Single,No,"<5,000",1
+Joseph De Dios Jr.,Catholic,Currently Studying,Yes,No,None,Student's Allowance,1,18,Male,Single,No,"<5,000",1
+Grant De Dios,Catholic,Currently Studying,Yes,No,None,Student's Allowance,1,18,Male,Single,No,"<5,000",1
+Arnel Juntantza,Catholic,College,No,Yes,None,4ps,1,38,Male,Single,No,"<5,000",1
+Glenn Pacheco,Catholic,Secondary,Yes,No,Driver,Work Income,1,36,Male,Married,Yes,"<5,000",1
+Karen Pacheco,Catholic,College,Yes,No,Teacher,Work Salary,1,33,Female,Married,Yes,"11,000-20,000",3
+Charles Pacheco,Catholic,Not Yet Studying,Yes,No,None,None,1,0,Male,Single,No,"<5,000",1
+Patrick Catalig,Catholic,Secondary,No,No,None,None,1,40,Male,Married,Yes,"11,000-20,000",3
+Jennifer Catalig,Catholic,College,No,No,Office,Work Salary,1,41,Female,Married,Yes,"11,000-20,000",3
+Azineth Catalig,Catholic,Currently Studying,No,No,None,Student's Allowance,1,17,Female,Single,No,"<5,000",1
+Anizean Catalig,Catholic,Currently Studying,No,No,None,Student's Allowance,1,9,Female,Single,No,"<5,000",1
+Eligio Dela Pena,Catholic,Elementary,No,No,None,4ps,1,70,Male,Separated,Yes,"<5,000",1
+Lorenzo Carpio,Catholic,College,No,No,Seaman,Work Salary,1,54,Male,Married,Yes,"21,000-30,000",4
+Anha Carpio,Catholic,Secondary,No,No,None,None,1,45,Female,Married,Yes,"11,000-20,000",3
+Reenan Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,19,Male,Single,No,"<5,000",1
+Renzo Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,18,Male,Single,No,"<5,000",1
+Reign Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,12,Male,Single,No,"<5,000",1
+Rosalinda Samson,Adventist,Elementary,No,No,None,Pension,1,82,Female,Widow,No,"11,000-20,000",3
+Rhoda Nebustes,Adventist,Secondary,No,No,None,None,1,49,Female,Married,No,"<5,000",1
+Ruben Nebustes,Adventist,College,No,No,None,Pension,1,0,Male,Married,No,"11,000-20,000",3
+Kim Nichole Nebustes,Adventist,Currently Studying,No,No,None,Student's Allowance,1,22,Male,Single,No,"<5,000",1
+Princess Nebustes,Adventist,Currently Studying,No,No,None,Student's Allowance,1,14,Female,Single,No,"<5,000",1
+Vanessa Samson,Adventist,College,No,No,OFW,Student's Allowance,1,0,Female,Separated,Yes,"21,000-30,000",4
+Kent Montalana,Adventist,Currently Studying,No,No,None,Student's Allowance,1,17,Male,Single,Yes,"<5,000",1
+Kate Aneska,Adventist,Unknown,No,No,None,None,1,0,Female,Single,Yes,"<5,000",1
+Kim Samson,Adventist,Secondary,No,No,Factory,Work Salary,1,27,Male,Married,Yes,"11,000-20,000",3
+Sunshine Samson,Adventist,Not Yet Studying,No,No,None,None,1,5,Female,Single,No,"<5,000",1
+Juana Samson,Adventist,Currently Studying,No,No,None,Student's Allowance,1,7,Female,Single,No,"<5,000",1
+Cristino Osmundo,Born Again,Secondary,Yes,No,OFW,Work Salary,1,62,Male,Married,Yes,"21,000-30,000",4
+Celestina Osmundo,Born Again,Secondary,Yes,No,None,None,1,62,Female,Married,Yes,"21,000-30,000",4
+Cristino Osmundo Jr.,Born Again,Secondary,Yes,No,OFW,Work Salary,1,29,Male,Single,Yes,"21,000-30,000",4
+Crisnon Osmundo,Born Again,Secondary,No,No,OFW,Work Salary,1,39,Male,Married,Yes,"21,000-30,000",4
+Marlene Osmundo,Born Again,Secondary,No,No,Parlor,Business Income,1,39,Female,Married,Yes,"11,000-20,000",3
+Cecille Osmundo,Born Again,Currently Studying,No,No,None,Student's Allowance,1,13,Female,Single,No,"<5,000",1
+Christian Osmundo,Born Again,Not Yet Studying,No,No,None,None,1,4,Male,Single,No,"<5,000",1
+Rebecca Dela Pena,Born Again,Secondary,No,No,None,4ps,1,67,Female,Separated,No,"<5,000",1
+Roger Dela Pena,Born Again,Secondary,No,No,Utility,Work Salary,1,36,Male,Single,Yes,"11,000-20,000",3
+Rose Anne Dela Pena,Born Again,College,No,No,Office,Work Salary,1,35,Female,Single,Yes,"11,000-20,000",3
+Manio Banaag,Catholic,Elementary,No,No,None,None,1,55,Male,Single,Yes,"<5,000",1
+Joey Banaag Sr.,Catholic,Secondary,Yes,No,None,None,1,43,Male,Married,Yes,"<5,000",1
+Allen Montemayor,Catholic,Secondary,Yes,No,None,None,1,32,Female,Married,Yes,"<5,000",1
+Joey Banaag Jr.,Catholic,Currently Studying,Yes,No,None,Student's Allowance,1,9,Male,Single,Yes,"<5,000",1
+Claudia Halili,Catholic,Elementary,No,No,Business Owner,Business Income,1,79,Female,Single,Yes,"11,000-20,000",3
+Mamerto Dela Cruz,Catholic,Elementary,No,No,None,4ps,1,80,Male,Married,Yes,"<5,000",1
+Dominga Dela Cruz,Catholic,Elementary,No,No,None,None,1,77,Female,Married,No,"<5,000",1
+Cleotilde Dela Cruz,Catholic,Elementary,No,No,None,None,1,55,Female,Married,Yes,"<5,000",1
+Fernando Dela Cruz,Catholic,Secondary,Yes,Yes,OFW,Work Salary,1,57,Male,Widower,Yes,"21,000-30,000",4
+Angelica Dela Cruz,Catholic,College,Yes,Yes,Office,Work Salary,1,32,Female,Single,No,"11,000-20,000",3
+Fernando Dela Cruz Jr.,Catholic,College,Yes,Yes,Engineer,Work Salary,1,27,Male,Single,Yes,"21,000-30,000",4
+Maybelyn Dela Cruz,Catholic,Currently Studying,Yes,Yes,None,Student's Allowance,1,0,Female,Single,No,"<5,000",1
+Charlie Fransisco,Catholic,Elementary,No,No,Construction,Work Salary,1,58,Male,Married,Yes,"<5,000",1
+Colomina Fransisco,Catholic,Secondary,No,No,None,None,1,68,Female,Married,Yes,"<5,000",1
+Rachelle Fransisco,Catholic,Secondary,No,No,None,4ps,1,28,Female,Married,Yes,"<5,000",1
+Katherine Fransisco,Catholic,Currently Studying,No,No,None,Student's Allowance,1,16,Female,Single,No,"<5,000",1
+Maribel De Mesa,Catholic,Secondary,No,No,Factory,Work Salary,1,24,Female,Married,No,"11,000-20,000",3
+Ryan Santos,Catholic,Secondary,No,No,Driver,Work Income,1,40,Male,Married,Yes,"11,000-20,000",3
+Corazon Santos,Catholic,Secondary,No,No,None,None,1,48,Female,Married,Yes,"<5,000",1
+Jericho Reyes,Catholic,Secondary,No,No,None,None,1,30,Male,Single,No,"<5,000",1
+Joem Sayo,Catholic,Elementary,No,No,None,None,1,31,Male,Single,No,"<5,000",1
+Gerardo Carpio,Catholic,Secondary,No,No,Welder,Work Salary,1,61,Male,Married,Yes,"11,000-20,000",3
+Lina Carpio,Catholic,Secondary,No,No,None,None,1,52,Female,Married,Yes,"<5,000",1
+Gerald Carpio,Catholic,College,No,No,Factory,Work Salary,1,24,Male,Single,Yes,"11,000-20,000",3
+Ceelyn Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,16,Female,Single,No,"<5,000",1
+Leticia Carpio,Catholic,Elementary,No,No,None,Pension,1,82,Female,Widow,Yes,"11,000-20,000",3
+Gerry Carpio,Catholic,Secondary,No,No,OFW,Work Salary,1,37,Male,Married,Yes,"21,000-30,000",4
+Coleen Carpio,Catholic,Secondary,No,No,None,None,1,30,Female,Married,Yes,"<5,000",1
+Norma Halili,Catholic,Elementary,No,No,None,Pension,1,74,Female,Widow,Yes,"11,000-20,000",3
+Ma. Anna Halili,Catholic,College,No,No,Teacher,Work Salary,1,49,Female,Single,Yes,"11,000-20,000",3
+Joselito Halili,Catholic,College,No,No,None,None,1,45,Male,Single,No,"11,000-20,000",3
+Gemma Halili,Catholic,College,No,No,Teacher,Work Salary,1,54,Female,Separated,Yes,"11,000-20,000",3
+Lennor Angelo,Catholic,College,No,No,None,None,1,23,Male,Single,No,"<5,000",1
+Giltoni Grabradon,Catholic,Secondary,No,No,Factory,Work Salary,1,43,Male,Married,Yes,"11,000-20,000",3
+Hannah Virtudazo,Catholic,Elementary,No,No,None,None,1,51,Female,Married,Yes,"<5,000",1
+Rupita Reyes,Adventist,Elementary,No,No,None,Pension,1,63,Female,Separated,Yes,"11,000-20,000",3
+Rolda De Guzman,Adventist,College,No,No,OFW,Work Salary,1,35,Male,Single,Yes,"21,000-30,000",4
+Marion De Guzman,Catholic,Elementary,No,Yes,Fisherman,Work Income,1,70,Male,Married,Yes,"<5,000",1
+Irene De Guzman,Catholic,Elementary,No,Yes,Office,Work Salary,1,65,Female,Married,Yes,"11,000-20,000",3
+Jobelyn De Guzman,Catholic,Currently Studying,No,No,None,Student's Allowance,1,24,Female,Single,No,"<5,000",1
+Lornelio De Guzman,Catholic,Elementary,No,No,None,Pension,1,78,Male,Widower,Yes,"11,000-20,000",3
+Jayson De Guzman,Catholic,Currently Studying,No,No,None,Student's Allowance,1,26,Male,Single,No,"<5,000",1
+Paulino Reyes,Catholic,College,No,No,None,None,1,58,Male,Married,Yes,"<5,000",1
+Teresita Reyes,Catholic,College,No,No,None,None,1,68,Female,Married,Yes,"<5,000",1
+Maricar Sebastian,Catholic,College,No,No,OFW,Work Salary,1,40,Female,Single,Yes,"21,000-30,000",4
+Rafflor De Guzman,Born Again,College,No,No,OFW,Work Salary,1,43,Male,Married,Yes,"21,000-30,000",4
+Ma. Teresita De Guzman,Born Again,College,No,No,OFW,Work Salary,1,42,Female,Married,Yes,"21,000-30,000",4
+Honorio De Belen,Catholic,College,No,Yes,Construction,Work Salary,1,55,Male,Married,Yes,"11,000-20,000",3
+Cynthia De Belen,Catholic,College,No,Yes,None,None,1,54,Female,Married,Yes,"<5,000",1
+Diane De Belen,Catholic,College,No,Yes,OFW,Work Salary,1,28,Female,Single,No,"21,000-30,000",4
+Dave De Belen,Catholic,College,No,Yes,None,None,1,26,Male,Single,No,"<5,000",1
+Dennis De Belen,Catholic,Secondary,No,No,None,None,1,31,Male,Married,No,"<5,000",1
+Loreto Sebastian,Catholic,Secondary,No,No,OFW,Work Salary,1,52,Male,Married,Yes,"21,000-30,000",4
+Ma. Lorraine Sebastian,Catholic,Currently Studying,No,No,None,Student's Allowance,1,23,Female,Single,No,"<5,000",1
+John Paul Sebastian,Catholic,Currently Studying,No,No,None,Student's Allowance,1,21,Male,Single,No,"<5,000",1
+Orlando Diama,Catholic,Secondary,No,No,None,None,1,0,Male,Single,Yes,"<5,000",1
+Carlos Virtudazo,Catholic,College,Yes,No,Retired,Pension,1,67,Male,Separated,Yes,"11,000-20,000",3
+Cosie Virtudazo,Catholic,College,Yes,No,None,4ps,1,26,Male,Single,Yes,"<5,000",1
+Shyrene Virtudazo,Catholic,Currently Studying,Yes,No,None,None,1,6,Female,Single,No,"<5,000",1
+Ayessa Mae Virtudazo,Catholic,Currently Studying,Yes,No,None,None,1,9,Female,Single,No,"<5,000",1
+Patricinio Enriquez,Catholic,Secondary,No,No,Driver,Work Income,1,70,Male,Married,Yes,"<5,000",1
+Maximina Enriquez,Catholic,Secondary,No,No,Business Owner,Business Income,1,59,Female,Married,Yes,"11,000-20,000",3
+Pia Marie Enriquez,Catholic,College,No,No,None,None,1,34,Female,Single,No,"<5,000",1
+Zoxinio Enriquez,Catholic,Secondary,No,No,None,None,1,59,Male,Married,No,"<5,000",1
+Dinafe Enriquez,Catholic,Secondary,No,No,Laundry,Work Income,1,34,Female,Married,No,"<5,000",1
+Severina Dela Cruz,Catholic,Secondary,No,No,None,None,1,73,Female,Married,Yes,"11,000-20,000",3
+Delio Dela Cruz,Catholic,College,No,No,Manager,Work Salary,1,41,Male,Married,Yes,"11,000-20,000",3
+Rosalinda Dela Cruz,Catholic,College,No,No,None,None,1,42,Female,Married,Yes,"<5,000",1
+Lean Joy Dela Cruz,Catholic,Currently Studying,No,No,None,Student's Allowance,1,19,Female,Single,No,"<5,000",1
+Leandro Dela Cruz,Catholic,Currently Studying,No,No,None,Student's Allowance,1,13,Male,Single,No,"<5,000",1
+Pedro Bayan,Catholic,Secondary,No,No,Business Owner,Business Income,1,39,Male,Single,No,"11,000-20,000",3
+Sofronio Antonio,Catholic,Elementary,No,Yes,None,Pension,1,76,Male,Widower,Yes,"11,000-20,000",3
+Rolando Galang,Catholic,College,No,No,Foreman,Work Salary,1,53,Male,Married,Yes,"11,000-20,000",3
+Amelia Galang,Catholic,Secondary,No,No,None,None,1,48,Female,Married,Yes,"<5,000",1
+Ronamae Galang,Catholic,College,No,No,None,None,1,31,Female,Single,No,"<5,000",1
+Rolando Galang Jr.,Catholic,College,No,No,Construction,Work Salary,1,26,Male,Single,No,"11,000-20,000",3
+Joselito Constantino,Catholic,Secondary,No,No,Driver,Work Income,1,57,Male,Married,Yes,"11,000-20,000",3
+Joseph Constantino,Catholic,Currently Studying,No,No,None,Student's Allowance,1,21,Male,Single,No,"<5,000",1
+Jobelle Constantino,Catholic,Currently Studying,No,No,None,Student's Allowance,1,20,Female,Single,No,"<5,000",1
+Ernesto Halili,Catholic,Elementary,No,No,Volunteer,4ps,1,66,Male,Married,Yes,"<5,000",1
+Loreta Halili,Catholic,Elementary,No,No,None,None,1,56,Female,Married,Yes,"<5,000",1
+Ma. Christina Halili,Catholic,College,No,No,OFW,Work Salary,1,30,Female,Married,Yes,"21,000-30,000",4
+Krizza Marie Halili,Catholic,College,No,No,Teacher,Work Salary,1,25,Female,Married,Yes,"21,000-30,000",4
+Felix Bernardo,Catholic,College,No,No,None,None,1,64,Male,Married,Yes,"<5,000",1
+Editha Bernardo,Catholic,College,No,No,Nurse,Work Salary,1,64,Female,Married,Yes,"11,000-20,000",3
+Von Ryan Bernardo,Catholic,College,No,No,OFW,Work Salary,1,27,Male,Single,Yes,"21,000-30,000",4
+Thessa Bernardo,Catholic,Secondary,No,Yes,None,None,1,0,Female,Married,No,"<5,000",1
+Noah Bernardo,Catholic,College,No,Yes,None,None,1,0,Male,Single,No,"<5,000",1
+Crisanto Dela Cruz,Catholic,Secondary,No,No,Driver,Work Income,1,50,Male,Married,Yes,"<5,000",1
+Jenneth Dela Cruz,Catholic,Secondary,No,No,None,None,1,44,Female,Married,No,"<5,000",1
+Chris John Dela Cruz,Catholic,Currently Studying,No,No,None,Student's Allowance,1,14,Male,Single,No,"<5,000",1
+Anthony Dela Cruz,Catholic,Secondary,No,No,None,None,1,18,Male,Single,No,"<5,000",1
+Cifriano De Guzman,Catholic,Elementary,No,No,Driver,Work Income,1,70,Male,Married,Yes,"<5,000",1
+Regina De Guzman,Catholic,Elementary,No,No,None,Pension,1,72,Female,Married,Yes,"11,000-20,000",3
+Joel De Guzman,Catholic,Secondary,No,No,Driver,Work Income,1,42,Male,Married,Yes,"<5,000",1
+Analyn De Guzman,Catholic,Secondary,No,No,None,None,1,40,Female,Married,No,"<5,000",1
+John Joel De Guzman,Catholic,Not Yet Studying,No,No,None,None,1,5,Male,Single,No,"<5,000",1
+Felifa Vasquez,Catholic,Elementary,No,No,None,Pension,1,59,Female,Married,Yes,"11,000-20,000",3
+Crisanto Vasquez,Catholic,Elementary,No,No,Office,Work Salary,1,31,Male,Single,Yes,"11,000-20,000",3
+Rodelio Velasco Jr.,Catholic,Secondary,No,No,None,None,1,59,Male,Married,Yes,"<5,000",1
+Marissa Velasco,Catholic,Secondary,No,No,None,4ps,1,59,Female,Married,Yes,"<5,000",1
+Rommel Velasco,Catholic,College,No,No,None,None,1,38,Male,Single,Yes,"<5,000",1
+Michael Faustino,Born Again,College,Yes,No,Office,Work Salary,1,40,Male,Married,Yes,"11,000-20,000",3
+Jelly Faustino,Born Again,College,Yes,No,None,None,1,32,Female,Married,Yes,"11,000-20,000",3
+Miggy Faustino,Born Again,Currently Studying,Yes,No,None,Student's Allowance,1,12,Male,Single,No,"<5,000",1
+Matea Faustino,Born Again,Currently Studying,Yes,No,None,Student's Allowance,1,9,Female,Single,No,"<5,000",1
+Ernesto Delos Angeles,Catholic,Secondary,No,No,None,None,1,64,Male,Married,Yes,"<5,000",1
+Irene Delos Angeles,Catholic,Secondary,No,No,None,Pension,1,72,Female,Married,Yes,"11,000-20,000",3
+Mylene Delos Angeles,Catholic,College,No,No,Office,Work Salary,1,39,Female,Married,Yes,"11,000-20,000",3
+Alexa Dela Cruz,Catholic,Currently Studying,No,No,None,Student's Allowance,1,19,Female,Single,No,"<5,000",1
+Fernando Bayan,Catholic,Secondary,No,No,Driver,Work Income,1,58,Male,Single,Yes,"<5,000",1
+Felix Bayan,Catholic,Secondary,No,No,Construction,Work Salary,1,63,Male,Married,Yes,"<5,000",1
+Anicita Bayan,Catholic,Secondary,No,No,None,None,1,64,Female,Married,Yes,"<5,000",1
+Monchie Manggaya,Catholic,College,No,No,Factory,Work Salary,1,43,Female,Married,Yes,"11,000-20,000",3
+Annalyn Manggaya,Catholic,Secondary,No,No,Factory,Work Salary,1,39,Female,Separated,Yes,"11,000-20,000",3
+Francis Bayan,Catholic,Secondary,No,No,None,None,1,40,Male,Married,No,"<5,000",1
+Irene Bayan,Catholic,Secondary,No,No,OFW,Work Salary,1,38,Female,Married,Yes,"21,000-30,000",4
+Melannie Ong,Catholic,College,No,No,None,None,1,42,Female,Separated,Yes,"<5,000",1
+Dan Ong,Catholic,Secondary,No,No,None,None,1,22,Male,Married,No,"<5,000",1
+Elaine Ong,Catholic,Secondary,No,No,None,4ps,1,25,Female,Married,No,"<5,000",1
+Paul Ong,Catholic,Secondary,No,No,None,None,1,0,Male,Married,No,"<5,000",1
+Danilo Reyes,Catholic,Secondary,No,No,None,None,1,72,Male,Married,Yes,"<5,000",1
+Felicitas Reyes,Catholic,Elementary,No,No,Business Owner,Business Income,1,0,Female,Married,Yes,"11,000-20,000",3
+Dieniel Fajardo,Catholic,Secondary,No,No,Driver,Work Income,1,0,Male,Married,Yes,"<5,000",1
+Theressa Fajardo,Catholic,Secondary,No,No,None,None,1,0,Female,Married,Yes,"<5,000",1
+Daniela Fajardo,Catholic,College,No,No,Office,Work Salary,1,0,Female,Single,Yes,"11,000-20,000",3
+Freddie Santos,Catholic,Secondary,No,No,Driver,Work Income,1,56,Male,Married,Yes,"<5,000",1
+Teofila Santos,Catholic,Elementary,No,No,Lender,Work Income,1,52,Female,Married,Yes,"11,000-20,000",3
+Juan Miguel Santos,Catholic,College,No,No,Office,Work Salary,1,24,Male,Single,Yes,"11,000-20,000",3
+Fernando Santos,Catholic,Secondary,No,No,None,None,1,0,Male,Single,No,"<5,000",1
+Ma. Christina Santos,Catholic,Secondary,No,No,SDA,Work Income,1,35,Female,Separated,Yes,"11,000-20,000",3
+Joshua Santos,Catholic,Currently Studying,No,No,None,Student's Allowance,1,17,Male,Single,No,"<5,000",1
+Virgilio Serrano,Catholic,Secondary,No,No,Furniture,Work Income,1,42,Male,Married,Yes,"11,000-20,000",3
+Flaviana Serrano,Catholic,Secondary,No,No,Laundry,Work Income,1,52,Female,Married,Yes,"<5,000",1
+Joana Hazel Serrano,Catholic,College,No,No,Office,Work Salary,1,23,Female,Single,Yes,"11,000-20,000",3
+Jarred Serrano,Catholic,Currently Studying,No,No,None,Student's Allowance,1,15,Male,Single,No,"<5,000",1
+John Paul Serrano,Catholic,College,No,No,None,None,1,26,Male,Single,No,"<5,000",1
+Reynaldo Macasaet,Catholic,Secondary,No,No,Construction,Work Salary,1,56,Male,Married,Yes,"11,000-20,000",3
+Nelly Macasaet,Catholic,Secondary,No,No,None,None,1,56,Female,Married,No,"<5,000",1
+Reynaldo Macasaet Jr.,Catholic,Secondary,No,No,Construction,Work Salary,1,25,Male,Single,Yes,"<5,000",1
+Ramon Halili,Catholic,Secondary,No,No,Construction,Work Salary,1,53,Male,Married,Yes,"<5,000",1
+Aurora Halili,Catholic,Elementary,No,No,None,None,1,55,Female,Married,Yes,"<5,000",1
+Anne Halili,Catholic,Currently Studying,No,No,None,Student's Allowance,1,20,Female,Single,No,"<5,000",1
+Hyun Jiro Halili,Catholic,Unknown,No,No,None,None,1,0,Male,Single,No,"<5,000",1
+Juanito Sebastian,Catholic,Secondary,No,Yes,Construction,Work Salary,1,23,Male,Married,Yes,"<5,000",1
+Olympia Sebastian,Catholic,Secondary,No,Yes,Business Owner,Business Income,1,54,Female,Married,No,"11,000-20,000",3
+John Michael Sebastian,Catholic,Secondary,No,Yes,None,None,1,26,Male,Married,No,"<5,000",1
+Reynaldo Sebastian,Catholic,Secondary,No,Yes,Landscape,Work Income,1,49,Male,Married,Yes,"11,000-20,000",3
+Hannie Sebastian,Catholic,Secondary,No,Yes,None,Sideline,1,47,Female,Married,Yes,"<5,000",1
+Rosalinda Yap,Catholic,Secondary,No,No,None,Pension,1,91,Female,Widow,Yes,"11,000-20,000",3
+Ester Arellano,Adventist,Secondary,No,No,None,Pension,1,81,Female,Widow,Yes,"11,000-20,000",3
+Loida Arellano,Adventist,Secondary,No,No,None,Pension,1,76,Female,Widow,Yes,"11,000-20,000",3
+Melencio Arellano,Adventist,Secondary,No,No,None,None,1,56,Male,Widower,Yes,"<5,000",1
+Reynaldo Arellano,Born Again,Secondary,Yes,No,Contractor,Work Salary,1,57,Male,Married,Yes,"11,000-20,000",3
+Feliza Arellano,Born Again,Elementary,No,No,None,Pension,1,91,Female,Widow,Yes,"<5,000",1
+Leilani Pineda,Born Again,Secondary,Yes,No,None,None,1,52,Female,Separated,Yes,"<5,000",1
+Lean Eunice Pineda,Born Again,Currently Studying,Yes,No,Business Owner,Business Income,1,22,Female,Single,No,"11,000-20,000",3
+Basilia Santos,Born Again,Secondary,No,No,None,None,1,66,Female,Widow,Yes,"<5,000",1
+Allan Santos,Born Again,Secondary,No,No,Painter,Work Salary,1,46,Male,Married,Yes,"<5,000",1
+Vilma Santos,Born Again,Secondary,No,No,Laundry,Work Salary,1,53,Female,Married,No,"<5,000",1
+Precious Santos,Born Again,Currently Studying,No,No,None,Student's Allowance,1,21,Female,Single,No,"<5,000",1
+Emlen Dela Cruz,Adventist,Secondary,No,No,Foreman,Work Salary,1,57,Male,Married,Yes,"11,000-20,000",3
+Susan Dela Cruz,Adventist,Secondary,No,No,None,None,1,53,Female,Married,No,"<5,000",1
+Roselyn Dela Cruz,Adventist,College,No,No,Office,Work Salary,1,27,Female,Single,Yes,"11,000-20,000",3
+Model Sangoyo,Catholic,Secondary,No,No,None,None,1,36,Male,Married,Yes,"<5,000",1
+Andrea Sangoyo,Catholic,Secondary,No,No,OFW,Work Salary,1,26,Female,Married,Yes,"21,000-30,000",4
+Leonardo Castro,Catholic,Secondary,No,No,None,None,1,0,Male,Married,Yes,"<5,000",1
+Jennylyn Castro,Catholic,Secondary,No,No,None,4ps,1,0,Female,Married,Yes,"<5,000",1
+Benedicto Dela Cruz,Catholic,College,No,No,None,None,1,59,Male,Married,Yes,"<5,000",1
+Elizabeth Dela Cruz,Catholic,College,No,No,Construction,Work Salary,1,58,Female,Married,Yes,"<5,000",1
+Bernardino Dela Cruz,Catholic,College,No,No,None,Sideline,1,39,Male,Married,Yes,"<5,000",1
+Dina Dela Cruz,Catholic,College,No,No,None,Sideline,1,24,Female,Married,Yes,"<5,000",1
+Joy Anne Dela Cruz,Catholic,Secondary,No,No,None,None,1,0,Female,Single,Yes,"<5,000",1
+Vermon Nakpil,Catholic,Secondary,Yes,No,None,4ps,1,43,Male,Married,Yes,"<5,000",1
+Jenalyn Nakpil,Catholic,Secondary,Yes,Yes,None,4ps,1,36,Female,Married,Yes,"<5,000",1
+Raffy Dela Pena,Catholic,Elementary,Yes,Yes,Business Owner,Business Income,1,0,Male,Single,Yes,"<5,000",1
+Rebulto Ambino,Catholic,College,No,No,OFW,Work Salary,1,57,Male,Married,Yes,"21,000-30,000",4
+Cecilia Ambino,Catholic,College,No,No,None,Sideline,1,54,Female,Married,Yes,"<5,000",1
+Precious Ambino,Catholic,Currently Studying,No,No,None,Student's Allowance,1,13,Female,Single,No,"<5,000",1
+Reynaldo Arellano,Born Again,College,Yes,No,Contractor,Work Salary,1,58,Male,Married,Yes,"11,000-20,000",3
+Marina Arellano,Born Again,College,Yes,No,None,None,1,57,Female,Married,Yes,"<5,000",1
+Adriane Arellano,Born Again,College,Yes,No,Office,Work Salary,1,26,Male,Single,Yes,"11,000-20,000",3
+Deserei Arellano,Born Again,College,Yes,No,Office,Work Salary,1,22,Female,Single,Yes,"11,000-20,000",3
+Lolita Genenoso,Catholic,Unknown,No,No,None,4ps,1,0,Female,Unknown,Yes,"<5,000",1
+Juanito Dela Pena,Catholic,Secondary,No,No,None,Sideline,1,59,Male,Married,Yes,"<5,000",1
+Leodora Dela Pena,Catholic,College,No,No,None,Sideline,1,55,Female,Married,Yes,"<5,000",1
+John Lerry Dela Pena,Catholic,Currently Studying,No,No,None,Student's Allowance,1,18,Male,Single,No,"<5,000",1
+John Santiago,Catholic,Secondary,Yes,No,Contractor,Work Salary,1,66,Male,Married,Yes,"11,000-20,000",3
+Rosalinda Santiago,Catholic,Secondary,No,No,None,None,1,67,Female,Married,No,"11,000-20,000",3
+Harolden Antonio,Catholic,College,Yes,Yes,Contractor,Work Salary,1,38,Male,Married,Yes,"11,000-20,000",3
+Rhia Antonio,Catholic,College,Yes,Yes,None,None,1,38,Female,Married,Yes,"<5,000",1
+Juan Felipe Antonio,Catholic,Currently Studying,No,No,None,Student's Allowance,1,0,Male,Single,No,"<5,000",1
+Brian Vivar,Catholic,College,Yes,No,None,None,1,41,Male,Single,Yes,"<5,000",1
+John Lloyd Antonio,Catholic,College,Yes,No,OFW,Work Salary,1,36,Male,Single,Yes,"<5,000",1
+Mary Grace Antonio,Catholic,College,Yes,No,Office,Work Salary,1,33,Female,Separated,Yes,"11,000-20,000",3
+Luiz Juaquin Antonio,Catholic,College,Yes,No,None,None,1,10,Male,Single,Yes,"<5,000",1
+Rhapael Antonio,Catholic,Secondary,No,Yes,Office,Work Salary,1,43,Male,Married,Yes,"11,000-20,000",3
+Marjorie Antonio,Catholic,Secondary,No,Yes,None,None,1,40,Female,Married,Yes,"<5,000",1
+Jose Paulo Antonio,Catholic,Secondary,Yes,Yes,Barangay Official,Work Salary,1,46,Male,Married,Yes,"11,000-20,000",3
+Reye Antonio,Catholic,Secondary,Yes,Yes,Business Owner,Business Income,1,45,Female,Married,Yes,"11,000-20,000",3
+Juan Miguel Antonio,Catholic,Currently Studying,Yes,Yes,None,Student's Allowance,1,20,Male,Single,No,"<5,000",1
+Carmen Santiago,Catholic,Secondary,No,No,None,Pension,1,88,Female,Widow,Yes,"<5,000",1
+Annie Alvarez,Catholic,Secondary,No,Yes,None,Sideline,1,54,Female,Married,Yes,"<5,000",1
+Loreto Alvarez,Catholic,Secondary,No,Yes,None,Sideline,1,15,Male,Married,Yes,"<5,000",1
+Jericho Negado,Catholic,Secondary,Yes,No,None,Sideline,1,35,Male,Married,Yes,"<5,000",1
+Jennyruth Negado,Catholic,College,Yes,No,Teacher,Work Salary,1,19,Female,Married,Yes,"11,000-20,000",3
+Ma. Rosie Robles,Catholic,Secondary,Yes,No,Staff,Work Salary,1,38,Male,Single,Yes,"11,000-20,000",3
+Noel Carpio,Catholic,Secondary,No,No,Utility,Work Salary,1,54,Male,Married,Yes,"11,000-20,000",3
+Celestina Carpio,Catholic,Secondary,No,No,None,None,1,51,Female,Married,Yes,"11,000-20,000",3
+John Anthony Carpio,Catholic,College,No,No,Office,Work Salary,1,25,Male,Single,Yes,"11,000-20,000",3
+Christine Carpio,Catholic,College,No,No,None,4ps,1,23,Female,Single,Yes,"<5,000",1
+Niel Christian Carpio,Catholic,College,No,No,None,None,1,20,Male,Single,Yes,"<5,000",1
+Dennis Dionisio,Catholic,College,No,Yes,OFW,Work Salary,1,45,Male,Married,Yes,"21,000-30,000",4
+Lorena Dionisio,Catholic,College,No,Yes,Kitchen,Work Salary,1,51,Female,Married,Yes,"11,000-20,000",3
+Marcelino Delos Santos,Catholic,Elementary,Yes,No,None,Sideline,1,0,Male,Married,Yes,"<5,000",1
+Heidie Ramos,Catholic,Elementary,No,No,None,Sideline,1,0,Female,Married,Yes,"<5,000",1
+Flor Tomacruz,Catholic,Elementary,Yes,No,None,Pension,1,69,Female,Single,Yes,"<5,000",1
+Andres Tomacruz,Catholic,Secondary,Yes,No,Poultry,Work Income,1,59,Male,Married,Yes,"11,000-20,000",3
+Morecita Tomacruz,Catholic,Secondary,Yes,No,None,None,1,58,Female,Married,Yes,"11,000-20,000",3
+Robina Tomacruz,Catholic,Secondary,Yes,No,None,4ps,1,31,Male,Single,No,"<5,000",1
+Angel Tomacruz,Catholic,College,Yes,No,Business Owner,Business Income,1,23,Female,Single,No,"11,000-20,000",3
+Joseph Bardos,Catholic,Secondary,No,No,Construction,Work Salary,1,56,Male,Married,Yes,"<5,000",1
+Marlene Bardos,Catholic,Secondary,No,No,None,4ps,1,56,Female,Married,Yes,"<5,000",1
+Randy De Leon,Catholic,College,No,No,Police,Work Salary,1,55,Male,Married,Yes,"21,000-30,000",4
+Zenaida Garcia,Catholic,College,No,No,None,None,1,63,Female,Married,Yes,"<5,000",1
+Salvador Garcia,Catholic,College,No,No,None,Pension,1,83,Male,Married,No,"<5,000",1
+Rosalinda Garcia,Catholic,Secondary,No,No,None,Pension,1,82,Female,Married,Yes,"<5,000",1
+Patricia Tomacruz,Catholic,Elementary,No,No,None,Pension,1,77,Female,Widow,Yes,"11,000-20,000",3
+Kabayo Del Rosario,Catholic,Secondary,Yes,No,None,None,1,48,Male,Married,Yes,"<5,000",1
+Analyn Del Rosario,Catholic,Secondary,Yes,No,OFW,Work Salary,1,46,Female,Married,Yes,"21,000-30,000",4
+Eliseo Del Rosario,Catholic,Secondary,Yes,No,None,Sideline,1,43,Male,Married,No,"<5,000",1
+Anamay Del Rosario,Catholic,Secondary,Yes,No,None,Sideline,1,44,Female,Married,Yes,"<5,000",1
+Nikko Del Rosario,Catholic,College,Yes,No,Office,Work Salary,1,25,Male,Single,No,"11,000-20,000",3
+Edwin Manabat,Catholic,Secondary,No,No,Construction,Work Salary,1,44,Male,Separated,Yes,"<5,000",1
+Rowena Manansala,Catholic,Unknown,No,No,None,4ps,1,55,Female,Unknown,Yes,"<5,000",1
+Justine Menor,Catholic,Currently Studying,No,No,None,Student's Allowance,1,15,Male,Single,No,"<5,000",1
+Noel Menor,Catholic,Secondary,Yes,No,None,None,1,63,Male,Married,Yes,"<5,000",1
+Rufo Cabral,Catholic,Secondary,No,No,Construction,Work Salary,1,36,Male,Married,Yes,"<5,000",1
+Maricel Cabral,Catholic,Secondary,No,No,None,Sideline,1,36,Female,Married,No,"<5,000",1
+Ricardo Aviguetero,Catholic,Secondary,No,Yes,None,Pension,1,70,Male,Married,Yes,"11,000-20,000",3
+Emerita Aviguetero,Catholic,Secondary,No,Yes,None,Pension,1,70,Female,Married,Yes,"11,000-20,000",3
+Germaine Aviguetero,Catholic,College,No,Yes,Office,Work Salary,1,33,Female,Married,Yes,"11,000-20,000",3
+Jemric Aviguetero,Catholic,Secondary,No,Yes,None,4ps,1,38,Male,Married,No,"<5,000",1
+Dorothy Joy Aviguetero,Catholic,College,No,No,OFW,Work Salary,1,35,Female,Married,Yes,"21,000-30,000",4
+Lazaro Enriquez,Catholic,College,No,No,OFW,Work Salary,1,44,Male,Married,Yes,"21,000-30,000",4
+Aurora Enriquez,Catholic,College,No,No,Teacher,Work Salary,1,46,Female,Married,Yes,"21,000-30,000",4
+Lerry Enriquez,Catholic,Currently Studying,No,No,None,Student's Allowance,1,16,Male,Single,No,"<5,000",1
+Ramiro Sebasatian,Catholic,Elementary,No,No,Driver,Work Income,1,62,Male,Widower,Yes,"<5,000",1
+Martin Cruz,Catholic,Elementary,Yes,No,Driver,Work Income,1,65,Male,Married,Yes,"<5,000",1
+Flordeliza Cruz,Catholic,Secondary,Yes,No,None,Pension,1,64,Female,Married,No,"<5,000",1
+Mark Limuel Cruz,Catholic,College,No,Yes,None,None,1,36,Male,Single,Yes,"<5,000",1
+Martin Julian Cruz,Catholic,College,No,Yes,None,None,1,28,Male,Single,Yes,"<5,000",1
+Bienvinido Sebastian,Catholic,Secondary,No,Yes,None,4ps,1,53,Male,Widower,Yes,"<5,000",1
+Bea Marie Sebastian,Catholic,College,No,Yes,None,None,1,34,Female,Single,Yes,"<5,000",1
+Blean Sebastian,Catholic,College,Yes,No,Office,Work Salary,1,29,Female,Single,Yes,"11,000-20,000",3
+Lorenza Sebastian,Catholic,Elementary,Yes,No,Nurse,Work Salary,1,85,Female,Widow,Yes,"11,000-20,000",3
+Nicolas Sebastian,Catholic,College,Yes,No,OFW,Work Salary,1,56,Male,Married,Yes,"21,000-30,000",4
+Meta Sebastian,Catholic,College,No,No,OFW,Work Salary,1,28,Female,Married,Yes,"21,000-30,000",4
+Avelina Arellano,Catholic,Elementary,No,No,None,Sideline,1,81,Female,Widow,No,"<5,000",1
+Ma. Teresita Dano,Catholic,Secondary,No,No,None,None,1,57,Female,Married,Yes,"<5,000",1
+Bonifacio Reyes,Catholic,College,No,No,Seaman,Work Salary,1,51,Male,Married,Yes,"21,000-30,000",4
+Serilina Reyes,Catholic,Secondary,No,No,None,None,1,42,Female,Married,Yes,"<5,000",1
+Roberto Reyes,Catholic,Secondary,No,No,Contractor,Work Income,1,61,Male,Married,Yes,"11,000-20,000",3
+Zenaida Reyes,Catholic,Secondary,No,No,Contractor,Work Income,1,58,Female,Married,Yes,"11,000-20,000",3
+Arwin Linag,Catholic,Secondary,No,No,Business Owner,Business Income,1,34,Male,Married,Yes,"11,000-20,000",3
+Rizza Reyes,Catholic,Secondary,No,No,None,4ps,1,27,Female,Married,No,"<5,000",1
+Jimmy Garcia,Catholic,Secondary,No,No,Construction,Work Salary,1,36,Male,Married,No,"<5,000",1
+Roselle Garcia,Catholic,Secondary,No,No,None,None,1,34,Female,Married,Yes,"<5,000",1
+Lyndon Mercado,Catholic,Secondary,No,No,Bakery,Business Income,1,43,Male,Married,Yes,"11,000-20,000",3
+Rosario Mercado,Catholic,Secondary,No,No,Bakery,Business Income,1,41,Female,Married,No,"11,000-20,000",3
+Antonio Cruz,Catholic,Elementary,Yes,Yes,None,Pension,1,75,Male,Married,No,"11,000-20,000",3
+Luzia Cruz,Catholic,Elementary,Yes,Yes,None,Pension,1,65,Female,Married,No,"11,000-20,000",3
+Rodelio Garcia,Catholic,Secondary,No,Yes,Driver,Work Income,1,39,Male,Separated,Yes,"11,000-20,000",3
+Fransisco Garcia,Catholic,Elementary,No,Yes,None,Sideline,1,56,Male,Widower,Yes,"11,000-20,000",3
+Elaida Garcia,Catholic,Currently Studying,No,No,None,Student's Allowance,1,18,Female,Single,No,"<5,000",1
+Juan Santos,Catholic,Secondary,No,No,Driver,Work Income,1,66,Male,Married,Yes,"<5,000",1
+Cleotilde Santos,Catholic,College,No,No,None,Sideline,1,65,Female,Married,No,"<5,000",1
+Edieanio Cruz,Catholic,Elementary,No,No,None,4ps,1,91,Male,Married,No,"<5,000",1
+Pacita Cruz,Catholic,Elementary,No,No,None,4ps,1,88,Female,Married,Yes,"<5,000",1
+Alejandro Polintan,Catholic,Secondary,No,No,Business Owner,Business Income,1,73,Male,Married,Yes,"11,000-20,000",3
+Conception Cruz,Catholic,Secondary,No,No,None,Pension,1,81,Female,Married,No,"11,000-20,000",3
+Edward Cruz,Catholic,Secondary,No,No,None,Sideline,1,35,Male,Separated,Yes,"<5,000",1
+Richard Polintan,Catholic,Secondary,Yes,Yes,None,Sideline,1,45,Male,Married,Yes,"<5,000",1
+Joyce Polintan,Catholic,Secondary,Yes,Yes,None,None,1,34,Female,Married,Yes,"<5,000",1
+Anita Montes,Catholic,Secondary,No,Yes,None,Sideline,1,81,Female,Widow,Yes,"<5,000",1
+Reynaldo Cervantes,Catholic,Secondary,No,No,Driver,Work Income,1,60,Male,Married,Yes,"<5,000",1
+Imelda Cervantes,Catholic,Secondary,No,No,None,None,1,61,Female,Married,Yes,"<5,000",1
+Blanca Cervantes,Catholic,College,No,No,Business Owner,Business Income,1,23,Female,Single,Yes,"11,000-20,000",3
+Bianca Cervantes,Catholic,College,No,No,Business Owner,Business Income,1,23,Female,Single,No,"11,000-20,000",3
+Roger Carpio,Catholic,Secondary,No,No,None,4ps,1,60,Male,Married,No,"<5,000",1
+Rosario Carpio,Catholic,Secondary,No,No,None,None,1,60,Female,Married,Yes,"<5,000",1
+Mary Antonette Carpio,Catholic,College,No,No,Office,Work Salary,1,23,Female,Single,Yes,"11,000-20,000",3
+Dex Paul Ramos,Catholic,College,No,No,None,Sideline,1,36,Male,Married,Yes,"11,000-20,000",3
+Ana Patricia Ramos,Catholic,Secondary,No,No,None,Sideline,1,37,Female,Married,No,"<5,000",1
+Adelaida Cruz,Catholic,College,No,No,None,Pension,1,71,Female,Widow,No,"11,000-20,000",3
+Daniel Cruz,Catholic,College,No,No,Office,Sideline,1,36,Male,Married,Yes,"11,000-20,000",3
+Camille Cruz,Catholic,College,No,No,None,Sideline,1,36,Female,Married,Yes,"<5,000",1
+Servando De Guzman,Catholic,Elementary,No,No,Volunteer,Sideline,1,66,Male,Married,No,"<5,000",1
+Felicitas De Guzman,Catholic,Elementary,No,No,None,None,1,65,Female,Married,Yes,"<5,000",1
+Francis De Guzman,Catholic,Secondary,No,No,None,None,1,45,Male,Single,No,"<5,000",1
+Flecy De Guzman,Catholic,Secondary,No,No,None,None,1,43,Female,Single,No,"<5,000",1
+Servando De Guzman Jr.,Catholic,Secondary,No,No,Business Owner,Business Income,1,25,Male,Single,No,"11,000-20,000",3
+Epifanio Ramos,Catholic,Elementary,Yes,No,None,Pension,1,91,Male,Married,No,"11,000-20,000",3
+Juan Capili Santos,Catholic,Elementary,Yes,No,Driver,Work Income,1,66,Male,Married,No,"11,000-20,000",3
+Felicisimo De Guzman,Catholic,Elementary,Yes,Yes,None,Sideline,1,60,Male,Married,Yes,"<5,000",1
+Marialyn Santiago,Catholic,Secondary,No,Yes,None,Sideline,1,57,Female,Married,No,"<5,000",1
+Philip De Guzman,Catholic,Secondary,No,Yes,Factory,Work Salary,1,35,Male,Married,Yes,"11,000-20,000",3
+Arlene De Guzman,Catholic,Secondary,No,Yes,None,4ps,1,31,Female,Married,Yes,"<5,000",1
+Allan De Guzman,Catholic,Secondary,No,Yes,None,Sideline,1,30,Male,Married,No,"<5,000",1
+Beverly De Guzman,Catholic,Secondary,Yes,No,None,Sideline,1,35,Female,Married,Yes,"<5,000",1
+Rosemarie De Guzman,Born Again,Secondary,Yes,No,Teacher,Work Salary,1,57,Female,Separated,Yes,"11,000-20,000",3
+Angelo De Guzman,Catholic,Secondary,No,No,Driver,Work Income,1,46,Male,Married,Yes,"11,000-20,000",3
+Maricel De Guzman,Catholic,Secondary,No,No,None,4ps,1,46,Female,Married,No,"<5,000",1
+Muracio De Guzman,Catholic,Secondary,No,No,None,4ps,1,91,Female,Widow,No,"<5,000",1
+Lencia De Guzman,Catholic,Secondary,No,No,None,4ps,1,56,Female,Widow,Yes,"<5,000",1
+Ma. Loisa De Guzman,Catholic,Secondary,Yes,Yes,Sales,Work Salary,1,43,Female,Widow,Yes,"11,000-20,000",3
+Leonora Bantigue,Catholic,Elementary,Yes,No,None,Pension,2,81,Female,Widow,No,"11,000-20,000",3
+Reyle Bantigue,Catholic,Secondary,Yes,No,None,Pension,2,75,Male,Single,Yes,"11,000-20,000",3
+Rodolfo Bantigue,Catholic,Elementary,No,Yes,None,Pension,2,83,Male,Single,Yes,"11,000-20,000",3
+Eugene Dionisio,Catholic,Elementary,No,No,None,4ps,2,39,Male,Married,Yes,"<5,000",1
+Valene Dionisio,Catholic,Secondary,No,No,None,None,2,37,Female,Married,Yes,"<5,000",1
+Emerald Loraine Dionisio,Catholic,Secondary,No,No,None,Student's Allowance,2,12,Female,Single,No,"<5,000",1
+Nestor Gavino,Catholic,Secondary,No,Yes,None,Pension,2,55,Male,Married,No,"<5,000",1
+Lutuavna Gavino,Catholic,Secondary,No,No,Driver,Work Income,2,54,Female,Married,Yes,"11,000-20,000",3
+Severino Carlos,Catholic,Secondary,No,No,Driver,Work Income,2,90,Male,Widower,No,"<5,000",1
+Dezandro Ramos,Catholic,Elementary,No,No,Driver,Work Income,2,55,Male,Married,No,"11,000-20,000",3
+Lovelyn Ramos,Catholic,Secondary,No,No,None,Sideline,2,31,Female,Married,No,"<5,000",1
+Luiz Zanora,Catholic,Currently Studying,No,Yes,None,Student's Allowance,2,15,Male,Single,No,"<5,000",1
+Menandro David,Catholic,Secondary,No,No,Mechanic,Work Income,2,56,Male,Married,Yes,"11,000-20,000",3
+Imelda David,Catholic,Secondary,No,No,Maid,Work Salary,2,53,Female,Married,Yes,"11,000-20,000",3
+Shilla David,Catholic,Secondary,No,No,Office,Work Salary,2,25,Female,Single,Yes,"11,000-20,000",3
+Keereen David,Catholic,Currently Studying,Yes,No,None,Student's Allowance,2,20,Male,Single,No,"<5,000",1
+Isidro Bernardo,Catholic,Elementary,Yes,No,Business Owner,Business Income,2,57,Male,Married,Yes,"11,000-20,000",3
+Simbulan Bernardo,Catholic,Secondary,No,No,Business Owner,Business Income,2,52,Male,Married,No,"11,000-20,000",3
+Benedic Bernardo,Catholic,Currently Studying,No,No,None,Student's Allowance,2,21,Male,Single,No,"<5,000",1
+Bernardo Benardo,Catholic,College,Yes,No,None,None,2,31,Male,Single,No,"<5,000",1
+Angela Bernardo,Catholic,Elementary,Yes,Yes,None,None,2,74,Female,Married,Yes,"<5,000",1
+Manolito Carlos,Catholic,Secondary,No,No,None,Pension,2,91,Female,Widow,Yes,"11,000-20,000",3
+Marivic Carlos,Adventist,Secondary,No,No,None,Pension,2,81,Female,Widow,Yes,"11,000-20,000",3
+John Marvic Carlos,Adventist,Secondary,No,No,None,Pension,2,76,Male,Widow,Yes,"11,000-20,000",3
+Perlito Carlos,Adventist,Secondary,No,No,None,None,2,56,Male,Widower,Yes,"<5,000",1
+Fernando Antonio,Born Again,Secondary,Yes,No,Contractor,Work Salary,2,57,Male,Married,Yes,"11,000-20,000",3
+Eniro Antonio,Born Again,Elementary,No,No,None,Pension,2,91,Male,Widow,Yes,"11,000-20,000",3
+Michael Antonio,Born Again,Secondary,Yes,No,None,None,2,52,Male,Separated,Yes,"<5,000",1
+Alberto Becceral,Born Again,Currently Studying,Yes,No,Business Owner,Business Income,2,22,Male,Single,No,"21,000-30,000",4
+Lencia Becceral,Born Again,Secondary,No,No,None,None,2,66,Female,Widow,Yes,"<5,000",1
+Wilfredo Becceral,Born Again,Secondary,No,No,Painter,Work Salary,2,46,Male,Married,Yes,"11,000-20,000",3
+Shirley Becceral,Born Again,Secondary,No,No,Laundry,Work Salary,2,53,Female,Married,No,"<5,000",1
+Norma De Jesus,Born Again,Currently Studying,No,No,None,Student's Allowance,2,21,Female,Single,No,"<5,000",1
+Adelaida Banique,Adventist,Secondary,No,No,Business Owner,Work Salary,2,57,Female,Married,Yes,"11,000-20,000",3
+Adriane De Jesus,Adventist,Secondary,No,No,None,None,2,53,Male,Married,No,"<5,000",1
+Helen Becceral,Adventist,College,No,No,Office,Work Salary,2,27,Female,Single,Yes,"11,000-20,000",3
+Jose Becceral,Catholic,Secondary,No,No,None,None,2,36,Male,Married,Yes,"<5,000",1
+John Menandro Becceral,Catholic,Secondary,No,No,OFW,Work Salary,2,26,Male,Married,Yes,"21,000-30,000",4
+Stephen Ong,Catholic,Secondary,No,No,None,None,2,0,Male,Married,Yes,"<5,000",1
+Lerylyn Ong,Catholic,Secondary,No,No,None,4ps,2,0,Female,Married,Yes,"<5,000",1
+Violeta Roberto,Catholic,College,No,No,None,None,2,59,Female,Married,Yes,"<5,000",1
+John Michael Roberto,Catholic,College,No,No,Construction,Work Salary,2,58,Male,Married,Yes,"11,000-20,000",3
+Jerick Roberto,Catholic,College,No,No,None,Sideline,2,39,Male,Married,Yes,"<5,000",1
+Jovelyn Roberto,Catholic,College,No,No,None,Sideline,2,24,Female,Married,Yes,"<5,000",1
+Rey Silyosa,Catholic,Secondary,No,No,None,None,2,0,Male,Single,Yes,"<5,000",1
+Jennylyn Silyosa,Catholic,Secondary,Yes,No,None,4ps,2,43,Female,Married,Yes,"<5,000",1
+Jermilyn Silyosa,Catholic,Secondary,Yes,Yes,None,4ps,2,36,Female,Married,Yes,"<5,000",1
+Ferdinand Becceral,Born Again,Secondary,Yes,No,OFW,Work Salary,2,62,Male,Married,Yes,"21,000-30,000",4
+Ernesto Becceral,Born Again,Secondary,Yes,No,None,None,2,62,Male,Married,Yes,"<5,000",1
+Jeffrey Becceral,Born Again,Secondary,Yes,No,OFW,Work Salary,2,29,Male,Single,Yes,"21,000-30,000",4
+Mark Edison Becceral,Born Again,Secondary,No,No,OFW,Work Salary,2,39,Male,Married,Yes,"21,000-30,000",4
+John Becceral,Born Again,Secondary,No,No,Parlor,Business Income,2,39,Male,Married,Yes,"11,000-20,000",3
+Jennifer Dela Cruz,Born Again,Currently Studying,No,No,None,Student's Allowance,2,13,Female,Single,No,"<5,000",1
+Rodolph De Ocampo,Born Again,Not Yet Studying,No,No,None,None,2,4,Male,Single,No,"<5,000",1
+Cornelia Gonzales,Born Again,Secondary,No,No,None,4ps,2,67,Female,Separated,No,"<5,000",1
+Anastacio Sebastian,Born Again,Secondary,No,No,Utility,Work Salary,2,36,Male,Single,Yes,"11,000-20,000",3
+Jun Buenaventura,Born Again,College,No,No,Office,Work Salary,2,35,Male,Single,Yes,"11,000-20,000",3
+Joselita Buenaventura,Catholic,Elementary,No,No,None,None,2,55,Male,Single,Yes,"<5,000",1
+Jonathan Jamon,Catholic,Secondary,Yes,No,None,None,2,43,Male,Married,Yes,"<5,000",1
+Cristina Jamon,Catholic,Secondary,Yes,No,None,None,2,32,Female,Married,Yes,"<5,000",1
+Christian John Jamon,Catholic,Currently Studying,Yes,No,None,Student's Allowance,2,9,Male,Single,Yes,"<5,000",1
+Raquel Jamon,Catholic,Elementary,No,No,Business Owner,Business Income,2,79,Female,Single,Yes,"11,000-20,000",3
+Zeymon Jamon,Catholic,Elementary,No,No,None,4ps,2,80,Male,Married,Yes,"<5,000",1
+Angela Recto,Catholic,Elementary,No,No,None,None,2,77,Female,Married,No,"<5,000",1
+Ruperto Recto,Catholic,Elementary,No,No,None,None,2,55,Male,Married,Yes,"<5,000",1
+Cristilona Recto,Catholic,Secondary,Yes,Yes,OFW,Work Salary,2,57,Female,Widow,Yes,"21,000-30,000",4
+Paula Recto,Catholic,College,Yes,Yes,Office,Work Salary,2,32,Female,Single,No,"11,000-20,000",3
+Jorge Santiago,Catholic,College,Yes,Yes,Engineer,Work Salary,2,27,Male,Single,Yes,"21,000-30,000",4
+Juanita Santiago,Catholic,Currently Studying,Yes,Yes,None,Student's Allowance,2,0,Female,Single,No,"<5,000",1
+Carol Santiago,Catholic,Elementary,No,No,Construction,Work Salary,2,58,Female,Married,Yes,"11,000-20,000",3
+Michelle Santiago,Catholic,Secondary,No,No,None,None,2,68,Female,Married,Yes,"<5,000",1
+Camille Santiago,Catholic,Secondary,No,No,None,4ps,2,28,Female,Married,Yes,"<5,000",1
+Hernando Santiago,Catholic,Currently Studying,No,No,None,Student's Allowance,2,16,Male,Single,No,"<5,000",1
+Sabina Santiago,Catholic,Secondary,No,No,Factory,Work Salary,2,24,Female,Married,No,"11,000-20,000",3
+Manny Santos,Catholic,Secondary,No,No,Driver,Work Income,2,40,Male,Married,Yes,"<5,000",1
+Sheryl Santos,Catholic,Secondary,No,No,None,None,2,48,Female,Married,Yes,"<5,000",1
+Sheryl Santiago,Catholic,Secondary,No,No,None,None,2,30,Female,Single,No,"<5,000",1
+Gabriel Santiago,Catholic,Elementary,No,No,None,None,2,31,Male,Single,No,"<5,000",1
+Medel David,Catholic,Secondary,No,No,Welder,Work Salary,2,61,Female,Married,Yes,"11,000-20,000",3
+Ma. Luisa David,Catholic,Secondary,No,No,None,None,2,52,Female,Married,Yes,"<5,000",1
+Jolyn David,Catholic,College,No,No,Factory,Work Salary,2,24,Female,Single,Yes,"11,000-20,000",3
+Jennifer David,Catholic,Currently Studying,No,No,None,Student's Allowance,2,16,Female,Single,No,"<5,000",1
+Jermaine David,Catholic,Elementary,No,No,None,Pension,2,82,Female,Single,Yes,"11,000-20,000",3
+Jerson David,Catholic,Secondary,No,No,OFW,Work Salary,2,37,Male,Married,Yes,"21,000-30,000",4
+Rodolfo Roque,Catholic,Secondary,No,No,None,None,2,30,Male,Married,Yes,"<5,000",1
+Rogelio Roque,Catholic,Elementary,No,No,None,Pension,2,74,Male,Widower,Yes,"11,000-20,000",3
+Evelyn Roque,Catholic,College,No,No,Teacher,Work Salary,2,49,Female,Single,Yes,"21,000-30,000",4
+Leonne Denise Roque,Catholic,College,No,No,None,None,2,45,Female,Single,No,"<5,000",1
+Dello Roque,Catholic,College,No,No,Teacher,Work Salary,2,54,Male,Separated,Yes,"21,000-30,000",4
+Aurelio Salonga,Catholic,College,No,No,None,None,2,23,Male,Single,No,"<5,000",1
+Canidad Salonga,Catholic,Secondary,No,No,Factory,Work Salary,2,43,Male,Married,Yes,"<5,000",1
+Emerson Salonga,Catholic,Elementary,No,No,None,None,2,51,Male,Married,Yes,"<5,000",1
+Joycel Salonga,Adventist,Elementary,No,No,None,Pension,2,63,Female,Separated,Yes,"11,000-20,000",3
+Alexander Salonga,Adventist,College,No,No,OFW,Work Salary,2,35,Male,Single,Yes,"21,000-30,000",4
+Donayo Dela Pena,Catholic,Elementary,No,Yes,Fisherman,Work Income,2,70,Male,Married,Yes,"11,000-20,000",3
+Zaldy Carpio,Catholic,Elementary,No,Yes,Office,Work Salary,2,65,Female,Married,Yes,"21,000-30,000",4
+Lolit Carpio,Catholic,Currently Studying,No,No,None,Student's Allowance,2,24,Female,Single,No,"<5,000",1
+Nefrey Dela Cruz,Catholic,Elementary,No,No,None,Pension,2,78,Male,Widower,Yes,"<5,000",1
+Magdalena Dela Cruz,Catholic,Currently Studying,No,No,None,Student's Allowance,2,26,Female,Single,No,"<5,000",1
+Keith Nicole Dela Cruz,Catholic,College,No,No,None,None,2,58,Female,Married,Yes,"<5,000",1
+Ariel Sebastian,Catholic,College,No,No,None,None,2,68,Female,Married,Yes,"<5,000",1
+Anna Sebastian,Catholic,College,No,No,OFW,Work Salary,2,40,Female,Single,Yes,"21,000-30,000",4
+Ariane Sebastian,Born Again,College,No,No,OFW,Work Salary,2,43,Female,Married,Yes,"21,000-30,000",4
+Armando Umali,Born Again,College,No,No,OFW,Work Salary,2,42,Male,Married,Yes,"21,000-30,000",4
+Helen Umali,Catholic,College,No,Yes,Construction,Work Salary,2,55,Female,Married,Yes,"11,000-20,000",3
+Bettina Umali,Catholic,College,No,Yes,None,None,2,54,Female,Married,Yes,"21,000-30,000",4
+Ian Paul Umali,Catholic,College,No,Yes,OFW,Work Salary,2,28,Male,Single,No,"21,000-30,000",4
+Josephine Bermeto,Catholic,College,No,Yes,None,None,2,26,Female,Single,No,"<5,000",1
+Jericson Bermeto,Catholic,Secondary,No,No,None,None,2,31,Male,Married,No,"<5,000",1
+Emmanuel Santiago,Catholic,Secondary,No,No,Construction,Work Salary,2,25,Male,Single,Yes,"<5,000",1
+Dionisia Arlanza,Catholic,Secondary,No,No,Construction,Work Salary,2,53,Female,Married,Yes,"<5,000",1
+Jerille Arlanza,Catholic,Elementary,No,No,None,None,2,55,Female,Married,Yes,"<5,000",1
+Jennilyn Arlanza,Catholic,Currently Studying,No,No,None,Student's Allowance,2,20,Female,Single,No,"<5,000",1
+Federico Halili,Catholic,Unknown,No,No,None,None,2,0,Male,Single,No,"<5,000",1
+Jasmin Halili,Catholic,Secondary,No,Yes,Construction,Work Salary,2,23,Female,Married,Yes,"<5,000",1
+Normira Maliang,Catholic,Secondary,No,Yes,Business Owner,Business Income,2,54,Female,Married,No,"<5,000",1
+Benjamin Mailang Jr.,Catholic,Secondary,No,Yes,None,None,2,26,Male,Married,No,"<5,000",1
+Victor Maliang,Catholic,Secondary,No,Yes,Landscape,Work Income,2,49,Male,Married,Yes,"21,000-30,000",4
+Victoria Mailang,Catholic,Secondary,No,Yes,None,Sideline,2,47,Female,Married,Yes,"<5,000",1
+Bryan Maliang,Catholic,Secondary,No,No,None,Pension,2,91,Male,Widower,Yes,"11,000-20,000",3
+Alberto Pinto,Adventist,Secondary,No,No,None,Pension,2,81,Male,Single,Yes,"11,000-20,000",3
+Bilinda Pinto,Adventist,Secondary,No,No,None,Pension,2,76,Female,Widow,Yes,"11,000-20,000",3
+John William Pinto,Adventist,Secondary,No,No,None,None,2,56,Male,Widower,Yes,"<5,000",1
+Ma. Sophia Pinto,Born Again,Secondary,Yes,No,Contractor,Work Salary,2,57,Female,Married,Yes,"11,000-20,000",3
+Ricardo Santiago,Born Again,Elementary,No,No,None,Pension,2,91,Male,Widower,Yes,"11,000-20,000",3
+Viona Santiago,Born Again,Secondary,Yes,No,None,None,2,52,Female,Separated,Yes,"<5,000",1
+Sarmen Carpio,Born Again,Currently Studying,Yes,No,Business Owner,Business Income,2,22,Female,Single,No,"11,000-20,000",3
+Regina Carpio,Born Again,Secondary,No,No,None,None,2,66,Female,Widow,Yes,"<5,000",1
+Renz Carpio,Born Again,Secondary,No,No,Painter,Work Salary,2,46,Male,Married,Yes,"<5,000",1
+Bobby Ricio,Born Again,Secondary,No,No,Laundry,Work Salary,2,53,Male,Married,No,"<5,000",1
+Vernandita Ricio,Born Again,Currently Studying,No,No,None,Student's Allowance,2,21,Female,Single,No,"<5,000",1
+Jefferson Dela Pena,Adventist,Secondary,No,No,Foreman,Work Salary,2,57,Male,Married,Yes,"11,000-20,000",3
+Mercedita Villgania,Adventist,Secondary,No,No,None,None,2,53,Female,Married,No,"<5,000",1
+Samantha Joy Dela Pena,Adventist,College,No,No,Office,Work Salary,2,27,Female,Single,Yes,"11,000-20,000",3
+Steven Dela Pena,Catholic,Secondary,No,No,None,None,2,36,Male,Married,Yes,"11,000-20,000",3
+Melanie Mamerto,Catholic,Secondary,No,No,OFW,Work Salary,2,26,Female,Married,Yes,"21,000-30,000",4
+Jayson Mamerto,Catholic,Secondary,No,No,None,None,2,0,Male,Married,Yes,"21,000-30,000",4
+Mercee Mamerto,Catholic,Secondary,No,No,None,4ps,2,0,Female,Married,Yes,"<5,000",1
+Jeric Tolentino,Catholic,College,No,No,None,None,2,59,Male,Married,Yes,"<5,000",1
+Antonette Bondoc,Catholic,College,No,No,Construction,Work Salary,2,58,Female,Married,Yes,"<5,000",1
+Olivia Buensoceso,Catholic,College,No,No,None,Sideline,2,39,Male,Married,Yes,"<5,000",1
+Peliv Perez,Catholic,College,No,No,None,Sideline,2,24,Female,Married,Yes,"<5,000",1
+Geronimo Santos,Catholic,Secondary,No,No,None,None,2,0,Male,Single,Yes,"<5,000",1
+Joana Buensoceso,Catholic,Secondary,Yes,No,None,4ps,2,43,Female,Married,Yes,"<5,000",1
+Amare Marcelo,Catholic,Secondary,Yes,Yes,None,4ps,2,36,Female,Married,Yes,"<5,000",1
+Beverly De Guzman,Catholic,Elementary,Yes,Yes,Business Owner,Business Income,2,0,Female,Single,Yes,"<5,000",1
+Lordes Castor,Catholic,College,No,No,OFW,Work Salary,2,57,Female,Married,Yes,"21,000-30,000",4
+Lara Jhane Castor,Catholic,College,No,No,None,Sideline,2,54,Female,Married,Yes,"<5,000",1
+Charles Castor,Catholic,Currently Studying,No,No,None,Student's Allowance,2,13,Male,Single,No,"<5,000",1
+Jerry Avigueterro,Born Again,College,Yes,No,Contractor,Work Salary,2,58,Male,Married,Yes,"11,000-20,000",3
+Lovely Argueza,Born Again,College,Yes,No,None,None,2,57,Female,Married,Yes,"11,000-20,000",3
+Gabriel Avigueterro,Born Again,College,Yes,No,Office,Work Salary,2,26,Male,Single,Yes,"11,000-20,000",3
+Crystal Avigueterro,Born Again,College,Yes,No,Office,Work Salary,2,22,Female,Single,Yes,"11,000-20,000",3
+Savannah Argueza,Catholic,Unknown,No,No,None,4ps,2,0,Female,Unknown,Yes,"<5,000",1
+Emerlita Perez,Catholic,Secondary,No,No,None,Sideline,2,59,Female,Married,Yes,"<5,000",1
+Erycka Perez,Catholic,College,No,No,None,Sideline,2,55,Female,Married,Yes,"<5,000",1
+John Mel Perez,Catholic,Currently Studying,No,No,None,Student's Allowance,2,18,Male,Single,No,"<5,000",1
+Jomel Perez,Catholic,Secondary,Yes,No,Contractor,Work Salary,2,66,Male,Married,Yes,"21,000-30,000",4
+Anne Camille De Jesus,Catholic,Secondary,No,No,None,None,2,67,Female,Married,No,"<5,000",1
+Jaime Bantoco,Catholic,College,Yes,Yes,Contractor,Work Salary,2,38,Male,Married,Yes,"11,000-20,000",3
+Roxane Bantoco,Catholic,College,Yes,Yes,None,None,2,38,Female,Married,Yes,"<5,000",1
+Jaime Bantoco,Catholic,Currently Studying,No,No,None,Student's Allowance,2,0,Male,Single,No,"<5,000",1
+Jayden Bantoco,Catholic,College,Yes,No,None,None,2,41,Male,Single,Yes,"<5,000",1
+Jesrylle Bantoco,Catholic,College,Yes,No,OFW,Work Salary,2,36,Female,Single,Yes,"21,000-30,000",4
+Juan Gregorio Delos Reyes,Catholic,Secondary,No,Yes,Driver,Work Income,3,39,Male,Separated,Yes,"<5,000",1
+Flora Carpio Delos Reyes,Catholic,Elementary,No,Yes,None,Sideline,3,56,Female,Widower,Yes,"<5,000",1
+Renato Carpio Delos Reyes,Catholic,Currently Studying,No,No,None,Student's Allowance,3,18,Male,Single,No,"<5,000",1
+Roger Erano Morata,Catholic,Secondary,No,No,Driver,Work Income,3,66,Male,Married,Yes,"<5,000",1
+Rowena Delos Reyes Morata,Catholic,College,No,No,None,Sideline,3,65,Female,Married,No,"<5,000",1
+Mark Kerson Reyes Morata,Catholic,Elementary,No,No,None,4ps,3,91,Male,Married,No,"<5,000",1
+Allysa Reyes Morata,Catholic,Elementary,No,No,None,4ps,3,88,Female,Married,Yes,"<5,000",1
+Rosario Delos Reyes Pastrana,Catholic,Secondary,No,No,Business Owner,Business Income,3,73,Female,Married,Yes,"<5,000",1
+Clavi Pauleen Reyes Pastrana,Catholic,Secondary,No,No,None,Pension,3,81,Female,Married,No,"11,000-20,000",3
+Ramona Carpio Delos Reyes,Catholic,Secondary,No,No,None,Sideline,3,35,Female,Separated,Yes,"<5,000",1
+Kimly Delos Reyes,Catholic,Secondary,Yes,Yes,None,Sideline,3,45,Male,Married,Yes,"<5,000",1
+Khey Delos Reyes,Catholic,Secondary,Yes,Yes,None,None,3,34,Female,Married,Yes,"<5,000",1
+Kyle aguinaldo Delos Reyes,Catholic,Secondary,No,Yes,None,Sideline,3,81,Male,Widow,Yes,"<5,000",1
+Eduardo gapati Hawa,Catholic,Secondary,No,No,Driver,Work Income,3,60,Male,Married,Yes,"<5,000",1
+Josephine Tolentino Hawa,Catholic,Secondary,No,No,None,None,3,61,Female,Married,Yes,"<5,000",1
+Mary Grace Tolentino Hawa,Catholic,College,No,No,Business Owner,Business Income,3,23,Female,Single,Yes,"11,000-20,000",3
+Mary Rose Tolentino Hawa,Catholic,College,No,No,Business Owner,Business Income,3,23,Female,Single,No,"11,000-20,000",3
+Mary Clane Tolentino Hawa,Catholic,Secondary,No,No,None,4ps,3,60,Female,Married,No,"<5,000",1
+Edward Tolentino Hawa,Catholic,Secondary,No,No,None,None,3,60,Male,Married,Yes,"<5,000",1
+Mary Kars Tolentino Hawa,Catholic,College,No,No,Office,Work Salary,3,23,Female,Single,Yes,"11,000-20,000",3
+Maria Shekainah Toelntino Hawa,Catholic,College,No,No,None,Sideline,3,36,Female,Married,Yes,"<5,000",1
+Vicente Gapati Hawa,Catholic,Secondary,No,No,None,Sideline,3,37,Male,Married,No,"<5,000",1
+Francisco Garcia Pangilinan,Catholic,College,No,No,None,Pension,3,71,Male,Widow,No,"11,000-20,000",3
+Violeta Hawa Garcia Pangilinan,Catholic,College,No,No,Office,Work Income,3,36,Female,Married,Yes,"11,000-20,000",3
+Angeline Hawa Pangilinan,Catholic,College,No,No,None,Sideline,3,36,Female,Married,Yes,"<5,000",1
+Annerie Hawa Pangilinan,Catholic,Elementary,No,No,Volunteer,Sideline,3,66,Female,Married,No,"<5,000",1
+April Joy Hawa Pangilinan,Catholic,Elementary,No,No,None,None,3,65,Female,Married,Yes,"<5,000",1
+Alfrance Hawa Pangilinan,Catholic,Secondary,No,No,None,None,3,45,Male,Single,No,"<5,000",1
+Althea Hawa Pangilinan,Catholic,Secondary,No,No,None,None,3,43,Female,Single,No,"<5,000",1
+Aldrin Hawa Pangilinan,Catholic,Secondary,No,No,Business Owner,Business Income,3,25,Male,Single,No,"11,000-20,000",3
+Mary Jane Leviste Nicodemus,Catholic,Elementary,Yes,No,None,Pension,3,91,Male,Married,No,"11,000-20,000",3
+Kyle Claiden Pangilinan,Catholic,Elementary,Yes,No,Driver,Work Income,3,66,Male,Married,No,"11,000-20,000",3
+Merlita Liongson Rubio,Catholic,Elementary,Yes,Yes,None,Sideline,3,60,Female,Married,Yes,"<5,000",1
+Kerish Flores Shandumal,Catholic,Secondary,No,Yes,None,Sideline,3,57,Female,Married,No,"<5,000",1
+Odilon Flores,Catholic,Secondary,No,Yes,Factory,Work Salary,3,35,Male,Married,Yes,"11,000-20,000",3
+Angel Lontoc Cruz Jr.,Catholic,Secondary,No,Yes,None,4ps,3,31,Female,Married,Yes,"<5,000",1
+Julita Ignacio,Catholic,Secondary,No,Yes,None,Sideline,3,30,Female,Married,No,"<5,000",1
+Edward Dacutanan,Catholic,Secondary,Yes,No,None,Sideline,3,35,Male,Married,Yes,"<5,000",1
+Alvin Cruz,Born Again,Secondary,Yes,No,Teacher,Work Salary,3,57,Male,Separated,Yes,"11,000-20,000",3
+Rosalie Natingga Cruz,Catholic,Secondary,No,No,Driver,Work Income,3,46,Female,Married,Yes,"11,000-20,000",3
+Angela Natingga Cruz,Catholic,Secondary,No,No,None,4ps,3,46,Female,Married,No,"<5,000",1
+Samantha Natingga Cruz,Catholic,Secondary,No,No,None,4ps,3,91,Female,Widow,No,"<5,000",1
+Victoria Cruz Alincastre,Catholic,Secondary,No,No,None,4ps,3,56,Female,Widow,Yes,"<5,000",1
+Rosalinda Galabin Legaspi,Catholic,Secondary,Yes,Yes,Sales,Work Salary,3,43,Female,Widow,Yes,"11,000-20,000",3
+Dave Legaspi,Catholic,Elementary,Yes,No,None,Pension,3,81,Male,Widow,No,"11,000-20,000",3
+Quenni Legaspi,Catholic,Secondary,Yes,No,None,Pension,3,75,Female,Single,Yes,"11,000-20,000",3
+Euries John Rivera,Catholic,Elementary,No,Yes,None,Pension,3,83,Male,Single,Yes,"<5,000",1
+Mariscal Slavador Jr.,Catholic,Elementary,No,No,None,4ps,3,39,Male,Married,Yes,"<5,000",1
+Adeliada Santos Cervantes,Catholic,Secondary,No,No,None,None,3,37,Female,Married,Yes,"<5,000",1
+Gregoria Cervantes,Catholic,Secondary,No,No,None,Student's Allowance,3,12,Female,Single,No,"<5,000",1
+Joseph Agriviva Bobadilla,Catholic,Secondary,No,Yes,None,Pension,3,55,Male,Married,No,"<5,000",1
+Marcelina Santiago Bobadilla,Catholic,Secondary,No,No,Driver,Work Income,3,54,Female,Married,Yes,"<5,000",1
+Joemarie Santiago Bobadilla,Catholic,Secondary,No,No,Driver,Work Income,3,90,Female,Widower,No,"<5,000",1
+Sheryl Tamayo Briones,Catholic,Elementary,No,No,Driver,Work Income,3,55,Female,Married,No,"<5,000",1
+Sherwin John Briones,Catholic,Secondary,No,No,None,Sideline,3,31,Male,Married,No,"<5,000",1
+Nestor Saguinsin Tamayo,Catholic,Currently Studying,No,Yes,None,Student's Allowance,3,15,Male,Single,No,"<5,000",1
+Rosario Lucas Tamayo,Catholic,Secondary,No,No,Mechanic,Work Income,3,56,Female,Married,Yes,"<5,000",1
+Eshra Lucas Tamayo,Catholic,Secondary,No,No,Maid,Work Salary,3,53,Female,Married,Yes,"11,000-20,000",3
+Ezer Lucas Tamayo,Catholic,Secondary,No,No,Office,Work Salary,3,25,Male,Single,Yes,"11,000-20,000",3
+Jaymark Lucas Tamayo,Catholic,Currently Studying,Yes,No,None,Student's Allowance,3,20,Male,Single,No,"<5,000",1
+Eddie Baldostamon Dela Cruz,Catholic,Elementary,Yes,No,Business Owner,Business Income,3,57,Male,Married,Yes,"11,000-20,000",3
+Marita Senepa Dela Cruz,Catholic,Secondary,No,No,Business Owner,Business Income,3,52,Female,Married,No,"11,000-20,000",3
+Alfie Tolentino,Catholic,Currently Studying,No,No,None,Student's Allowance,3,21,Male,Single,No,"<5,000",1
+Flordeliza Claro Tolentino,Catholic,College,Yes,No,None,None,3,31,Female,Single,No,"<5,000",1
+Aldrey Kimby Tolentino,Catholic,Elementary,Yes,Yes,None,None,3,74,Male,Married,Yes,"<5,000",1
+Althea Margos Tolentino,Catholic,Secondary,No,No,None,Pension,3,91,Female,Widow,Yes,"<5,000",1
+Raymond Julia,Adventist,Secondary,No,No,None,Pension,3,81,Male,Widow,Yes,"<5,000",1
+Barren Tacolpe Claro,Adventist,Secondary,No,No,None,Pension,3,76,Male,Widow,Yes,"<5,000",1
+Generose Pangan Claro,Adventist,Secondary,No,No,None,None,3,56,Male,Widower,Yes,"<5,000",1
+John Darren Claro,Born Again,Secondary,Yes,No,Contractor,Work Salary,3,57,Male,Married,Yes,"11,000-20,000",3
+Celerina Pajares,Born Again,Elementary,No,No,None,Pension,3,91,Female,Widow,Yes,"11,000-20,000",3
+Robert Pajares,Born Again,Secondary,Yes,No,None,None,3,52,Male,Separated,Yes,"<5,000",1
+Jonalyn Trasmanio,Born Again,Currently Studying,Yes,No,Business Owner,Business Income,3,22,Female,Single,No,"<5,000",1
+Jovert Pajares,Born Again,Secondary,No,No,None,None,3,66,Male,Widow,Yes,"<5,000",1
+Maura Gapac Santiago,Born Again,Secondary,No,No,Painter,Work Salary,3,46,Female,Married,Yes,"<5,000",1
+Alex Gapac Santiago,Born Again,Secondary,No,No,Laundry,Work Salary,3,53,Male,Married,No,"<5,000",1
+Randy Santiago Lucas,Born Again,Currently Studying,No,No,None,Student's Allowance,3,21,Male,Single,No,"<5,000",1
+Jennilyn Salvador Lucas,Adventist,Secondary,No,No,Foreman,Work Salary,3,57,Female,Married,Yes,"11,000-20,000",3
+Jennalyn Salvador Lucas,Adventist,Secondary,No,No,None,None,3,53,Female,Married,No,"<5,000",1
+Julia Salvador Lucas,Adventist,College,No,No,Office,Work Salary,3,27,Female,Single,Yes,"11,000-20,000",3
+Roxan Salvador Lucas,Catholic,Secondary,No,No,None,None,3,36,Female,Married,Yes,"<5,000",1
+Ryan Salvador Lucas,Catholic,Secondary,No,No,OFW,Work Salary,3,26,Male,Married,Yes,"21,000-30,000",4
+Alvin Santiago Lucas,Catholic,Secondary,No,No,None,None,3,0,Male,Married,Yes,"<5,000",1
+Katherine Labriaga,Catholic,Secondary,No,No,None,4ps,3,0,Female,Married,Yes,"<5,000",1
+Alvin Labriaga,Catholic,College,No,No,None,None,3,59,Male,Married,Yes,"<5,000",1
+Kenzoe Labriaga,Catholic,College,No,No,Construction,Work Salary,3,58,Male,Married,Yes,"<5,000",1
+Quenn Amara Labriaga,Catholic,College,No,No,None,Sideline,3,39,Female,Married,Yes,"<5,000",1
+Marcelino Santiago Lucas,Catholic,College,No,No,None,Sideline,3,24,Female,Married,Yes,"<5,000",1
+Marjorie Dejumo Santiago Lucas,Catholic,Secondary,No,No,None,None,3,0,Female,Single,Yes,"<5,000",1
+Mark John Santiago Lucas,Catholic,Secondary,Yes,No,None,4ps,3,43,Male,Married,Yes,"<5,000",1
+Mary joy Santiago Lucas,Catholic,Secondary,Yes,Yes,None,4ps,3,36,Female,Married,Yes,"<5,000",1
+Jessica Santiago Lucas,Born Again,Secondary,Yes,No,OFW,Work Salary,3,62,Female,Married,Yes,"21,000-30,000",4
+Jennifer Santiago Lucas,Born Again,Secondary,Yes,No,None,None,3,62,Female,Married,Yes,"<5,000",1
+Mark Anthony Santiago Lucas,Born Again,Secondary,Yes,No,OFW,Work Salary,3,29,Male,Single,Yes,"21,000-30,000",4
+Mark Joseph Santiago Lucas,Born Again,Secondary,No,No,OFW,Work Salary,3,39,Male,Married,Yes,"21,000-30,000",4
+Serafin Aguilar Lugar,Born Again,Secondary,No,No,Parlor,Business Income,3,39,Male,Married,Yes,"11,000-20,000",3
+Rosenda Santiago Lucas,Born Again,Currently Studying,No,No,None,Student's Allowance,3,13,Female,Single,No,"<5,000",1
+Jonnel James Cotaco Sabinay,Born Again,Not Yet Studying,No,No,None,None,3,4,Male,Single,No,"<5,000",1
+Rosselle Anne Santiago Lucas,Born Again,Secondary,No,No,None,4ps,3,67,Male,Separated,No,"<5,000",1
+Atarah Jayle Lucas Sabinay,Born Again,Secondary,No,No,Utility,Work Salary,3,36,Female,Single,Yes,"11,000-20,000",3
+Ronel Seberano Santiago,Born Again,College,No,No,Office,Work Salary,3,35,Male,Single,Yes,"11,000-20,000",3
+Rodessa Gladys Santiago Lucas,Catholic,Elementary,No,No,None,None,3,55,Female,Single,Yes,"<5,000",1
+Criztian Lucas Santiago,Catholic,Secondary,Yes,No,None,None,3,43,Male,Married,Yes,"<5,000",1
+Raymond Clemente Reyes,Catholic,Secondary,Yes,No,None,None,3,32,Male,Married,Yes,"<5,000",1
+Remedios Lucas Reyes,Catholic,Currently Studying,Yes,No,None,Student's Allowance,3,9,Male,Single,Yes,"<5,000",1
+Raynelyn Lucas Reyes,Catholic,Elementary,No,No,Business Owner,Business Income,3,79,Female,Single,Yes,"<5,000",1
+Raymart Lucas Reyes,Catholic,Elementary,No,No,None,4ps,3,80,Male,Married,Yes,"<5,000",1
+Raven Lucas Reyes,Catholic,Elementary,No,No,None,None,3,77,Female,Married,No,"<5,000",1
+Raymond Roy Crisostomo,Catholic,Elementary,No,No,None,None,3,55,Male,Married,Yes,"<5,000",1
+Ruth Tamayo Crisostomo,Catholic,Secondary,Yes,Yes,OFW,Work Salary,3,57,Female,Widow,Yes,"21,000-30,000",4
+Azher John Tamayo Crisostomo,Catholic,College,Yes,Yes,Office,Work Salary,3,32,Male,Single,No,"21,000-30,000",4
+Kenzie Jhrare Tamayo Crisostomo,Catholic,College,Yes,Yes,Engineer,Work Salary,3,27,Male,Single,Yes,"21,000-30,000",4
+Treayor John Tamayo Crisostomo,Catholic,Currently Studying,Yes,Yes,None,Student's Allowance,3,0,Male,Single,No,"<5,000",1
+Michael Moraleta Santos,Catholic,Elementary,No,No,Construction,Work Salary,3,58,Male,Married,Yes,"11,000-20,000",3
+Shara Jane Tamayo Santos,Catholic,Secondary,No,No,None,None,3,68,Female,Married,Yes,"<5,000",1
+Hayley Jopia Tamayo Santos,Catholic,Secondary,No,No,None,4ps,3,28,Female,Married,Yes,"<5,000",1
+Micairah Tamayo Santos,Catholic,Currently Studying,No,No,None,Student's Allowance,3,16,Female,Single,No,"<5,000",1
+Geronimo Aguilar Lucas,Catholic,Secondary,No,No,Factory,Work Salary,3,24,Male,Married,No,"11,000-20,000",3
+Lenny Cruz Lucas,Catholic,Secondary,No,No,Driver,Work Income,3,40,Female,Married,Yes,"<5,000",1
+Jamie Oliver Lucas Perona,Catholic,Secondary,No,No,None,None,3,48,Female,Married,Yes,"<5,000",1
+Jamieline Lucas Perona,Catholic,Secondary,No,No,None,None,3,30,Female,Single,No,"<5,000",1
+Arjhay Jose,Catholic,Elementary,No,No,None,None,3,31,Male,Single,No,"<5,000",1
+Leslee Jose,Catholic,Secondary,No,No,Welder,Work Salary,3,61,Female,Married,Yes,"<5,000",1
+Leejhei Jose,Catholic,Secondary,No,No,None,None,3,52,Female,Married,Yes,"<5,000",1
+Monsour Del Rosario,Catholic,College,No,No,Factory,Work Salary,3,24,Female,Single,Yes,"11,000-20,000",3
+Lisette Cruz Lucas,Catholic,Currently Studying,No,No,None,Student's Allowance,3,16,Female,Single,No,"<5,000",1
+Dolorosa Cruz Lucas,Catholic,Elementary,No,No,None,Pension,3,82,Female,Single,Yes,"11,000-20,000",3
+Louie Santos,Catholic,Secondary,No,No,OFW,Work Salary,3,37,Male,Married,Yes,"21,000-30,000",4
+Mirriam Tamayo,Catholic,Secondary,No,No,None,None,3,30,Female,Married,Yes,"<5,000",1
+Alliyah Louelle,Catholic,Elementary,No,No,None,Pension,3,74,Female,Widower,Yes,"11,000-20,000",3
+Audree Elise,Catholic,College,No,No,Teacher,Work Salary,3,49,Female,Single,Yes,"11,000-20,000",3
+Rogelio Aguilar Lucas,Catholic,College,No,No,None,None,3,45,Male,Single,No,"<5,000",1
+Teodora Salalac Lucas,Catholic,College,No,No,Teacher,Work Salary,3,54,Female,Separated,Yes,"21,000-30,000",4
+Justine Salalac Lucas,Catholic,College,No,No,None,None,3,23,Female,Single,No,"<5,000",1
+Ronnie Salalac Lucas,Catholic,Secondary,No,No,Factory,Work Salary,3,43,Male,Married,Yes,"11,000-20,000",3
+Ulyssis Salalac Lucas,Catholic,Elementary,No,No,None,None,3,51,Male,Married,Yes,"<5,000",1
+Rodelio Salalac Lucas,Adventist,Elementary,No,No,None,Pension,3,63,Male,Separated,Yes,"<5,000",1
+Caren Claro Lucas,Adventist,College,No,No,OFW,Work Salary,3,35,Female,Single,Yes,"21,000-30,000",4
+Rodge Kerwin Claro Lucas,Catholic,Elementary,No,Yes,Fisherman,Work Income,3,70,Male,Married,Yes,"<5,000",1
+Reghn Kylie Claro Lucas,Catholic,Elementary,No,Yes,Office,Work Salary,3,65,Female,Married,Yes,"21,000-30,000",4
+Gerry Lucas Mayor,Catholic,Currently Studying,No,No,None,Student's Allowance,3,24,Male,Single,No,"<5,000",1
+Ely Lawis Mayor,Catholic,Elementary,No,No,None,Pension,3,78,Female,Widower,Yes,"<5,000",1
+Jeffrey Lucas Mayor,Catholic,Currently Studying,No,No,None,Student's Allowance,3,26,Male,Single,No,"<5,000",1
+Jelie Lucas Mayor,Catholic,College,No,No,None,None,3,58,Female,Married,Yes,"<5,000",1
+Jerly Lucas Mayor,Catholic,College,No,No,None,None,3,68,Female,Married,Yes,"<5,000",1
+John Christian Santiago Dela Cruz,Catholic,College,No,No,OFW,Work Salary,3,40,Male,Single,Yes,"21,000-30,000",4
+Judy Lawis Mayos,Born Again,College,No,No,OFW,Work Salary,3,43,Female,Married,Yes,"21,000-30,000",4
+Ryan Guanzon Dela Cruz,Born Again,College,No,No,OFW,Work Salary,3,42,Male,Married,Yes,"21,000-30,000",4
+Marivic Lucas Mayor,Catholic,College,No,Yes,Construction,Work Salary,3,55,Female,Married,Yes,"<5,000",1
+Mariah Faith,Catholic,College,No,Yes,None,None,3,54,Female,Married,Yes,"<5,000",1
+Emlliano Cabuntog Mayor,Catholic,College,No,Yes,OFW,Work Salary,3,28,Male,Single,No,"21,000-30,000",4
+Ann Erica Mayor Manguerra,Catholic,College,No,Yes,None,None,3,26,Female,Single,No,"<5,000",1
+Hanica Mae Manguerra,Catholic,Secondary,No,No,None,None,3,31,Female,Married,No,"<5,000",1
+Rolando Lucas Mayor,Catholic,Secondary,No,No,Construction,Work Salary,3,25,Male,Single,Yes,"<5,000",1
+Aries Villafana,Catholic,Secondary,No,No,Construction,Work Salary,3,53,Male,Married,Yes,"<5,000",1
+Eleonor Mayor Villafana,Catholic,Elementary,No,No,None,None,3,55,Female,Married,Yes,"<5,000",1
+Irish Mayor Villafana,Catholic,Currently Studying,No,No,None,Student's Allowance,3,20,Female,Single,No,"<5,000",1
+Victor Cobilla Santos,Catholic,Unknown,No,No,None,None,3,0,Male,Single,No,"<5,000",1
+Imelda Lucas Santos,Catholic,Secondary,No,Yes,Construction,Work Salary,3,23,Female,Married,Yes,"<5,000",1
+Benigno Lucas Santos,Catholic,Secondary,No,Yes,Business Owner,Business Income,3,54,Male,Married,No,"<5,000",1
+Victoria Imelda Lucas Santos,Catholic,Secondary,No,Yes,None,None,3,26,Female,Married,No,"<5,000",1
+Jun Lucas Santos,Catholic,Secondary,No,Yes,Landscape,Work Income,3,49,Male,Married,Yes,"11,000-20,000",3
+Analinda Aragdom Santos,Catholic,Secondary,No,Yes,None,Sideline,3,47,Female,Married,Yes,"<5,000",1
+John Michael Aragdom Santos,Catholic,Secondary,No,No,None,Pension,3,91,Male,Widower,Yes,"<5,000",1
+Juliana Aragdom Santos,Adventist,Secondary,No,No,None,Pension,3,81,Female,Single,Yes,"<5,000",1
+Benedict Aguilar Lucas,Adventist,Secondary,No,No,None,Pension,3,76,Male,Widow,Yes,"<5,000",1
+Amelia Cervantes Tadique,Adventist,Secondary,No,No,None,None,3,56,Female,Widower,Yes,"<5,000",1
+Bernie Cruz Lucas,Born Again,Secondary,Yes,No,Contractor,Work Salary,3,57,Male,Married,Yes,"11,000-20,000",3
+Jennifer Manahan Lucas,Born Again,Elementary,No,No,None,Pension,3,91,Female,Widower,Yes,"11,000-20,000",3
+Hailey Lhiana Lucas,Born Again,Secondary,Yes,No,None,None,3,52,Female,Separated,Yes,"<5,000",1
+Jefferson Francia Manahan,Born Again,Currently Studying,Yes,No,Business Owner,Business Income,3,22,Male,Single,No,"11,000-20,000",3
+Jennie Rose jacinto Javier,Born Again,Secondary,No,No,None,None,3,66,Female,Widow,Yes,"<5,000",1
+Mikay Pelana Guanzon,Born Again,Secondary,No,No,Painter,Work Salary,3,46,Female,Married,Yes,"<5,000",1
+Virginia Santiago Guazon,Born Again,Secondary,No,No,Laundry,Work Salary,3,53,Female,Married,No,"<5,000",1
+Mary Ann Santiago Guazon,Born Again,Currently Studying,No,No,None,Student's Allowance,3,21,Female,Single,No,"<5,000",1
+Mary Grace Santiago Guazon,Adventist,Secondary,No,No,Foreman,Work Salary,3,57,Female,Married,Yes,"11,000-20,000",3
+Mary Jane Santiago Guazon,Adventist,Secondary,No,No,None,None,3,53,Female,Married,No,"<5,000",1
+Irene Gapac Santiago,Adventist,College,No,No,Office,Work Salary,3,27,Female,Single,Yes,"11,000-20,000",3
+Angelo Santiago,Catholic,Secondary,No,No,None,None,3,36,Male,Married,Yes,"<5,000",1
+Pasencia Gapac Santiago,Catholic,Secondary,No,No,OFW,Work Salary,3,26,Female,Married,Yes,"21,000-30,000",4
+Servando Gapac Santiago,Catholic,Secondary,No,No,None,None,3,0,Male,Married,Yes,"<5,000",1
+Mauricio Bautista,Catholic,Secondary,No,No,None,4ps,3,0,Male,Married,Yes,"<5,000",1
+Gina Lizarondo Bautista,Catholic,College,No,No,None,None,3,59,Female,Married,Yes,"<5,000",1
+Mariana Felipa Lizarondo Bautista,Catholic,College,No,No,Construction,Work Salary,3,58,Female,Married,Yes,"<5,000",1
+Merill Mateo Lizarondo Bautista,Catholic,College,No,No,None,Sideline,3,39,Male,Married,Yes,"<5,000",1
+Avezina Lustre Santiago,Catholic,College,No,No,None,Sideline,3,24,Female,Married,Yes,"<5,000",1
+Renei Nicole Santiago Parule,Catholic,Secondary,No,No,None,None,3,0,Male,Single,Yes,"<5,000",1
+Jerico Rennel Santiago Parule,Catholic,Secondary,Yes,No,None,4ps,3,43,Male,Married,Yes,"<5,000",1
+Melinda Santiago Perez,Catholic,Elementary,Yes,No,None,Sideline,3,0,Female,Married,Yes,"<5,000",1
+John Romel Santiago Prez,Catholic,Elementary,No,No,None,Sideline,3,0,Male,Married,Yes,"<5,000",1
+John Paul Santiago Perez,Catholic,Elementary,Yes,No,None,Pension,3,69,Male,Single,Yes,"<5,000",1
+Manolet Ozar Salazar,Catholic,Secondary,Yes,No,Poultry,Work Income,3,59,Female,Married,Yes,"11,000-20,000",3
+Anastacia Santiago Salazar,Catholic,Secondary,Yes,No,None,None,3,58,Female,Married,Yes,"<5,000",1
+Gilmar San Buenaventura,Catholic,Secondary,Yes,No,None,4ps,3,31,Male,Single,No,"<5,000",1
+Mary Ann Santiago Salazar,Catholic,College,Yes,No,Business Owner,Business Income,3,23,Female,Single,No,"<5,000",1
+Mary Anthony Santiago Salazar,Catholic,Secondary,No,No,Construction,Work Salary,3,56,Male,Married,Yes,"<5,000",1
+Kennerlyn Villamayor Marcos,Catholic,Secondary,No,No,None,4ps,3,56,Female,Married,Yes,"<5,000",1
+Mary Kendra Marcos Salazar,Catholic,College,No,No,Police,Work Salary,3,55,Female,Married,Yes,"21,000-30,000",4
+Marcelo Lustre Santiago,Catholic,College,No,No,None,None,3,63,Male,Married,Yes,"21,000-30,000",4
+Helen Galas Santiago,Catholic,College,No,No,None,Pension,3,83,Female,Married,No,"21,000-30,000",4
+Marlene Galas Santiago,Catholic,Secondary,No,No,None,Pension,3,82,Female,Married,Yes,"<5,000",1
+Marinel Galas Santiago,Catholic,Elementary,No,No,None,Pension,3,77,Female,Widow,Yes,"<5,000",1
+Marky Cielo Galas Santiago,Catholic,Secondary,Yes,No,None,None,3,48,Male,Married,Yes,"<5,000",1
+Noel Dimla Lizarondo,Catholic,Secondary,Yes,No,OFW,Work Salary,3,46,Male,Married,Yes,"21,000-30,000",4
+Merlyn Aceban Lizarondo,Catholic,Secondary,Yes,No,None,Sideline,3,43,Female,Married,No,"11,000-20,000",3
+Angelo Aceban Lizarondo,Catholic,Secondary,Yes,No,None,Sideline,3,44,Male,Married,Yes,"11,000-20,000",3
+Angela Aceban Lizarondo,Catholic,College,Yes,No,Office,Work Salary,3,25,Female,Single,No,"11,000-20,000",3
+Patricia Santiago Carpio,Catholic,Secondary,No,No,Construction,Work Salary,3,44,Female,Separated,Yes,"11,000-20,000",3
+Jose Jess Baltazar Dionisio,Catholic,Unknown,No,No,None,4ps,3,55,Male,Unknown,Yes,"<5,000",1
+Lorna Carpio Dionisio,Catholic,Currently Studying,No,No,None,Student's Allowance,3,15,Female,Single,No,"<5,000",1
+Lara Jane Carpio Dionisio,Catholic,Secondary,Yes,No,None,None,3,63,Female,Married,Yes,"<5,000",1
+Miracle Carpio Dionisio,Catholic,Secondary,No,No,Laundry,Work Salary,3,36,Female,Married,Yes,"<5,000",1
+Joyce Lawrence Carpio Dionisio,Catholic,Secondary,No,No,None,Sideline,3,36,Female,Married,No,"<5,000",1
+Elena Dimla Lizarondo,Catholic,Secondary,No,Yes,None,Pension,3,70,Female,Married,Yes,"<5,000",1
+Rommel Dimla Lizarondo,Catholic,Secondary,No,Yes,None,Pension,3,70,Male,Married,Yes,"<5,000",1
+Joshina Shatakahashi,Catholic,College,No,Yes,Office,Work Salary,3,33,Female,Married,Yes,"11,000-20,000",3
+Evelyn Lizarondo Shatakahashi,Catholic,Secondary,No,Yes,None,4ps,3,38,Female,Married,No,"<5,000",1
+Randy Dimla Lizarondo,Catholic,College,No,No,OFW,Work Salary,3,35,Male,Married,Yes,"21,000-30,000",4
+Rina Laderas Lizarondo,Catholic,College,No,No,OFW,Work Salary,3,44,Female,Married,Yes,"21,000-30,000",4
+Elmer Canilao Esquilador,Catholic,College,No,No,Teacher,Work Salary,3,46,Male,Married,Yes,"11,000-20,000",3
+Eva Lizarondo Esquilador,Catholic,Currently Studying,No,No,None,Student's Allowance,3,16,Female,Single,No,"<5,000",1
+Eunice Joy Lizarondo Esquilador,Catholic,Elementary,No,No,Driver,Work Income,3,62,Female,Widower,Yes,"<5,000",1
+Mitiel James Lizarondo Esquilador,Catholic,Elementary,Yes,No,Driver,Work Income,3,65,Male,Married,Yes,"<5,000",1
+Temmy Dimla Lizarondo,Catholic,Secondary,Yes,No,None,Pension,3,64,Female,Married,No,"<5,000",1
+Emmanuel Roblos Puno,Catholic,College,No,Yes,None,None,3,36,Male,Single,Yes,"<5,000",1
+Jessa Mae Robles Velasco,Catholic,College,No,Yes,None,None,3,28,Female,Single,Yes,"<5,000",1
+Ayessa Maine Velasco Puno,Catholic,Secondary,No,Yes,None,4ps,3,53,Female,Widower,Yes,"<5,000",1
+King Namme Velasco Puno,Catholic,College,No,Yes,None,None,3,34,Male,Single,Yes,"<5,000",1
+Isagani Dimla Lizarondo,Catholic,College,Yes,No,Office,Work Salary,3,29,Male,Single,Yes,"11,000-20,000",3
+Roy Dimla Lizarondo,Catholic,Elementary,Yes,No,Nurse,Work Salary,3,85,Male,Widow,Yes,"11,000-20,000",3
+Perlita Tiongco Lizarondo,Catholic,College,Yes,No,OFW,Work Salary,3,56,Female,Married,Yes,"21,000-30,000",4
+Rose Marie Lizarondo,Catholic,College,No,No,OFW,Work Salary,3,28,Female,Married,Yes,"21,000-30,000",4
+Raymond Lizarondo,Catholic,Elementary,No,No,None,Sideline,3,81,Male,Widow,No,"<5,000",3
+Roy Vencent Laurente,Catholic,Secondary,No,No,None,None,3,57,Male,Married,Yes,"<5,000",1
+Gina Marie Tiongco Lizarondo,Catholic,College,No,No,Seaman,Work Salary,3,51,Female,Married,Yes,"21,000-30,000",4
+Alberto Fajardo Manalo,Catholic,Secondary,No,No,None,None,3,42,Male,Married,Yes,"21,000-30,000",4
+Sylvia Panganiban Manalo,Catholic,Secondary,No,No,Contractor,Work Income,3,61,Female,Married,Yes,"21,000-30,000",4
+Peter Albert Panganiban Manalo,Catholic,Secondary,No,No,Contractor,Work Income,3,58,Male,Married,Yes,"21,000-30,000",4
+Manuel Ligase Regencia,Catholic,Secondary,No,No,Business Owner,Business Income,3,34,Male,Married,Yes,"21,000-30,000",4
+Mary Anthoneth Manalo,Catholic,Secondary,No,No,None,4ps,3,27,Male,Married,No,"<5,000",1
+Peter Anthony Panganiban Manalo,Catholic,Secondary,No,No,Construction,Work Salary,3,36,Male,Married,No,"<5,000",1
+Miriam Panganiban Del Rosario,Catholic,Secondary,No,No,None,None,3,34,Female,Married,Yes,"<5,000",1
+Auring Del Rosario Manalo,Catholic,Secondary,No,No,Bakery,Business Income,3,43,Female,Married,Yes,"11,000-20,000",3
+Irene Torres Santos,Catholic,Secondary,No,No,Bakery,Business Income,3,41,Female,Married,No,"11,000-20,000",3
+Paola Del Rosario Torres Santos,Catholic,Elementary,Yes,Yes,None,Pension,3,75,Female,Married,No,"11,000-20,000",3
+Luisito Cruz Sytamco,Catholic,Elementary,Yes,Yes,None,Pension,3,65,Male,Married,No,"11,000-20,000",3
+Christia Isabelle Santos,Catholic,Secondary,No,Yes,Driver,Work Income,3,39,Female,Separated,Yes,"11,000-20,000",3
+Celistina Santos,Catholic,Elementary,No,Yes,None,Sideline,3,56,Female,Widower,Yes,"<5,000",1
+Joseph Benidict Torres Santos,Catholic,Currently Studying,No,No,None,Student's Allowance,3,18,Male,Single,No,"<5,000",1
+Maryann Caberos Sebastian,Catholic,Secondary,No,No,Pension,None,3,66,Female,Married,Yes,"<5,000",1
+Casey Sebastian,Catholic,College,No,No,None,Sideline,3,65,Female,Married,No,"<5,000",1
+Exiquel Galang Guitierrez,Catholic,Elementary,No,No,None,4ps,3,91,Male,Married,No,"<5,000",1
+Antonia Galang Cruz,Catholic,Elementary,No,No,None,4ps,3,88,Female,Married,Yes,"<5,000",1
+Alfredo Bustamante Maningas,Catholic,Secondary,No,No,Business Owner,Business Income,3,73,Male,Married,Yes,"11,000-20,000",3
+Dolores Galang Guitierres,Catholic,Secondary,No,No,None,Pension,3,81,Female,Married,No,"11,000-20,000",3
+John Hanzel Maningas,Catholic,Secondary,No,No,None,Sideline,3,35,Male,Separated,Yes,"<5,000",1
+Edizon Guiterres Maningas,Catholic,Secondary,Yes,Yes,None,Sideline,3,45,Male,Married,Yes,"<5,000",1
+Cindy Caberos Sebastian,Catholic,Secondary,Yes,Yes,None,None,3,34,Female,Married,Yes,"<5,000",1
+Clint Eon Sebastian Maningas,Catholic,Secondary,No,Yes,None,Sideline,3,81,Male,Widow,Yes,"<5,000",1
+Clyde Sebastian Maningas,Catholic,Secondary,No,No,Driver,Work Income,3,60,Male,Married,Yes,"<5,000",1
+Perla Tia,Catholic,Secondary,No,No,None,None,3,61,Female,Married,Yes,"<5,000",1
+Erick Pingo Puno,Catholic,College,No,No,Business Owner,Business Income,3,23,Male,Single,Yes,"11,000-20,000",3
+Victoria Aduna Robles,Catholic,College,No,No,Business Owner,Business Income,3,23,Female,Single,No,"11,000-20,000",3
+Baby Rose Aduna Robles,Catholic,Secondary,No,No,None,4ps,3,60,Female,Married,No,"<5,000",1
+Ervi Aduna Robles,Catholic,Secondary,No,No,None,None,3,60,Male,Married,Yes,"<5,000",1
+John Erick Aduna Robles,Catholic,College,No,No,Office,Work Salary,3,23,Male,Single,Yes,"11,000-20,000",3
+Richard Robles Puno,Catholic,College,No,No,None,Sideline,3,36,Male,Married,Yes,"11,000-20,000",3
+Erlinda Aduna Robles,Catholic,Secondary,No,No,None,Sideline,3,37,Female,Married,No,"<5,000",1
+Mario Aduna Robles,Catholic,College,No,No,None,Pension,3,71,Male,Widow,No,"<5,000",1
+Rudante Santiago Torres,Catholic,College,No,No,Office,Sideline,3,36,Male,Married,Yes,"11,000-20,000",3
+Felectias Robles Torres,Catholic,College,No,No,None,Sideline,3,36,Female,Married,Yes,"<5,000",1
+Karl Kristian Robles Torres,Catholic,Elementary,No,No,Volunteer,Sideline,3,66,Male,Married,No,"<5,000",1
+Kristine Robles Torres,Catholic,Elementary,No,No,None,None,3,65,Female,Married,Yes,"<5,000",1
+Graciano Quizon Robles,Catholic,Secondary,No,No,None,None,3,45,Female,Single,No,"<5,000",1
+Crisologo Baltazar Robles,Catholic,Secondary,No,No,None,None,3,43,Male,Single,No,"<5,000",1
+Marifi Quizon Robles,Catholic,Secondary,No,No,Business Owner,Business Income,3,25,Female,Single,No,"<5,000",1
+Joseph Cruz,Catholic,Elementary,Yes,No,None,Pension,3,91,Male,Married,No,"<5,000",1
+Criselda Robles Cruz,Catholic,Elementary,Yes,No,Driver,Work Income,3,66,Female,Married,No,"<5,000",1
+Louise Gabriel Cruz,Catholic,Elementary,Yes,Yes,None,Sideline,3,60,Male,Married,Yes,"<5,000",1
+Chrisostopher Joseph Robles Cruz,Catholic,Secondary,No,Yes,None,Sideline,3,57,Male,Married,No,"<5,000",1
+Erlindo Quimbao Reyes,Catholic,Secondary,No,Yes,Factory,Work Salary,3,35,Male,Married,Yes,"11,000-20,000",3
+Erwin Reyes,Catholic,Secondary,No,Yes,None,4ps,3,31,Male,Married,Yes,"<5,000",1
+Elmer Reyes,Catholic,Secondary,No,Yes,None,Sideline,3,30,Male,Married,No,"5,000-10,000",2
+Eduberto Baltazar Reyes,Catholic,Secondary,Yes,No,None,Sideline,3,35,Male,Married,Yes,"5,000-10,000",2
+Lyka Orogo Laynes Reyes,Born Again,Secondary,Yes,No,Teacher,Work Salary,3,57,Female,Separated,Yes,"11,000-20,000",3
+Prince Matthew Laynes Reyes,Catholic,Secondary,No,No,Driver,Work Income,3,46,Male,Married,Yes,"11,000-20,000",3
+Jerico Gayogoy Reyes,Catholic,Secondary,No,No,None,4ps,3,46,Male,Married,No,"<5,000",1
+Ross Ann Reyes,Catholic,Secondary,No,No,None,4ps,3,91,Female,Widow,No,"<5,000",1
+Syonon Reyes,Catholic,Secondary,No,No,None,4ps,3,56,Female,Widow,Yes,"<5,000",1
+Princess Reyes,Catholic,Secondary,Yes,Yes,Sales,Work Salary,3,43,Female,Widow,Yes,"11,000-20,000",3
+Edgardo Baltazar Reyes,Catholic,Secondary,Yes,No,None,Sideline,3,43,Male,Married,Yes,"<5,000",1
+Janice Baltazar Reyes,Catholic,Secondary,Yes,No,Teacher,Work Salary,3,58,Female,Married,No,"11,000-20,000",3
+Joshua Baltazar Reyes,Catholic,Secondary,Yes,No,Staff,Work Salary,3,30,Male,Married,Yes,"11,000-20,000",3
+Nicole Baltazar Reyes,Catholic,Secondary,No,No,Utility,Work Salary,3,28,Female,Married,Yes,"11,000-20,000",3
+John Christian Baltazar Reyes,Catholic,College,No,No,None,None,3,29,Male,Single,Yes,"11,000-20,000",3
+john Paul Baltazar Reyes,Catholic,Unknown,No,No,Office,Work Salary,3,2,Male,Single,No,"11,000-20,000",3
+Jessie Barolla Cortez,Catholic,Secondary,No,No,None,4ps,3,28,Female,Single,No,"<5,000",1
+Julie Anne Reyes Cortez,Catholic,College,No,No,None,None,3,25,Female,Single,Yes,"<5,000",1
+James Kellin Reyes Cortez,Catholic,Currently Studying,No,Yes,OFW,Work Salary,3,21,Male,Single,Yes,"<5,000",1
+Ropel Aduna Robles,Catholic,College,No,Yes,Kitchen,Work Salary,3,26,Male,Single,No,"11,000-20,000",3
+Jasmin Reyes Robles,Catholic,Secondary,Yes,No,None,Sideline,3,57,Female,Married,No,"5,000-10,000",2
+Rosmin Reyes Robles,Catholic,Secondary,No,No,None,Sideline,3,59,Male,Married,Yes,"5,000-10,000",2
+Haydelyn Reyes Robles,Catholic,College,Yes,No,None,Pension,3,57,Female,Single,Yes,"5,000-10,000",2
+Sayde Reyes Robles,Catholic,College,Yes,No,Poultry,Work Income,3,26,Female,Single,Yes,"5,000-10,000",2
+Macario Manalo Clemente,Catholic,College,Yes,No,None,None,3,23,Male,Single,No,"<5,000",1
+Cefedona Baltazar Clemente,Catholic,Secondary,Yes,No,None,4ps,3,38,Male,Married,Yes,"<5,000",1
+Richard Baltazar Clemente,Catholic,Secondary,Yes,No,Business Owner,Business Income,3,27,Male,Married,Yes,"5,000-10,000",2
+Fatima Balatzar Clemete,Catholic,College,No,No,Construction,Work Salary,3,40,Female,Married,Yes,"5,000-10,000",2
+Renato Roque,Catholic,College,No,No,None,4ps,3,34,Male,Married,Yes,"<5,000",1
+Maricel Clemente Roque,Catholic,College,No,No,Police,Work Salary,3,51,Female,Married,Yes,"21,000-30,000",4
+Kenz marion Clemente Roque,Catholic,College,No,No,None,None,3,24,Male,Married,No,"<5,000",1
+Adeliada Baltazar Valencia,Catholic,College,No,No,None,Pension,3,24,Female,Single,Yes,"5,000-10,000",2
+Joey Baylon Galang,Catholic,Secondary,No,No,None,Pension,3,63,Male,Single,No,"5,000-10,000",2
+Celerina Valencia Galang,Catholic,Primary,No,No,None,Pension,3,69,Female,Widow,Yes,"5,000-10,000",2
+John Lerry Valencia Galang,Catholic,Secondary,Yes,No,None,None,3,30,Male,Married,Yes,"<5,000",1
+Jovilyn Valencia Galang,Catholic,Secondary,Yes,No,OFW,Work Salary,3,30,Female,Married,Yes,"21,000-30,000",4
+Joler Valencia Galang,Catholic,Secondary,Yes,No,None,Sideline,3,45,Male,Separated,Yes,"<5,000",1
+Aracel Castro Roque,Catholic,Secondary,Yes,No,None,Sideline,3,24,Female,Single,Yes,"<5,000",1
+Gregorio Baltazar Valencia,Catholic,Secondary,Yes,No,Office,Work Salary,3,47,Male,Married,Yes,"11,000-20,000",3
+Shiela Roca Valencia,Catholic,Secondary,No,No,Construction,Work Salary,3,42,Female,Married,No,"5,000-10,000",2
+Jessica Roca Valencia,Catholic,Currently Studying,No,No,None,4ps,3,20,Female,Single,Yes,"<5,000",1
+Alexander Roca Valencia,Catholic,Currently Studying,No,No,None,Student's Allowance,3,16,Male,Single,No,"<5,000",1
+J.r Roca Valencia,Catholic,Currently Studying,Yes,No,None,None,3,16,Male,Single,Yes,"<5,000",1
+Samboy Roca Valencia,Catholic,Secondary,No,No,Construction,Work Salary,3,43,Male,Married,Yes,"5,000-10,000",2
+J.m Roca Valencia,Catholic,Secondary,No,No,None,Sideline,3,31,Male,Married,Yes,"5,000-10,000",2
+Ryan Roca Valencia,Catholic,Currently Studying,No,Yes,None,Pension,3,12,Male,Single,Yes,"5,000-10,000",2
+Gian Roca Valencia,Catholic,Currently Studying,No,Yes,None,Pension,3,11,Male,Single,Yes,"5,000-10,000",2
+Bienvenido Cabillo,Catholic,Currently Studying,No,Yes,Office,Work Salary,3,5,Male,Single,Yes,"11,000-20,000",3
+Purification Domingo cabillo,Catholic,Unknown,No,Yes,None,4ps,3,1,Female,Single,Yes,"<5,000",1
+Benedicto Halili Domingo,Catholic,Secondary,No,No,OFW,Work Salary,3,46,Male,Married,No,"21,000-30,000",4
+Juanito Halili Domingo,Catholic,Secondary,No,No,OFW,Work Salary,3,48,Male,Married,No,"21,000-30,000",4
+Elizabeth Reyes Domingo,Catholic,College,No,No,Teacher,Work Salary,3,27,Female,Single,No,"11,000-20,000",3
+Herbe Reyes Domingo,Catholic,Unknown,No,No,None,Student's Allowance,3,20,Female,Single,Yes,"<5,000",1
+Hendel Reyes Domingo,Catholic,Currently Studying,No,No,Driver,Work Income,3,13,Male,Single,No,"<5,000",1
+Hazel Reyes Domingo,Catholic,Secondary,Yes,No,Office,Work Income,3,31,Female,Married,No,"11,000-20,000",3
+Holand Reyes Domingo,Catholic,Secondary,Yes,No,None,Pension,3,28,Male,Married,Yes,"11,000-20,000",3
+Wilfredo Santos De Dios,Catholic,Unknown,No,Yes,None,None,3,5,Male,Single,Yes,"<5,000",1
+Glenda Quiciano De Dios,Catholic,Primary,No,Yes,None,None,3,77,Female,Married,Yes,"<5,000",1
+Winnie Grace Quiciano De Dios,Catholic,Primary,No,Yes,None,4ps,3,77,Female,Married,No,"<5,000",1
+Gwyneth Nazarene Quiciano De Dios,Catholic,College,No,Yes,None,None,3,60,Female,Married,No,"<5,000",1
+Reynaldo Santos De Dios,Catholic,College,Yes,No,Office,Work Salary,3,61,Male,Married,Yes,"21,000-30,000",4
+Maribel Santos De Dios,Catholic,College,Yes,No,Nurse,Work Salary,3,30,Female,Single,Yes,"21,000-30,000",4
+Benjamin Santos De Dios,Catholic,College,Yes,No,OFW,Work Salary,3,23,Male,Single,No,"21,000-30,000",4
+Olivia De Dios Atienza,Catholic,Secondary,No,No,OFW,Work Salary,3,59,Female,Married,No,"21,000-30,000",4
+Jeremiah Atienza,Catholic,Primary,No,No,None,Sideline,3,61,Male,Married,No,"5,000-10,000",2
+Joana Marie Atienza,Catholic,Secondary,No,No,None,None,3,27,Female,Single,Yes,"5,000-10,000",2
+Jicelle Marie  Atienza,Catholic,College,No,No,Seaman,Work Salary,3,26,Female,Single,Yes,"21,000-30,000",4
+Joshua Atienza,Catholic,Secondary,No,No,None,None,3,77,Male,Widow,Yes,"<5,000",1
+Jordan De Dios Atienza,Catholic,Unknown,No,No,Contractor,Work Income,3,0,Male,Unknown,No,"<5,000",1
+Mae Anne Gonzales Atienza,Catholic,College,No,No,Contractor,Work Income,3,30,Female,Unknown,No,"5,000-10,000",2
+France Jocob Gonzales Atienza,Catholic,Unknown,No,No,Business Owner,Business Income,3,6,Male,Unknown,No,"5,000-10,000",2
+Mamerto Reyes Santos,Catholic,Unknown,No,No,None,None,3,1,Male,Single,Yes,"<5,000",1
+Rosa Duras Santos,Catholic,Secondary,No,No,Construction,Work Salary,3,60,Female,Married,Yes,"5,000-10,000",2
+Bernard Duras Santos,Catholic,Secondary,No,No,None,None,3,62,Male,Married,Yes,"5,000-10,000",2
+David Duras Santos,Catholic,Secondary,No,No,Bakery,Business Income,3,19,Male,Single,No,"5,000-10,000",2
+Marilyn Santos Santos,Catholic,Primary,No,No,Bakery,Business Income,3,46,Female,Married,No,"5,000-10,000",2
+Michaela Santos Santos,Catholic,Secondary,Yes,Yes,None,Pension,3,35,Female,Married,Yes,"5,000-10,000",2
+Niko Allan Santos Santos,Catholic,Unknown,Yes,Yes,None,Pension,3,18,Male,Single,No,"5,000-10,000",2
+Teresita Santos Mariano,Catholic,Unknown,No,Yes,Driver,Work Income,3,16,Female,Single,No,"5,000-10,000",2
+Victor Santos Mariano,Catholic,Unknown,No,Yes,None,Sideline,3,13,Male,Single,Yes,"5,000-10,000",2
+Rosefina Lucas Mariano,Catholic,Secondary,No,No,None,None,3,45,Female,Married,Yes,"<5,000",1
+Rovie Lucas Mariano,Catholic,Secondary,No,No,Driver,Work Income,3,37,Male,Married,Yes,"5,000-10,000",2
+Ma. Louise Lucas Mariano,Catholic,Unknown,No,No,None,Sideline,3,14,Female,Single,Yes,"5,000-10,000",2
+Mamerto Santos Legaspi,Catholic,Secondary,No,No,None,4ps,3,49,Male,Married,Yes,"<5,000",1
+Bernadeth Santos Legaspi,Catholic,Secondary,No,No,None,4ps,3,53,Female,Married,Yes,"<5,000",1
+Mamerto Julio Santos Legaspi,Catholic,Unknown,No,No,Business Owner,Business Income,3,21,Female,Single,Yes,"5,000-10,000",2
+Mara Joseph Santos Legaspi,Catholic,Secondary,No,No,None,Pension,3,36,Male,Married,No,"<5,000",1
+Mecedita Legaspi Parangao,Catholic,Secondary,No,No,None,Sideline,3,37,Female,Married,No,"5,000-10,000",2
+Glenn Legaspi Parangao,Catholic,Unknown,Yes,Yes,None,Sideline,3,13,Female,Single,Yes,"<5,000",1
+Rozando Legaspi Santos,Catholic,Unknown,Yes,Yes,None,None,3,8,Male,Single,No,"<5,000",1
+Myrna Graces Santos,Catholic,Unknown,No,Yes,None,Sideline,3,6,Female,Single,No,"<5,000",1
+Madine Santos,Catholic,Secondary,No,No,Driver,Work Income,3,45,Female,Unknown,No,"5,000-10,000",2
+Angelo Santos,Catholic,Unknown,No,No,None,None,3,11,Male,Unknown,Yes,"<5,000",1
+Kelvin Santos,Catholic,Secondary,No,No,Business Owner,Business Income,3,57,Male,Single,Yes,"5,000-10,000",2
+Claude Santos,Catholic,Secondary,No,No,Business Owner,Business Income,3,49,Male,Single,Yes,"5,000-10,000",2
+Asikverio Santos Legaspi,Catholic,Secondary,No,No,None,4ps,3,36,Male,Married,No,"<5,000",1
+Rowena Santos Ojeda,Born Again,Secondary,No,No,None,None,3,34,Female,Married,No,"11,000-20,000",3
+Paolo Santos Ojeda,Catholic,Unknown,No,No,Office,Work Salary,3,11,Male,Single,Yes,"11,000-20,000",3
+Philip Santos Ojada,Catholic,Unknown,No,No,None,Sideline,3,9,Male,Single,Yes,"11,000-20,000",3
+Ana Pristina Ojeda,Catholic,Unknown,No,No,None,Sideline,3,7,Female,Single,Yes,"11,000-20,000",3
+Jerome Ching Jacinto,Catholic,Secondary,No,No,None,Pension,3,58,Male,Unknown,Yes,"<5,000",1
+Ana Patricia Legaspi,Catholic,Secondary,No,No,Office,Sideline,3,31,Female,Married,Yes,"11,000-20,000",3
+Jianna Alivia Legaspi Jacinto,Catholic,Secondary,No,No,None,Sideline,3,39,Female,Married,Yes,"<5,000",1
+Nestor Pintucan Rubio,Catholic,Unknown,No,No,Volunteer,Sideline,3,18,Male,Single,Yes,"<5,000",1
+Noelino Santiago Sarmiento,Catholic,Secondary,No,No,None,None,3,9,Male,Single,No,"<5,000",1
+Ma. Kristine Rubio Sarmiento,Catholic,Unknown,No,No,None,None,3,7,Female,Single,No,"<5,000",1
+Bea Nathalie Sarmiento,Catholic,Secondary,No,No,None,None,3,53,Female,Separated,Yes,"<5,000",1
+Leomar Rubio Sarmiento,Catholic,Secondary,No,No,Business Owner,Business Income,3,29,Male,Single,Yes,"<5,000",1
+Leonell Rubio Sarmiento,Catholic,Secondary,Yes,No,None,Pension,3,75,Male,Single,Yes,"11,000-20,000",3
+Jerald Reyna Mercado,Catholic,College,Yes,No,Driver,Work Income,3,36,Male,Married,No,"5,000-10,000",2
+Rochelle Legaspi Paguia,Catholic,Secondary,Yes,Yes,None,Sideline,3,32,Female,Married,Yes,"5,000-10,000",2
+Maria Elisah Paguia Mercado,Born Again,Secondary,No,Yes,None,Sideline,3,28,Female,Single,Yes,"11,000-20,000",3
+Allan Charles Rubio,Born Again,Secondary,No,Yes,Factory,Work Salary,3,24,Male,Single,Yes,"21,000-30,000",4
+Analyn Linsanga,Born Again,Secondary,No,Yes,None,4ps,3,22,Female,Single,Yes,"<5,000",1
+John Iberson Rubio,Born Again,Secondary,No,Yes,None,Sideline,3,17,Male,Single,Yes,"<5,000",1
+Ivan Charles Rubio,Unknown,Unknown,Yes,No,None,Sideline,3,0,Male,Unknown,No,"<5,000",1
+Bonifacio Santiago Sarmiento,Catholic,Secondary,Yes,No,Teacher,Work Salary,3,60,Male,Married,Yes,"21,000-30,000",4
+Catalina Hernandez Sarmiento,Catholic,College,No,No,Driver,Work Income,3,60,Female,Married,Yes,"11,000-20,000",3
+Christian Sarmiento,Catholic,Unknown,No,No,None,4ps,3,21,Male,Single,No,"<5,000",1
+Christine Sarmiento,Catholic,Secondary,No,No,None,4ps,3,37,Female,Separated,No,"<5,000",1
+Nemencio Santiago Sarmiento,Catholic,Primary,No,No,None,4ps,3,11,Male,Unknown,No,"<5,000",1
+Ronalyn Santiago Sarmiento,Catholic,Secondary,Yes,Yes,Sales,Work Salary,3,35,Female,Married,Yes,"21,000-30,000",4
+Ryza Sarmiento,Catholic,Secondary,No,No,Construction,Work Salary,3,0,Female,Married,Yes,"11,000-20,000",3
+Rui Sarmiento,Catholic,Unknown,No,No,None,None,3,5,Male,Single,Yes,"<5,000",1
+Hilaria A. Dionisio,Catholic,College,No,No,None,Sideline,4,43,Female,Married,Yes,"5,000-10,000",2
+Maribel A. Dionisio,Catholic,Secondary,No,No,None,Sideline,4,25,Female,Married,No,"<5,000",1
+Nolasco H. Dionisio,Catholic,College,No,No,None,Pension,4,91,Male,Widow,No,"21,000-30,000",4
+Mary Jonie U. Dionisio,Catholic,College,No,No,Office,Sideline,4,66,Female,Married,Yes,"11,000-20,000",3
+Basilia Santos,Catholic,College,No,No,None,Sideline,4,60,Female,Married,Yes,"5,000-10,000",2
+Josephine  Dionisio,Catholic,Elementary,No,No,Volunteer,Sideline,4,57,Female,Married,No,"5,000-10,000",2
+Joy Anne Dionisio,Catholic,Elementary,No,No,None,None,4,35,Female,Married,Yes,"5,000-10,000",2
+Billi Dionisio,Catholic,Secondary,No,No,None,None,4,31,Male,Single,No,"<5,000",1
+Roderick Halili,Catholic,Secondary,No,No,None,None,4,30,Male,Single,No,"<5,000",1
+Maria Halili,Catholic,Secondary,No,No,Business Owner,Business Income,4,35,Female,Single,No,"11,000-20,000",3
+Eryll Halili,Catholic,Elementary,Yes,No,None,Pension,4,57,Male,Married,No,"5,000-10,000",2
+John Efrem  Halili,Catholic,Elementary,Yes,No,Driver,Work Income,4,46,Male,Married,No,"11,000-20,000",3
+Mary Joy Halili,Catholic,Elementary,Yes,Yes,None,Sideline,4,46,Female,Married,Yes,"<5,000",1
+Mary loise Halili,Catholic,Secondary,No,Yes,None,Sideline,4,91,Female,Married,No,"<5,000",1
+Erika Halili,Catholic,Secondary,No,Yes,Factory,Work Salary,4,56,Female,Married,Yes,"21,000-30,000",4
+Corazon Torres,Catholic,Secondary,No,Yes,None,4ps,4,43,Female,Married,Yes,"<5,000",1
+Christian Torres,Catholic,Secondary,No,Yes,None,Sideline,4,36,Male,Married,No,"<5,000",1
+Angelina Capili,Catholic,Secondary,Yes,No,None,Sideline,4,37,Female,Married,Yes,"<5,000",1
+Aramdano Capili,Born Again,Secondary,Yes,No,Teacher,Work Salary,4,71,Male,Separated,Yes,"11,000-20,000",3
+Rogelio  Capili,Catholic,Secondary,No,No,Driver,Work Income,4,36,Male,Married,Yes,"11,000-20,000",3
+Reynaldo Capili,Catholic,Secondary,No,No,None,4ps,4,36,Male,Married,No,"<5,000",1
+Luzviminda Capili,Catholic,Secondary,No,No,None,4ps,4,66,Female,Widow,No,"<5,000",1
+Robert Obes,Catholic,Secondary,No,No,None,4ps,4,65,Male,Widow,Yes,"<5,000",1
+Delia Obes,Catholic,Secondary,Yes,Yes,Sales,Work Salary,4,56,Female,Widow,Yes,"21,000-30,000",4
+Mark Obes,Catholic,College,No,Yes,Office,Work Salary,4,26,Male,Married,Yes,"21,000-30,000",4
+Daniel Obes,Catholic,Secondary,No,Yes,None,4ps,4,56,Male,Widow,No,"<5,000",1
+Reycelyn Torres,Catholic,College,No,No,OFW,Work Salary,4,37,Female,Married,Yes,"21,000-30,000",4
+Rosasrio Obes,Catholic,College,No,No,OFW,Work Salary,4,31,Female,Single,Yes,"21,000-30,000",4
+Diomedes Dionisio,Catholic,College,No,No,Teacher,Work Salary,4,23,Female,Single,Yes,"21,000-30,000",4
+Cristine Dionisio,Catholic,Currently Studying,No,No,None,Student's Allowance,4,43,Female,Married,No,"<5,000",1
+Veronica Dionisio,Catholic,Elementary,No,No,Driver,Work Income,4,42,Female,Widow,Yes,"5,000-10,000",2
+Richard Dioniio,Catholic,Elementary,Yes,No,Driver,Work Income,4,58,Male,Widow,Yes,"5,000-10,000",2
+Lucetio Dionisio,Catholic,Secondary,Yes,No,None,Pension,4,43,Male,Widow,No,"5,000-10,000",2
+Mari Len Dionisio,Catholic,College,No,Yes,None,None,4,32,Female,Married,Yes,"<5,000",1
+Matt Dionisio,Catholic,College,No,Yes,None,None,4,33,Male,Married,Yes,"<5,000",1
+Lemuel Dionisio,Catholic,Secondary,No,Yes,None,4ps,4,22,Male,Single,Yes,"<5,000",1
+Leanne Dionisio,Catholic,College,No,Yes,None,None,4,53,Female,Married,Yes,"<5,000",1
+Stepahnie Yves,Catholic,College,Yes,No,Office,Work Salary,4,43,Female,Married,Yes,"21,000-30,000",4
+Lorenzo Manio,Catholic,Elementary,Yes,No,Nurse,Work Salary,4,51,Male,Married,Yes,"21,000-30,000",4
+Benilda Manio,Catholic,College,Yes,No,OFW,Work Salary,4,23,Female,Single,Yes,"21,000-30,000",4
+Mary Rose Manio,Catholic,College,No,No,OFW,Work Salary,4,43,Female,Married,Yes,"21,000-30,000",4
+Lorraine Samoy,Catholic,Elementary,No,No,None,Sideline,4,56,Female,Married,No,"<5,000",1
+Mark Samoy,Catholic,Secondary,No,No,None,4ps,4,23,Male,Single,Yes,"<5,000",1
+Leo SAMoy,Catholic,Secondary,Yes,Yes,Sales,Work Salary,4,44,Male,Married,Yes,"21,000-30,000",4
+Nhemo Dionisio,Catholic,College,No,Yes,Office,Work Salary,4,36,Male,Married,Yes,"21,000-30,000",4
+Cristopher Serano,Catholic,Elementary,No,No,None,None,4,62,Male,Widow,Yes,"<5,000",1
+Merceda Velgiano,Catholic,College,No,No,None,None,4,33,Female,Single,No,"<5,000",1
+Nestor Halili,Catholic,Currently Studying,No,No,Office,Work Salary,4,11,Male,Single,Yes,"21,000-30,000",4
+Camille Halili,Catholic,College,No,No,Office,Work Salary,4,50,Female,Married,Yes,"21,000-30,000",4
+Naomi Halili\,Catholic,College,No,No,Office,Work Salary,4,51,Female,Married,No,"21,000-30,000",4
+Susan Halili,Catholic,College,No,No,None,Student's Allowance,4,22,Female,Single,No,"5,000-10,000",2
+Elias Halili,Born Again,College,Yes,No,Retired,Pension,4,70,Male,Single,Yes,"11,000-20,000",3
+Gieige Haili,Born Again,College,Yes,No,Teacher,Work Salary,4,68,Female,Married,Yes,"21,000-30,000",4
+Nicole Perez,Catholic,College,No,Yes,None,None,4,68,Female,Married,Yes,"11,000-20,000",3
+Adrian Perez,Catholic,Secondary,No,Yes,Barangay Official,Work Salary,4,61,Male,Married,Yes,"21,000-30,000",4
+Marid Corrine Perez,Catholic,College,No,No,Office,Work Salary,4,61,Female,Married,Yes,"21,000-30,000",4
+Emilio Perez,Catholic,College,Yes,Yes,None,4ps,4,34,Male,Single,Yes,"<5,000",1
+Luningning Perez,Catholic,College,No,No,None,None,4,0,Female,Single,Yes,"<5,000",1
+Maynard Reynes,Catholic,Secondary,No,No,None,None,4,65,Male,Married,No,"<5,000",1
+Mark Reynes,Catholic,Secondary,No,No,None,None,4,70,Male,Married,No,"<5,000",1
+Maris Halili,Catholic,Currently Studying,No,No,Business Owner,Business Income,4,0,Female,Single,Yes,"5,000-10,000",2
+Hanna Halili,Catholic,Secondary,No,No,Business Owner,Business Income,4,47,Female,Married,Yes,"11,000-20,000",3
+Hailey Halili,Catholic,College,No,No,None,Student's Allowance,4,23,Female,Single,No,"5,000-10,000",2
+Malcon Judson,Catholic,Currently Studying,No,No,None,Student's Allowance,4,20,Male,Single,No,"5,000-10,000",2
+Melvin Halili,Catholic,Currently Studying,Yes,No,OFW,Work Income,4,19,Male,Single,No,"21,000-30,000",4
+Aileen Halili,Catholic,College,No,No,None,None,4,44,Female,Married,Yes,"<5,000",1
+Arabelle Halili,Catholic,College,No,No,None,Student's Allowance,4,36,Female,Married,No,"5,000-10,000",2
+Indiia Halili,Catholic,Currently Studying,No,No,None,Student's Allowance,4,20,Female,Single,No,"5,000-10,000",2
+Arnold Dabuo,Catholic,Currently Studying,No,Yes,Office,Work Salary,4,19,Male,Single,Yes,"21,000-30,000",4
+Anglina Daburo,Catholic,College,No,Yes,None,None,4,41,Female,Married,Yes,"<5,000",1
+Armando Domingo,Catholic,College,No,Yes,None,None,4,40,Male,Married,Yes,"<5,000",1
+Maria Pulido,Catholic,Currently Studying,No,No,None,Student's Allowance,4,19,Female,Single,No,"<5,000",1
+Emmanuel Dionisio,Catholic,College,No,No,Office,Work Salary,4,49,Male,Married,Yes,"21,000-30,000",4
+Marilyn Pulido,Catholic,College,No,No,Teacher,Work Salary,4,42,Female,Married,Yes,"21,000-30,000",4
+Charise Jane,Catholic,Currently Studying,No,No,None,Student's Allowance,4,14,Female,Single,No,"<5,000",1
+Katleen Joy,Catholic,Not Yet Studying,No,No,None,None,4,5,Female,Single,No,"<5,000",1
+Alexander Pulido,Catholic,Not Yet Studying,No,No,None,None,4,4,Male,Single,No,"<5,000",1
+Marlene Pulido,Born Again,Secondary,No,No,Driver,Work Income,4,41,Male,Married,Yes,"11,000-20,000",3
+John Allen,Born Again,Secondary,No,No,Sales,Work Salary,4,43,Female,Married,No,"21,000-30,000",4
+John Andrei,Born Again,College,No,No,Sales,Work Salary,4,23,Male,Single,No,"21,000-30,000",4
+Victoria Santos,Born Again,Currently Studying,No,No,None,Student's Allowance,4,15,Male,Single,No,"<5,000",1
+Lalaine Santos,Born Again,Currently Studying,No,No,None,Student's Allowance,4,12,Female,Single,No,"<5,000",1
+Levin Santos,Catholic,Elementary,Yes,No,Construction,Work Salary,4,62,Male,Separated,Yes,"21,000-30,000",4
+Jomar Manbat Lumba,Catholic,Secondary,Yes,No,None,None,4,28,Male,Single,No,"<5,000",1
+Lovely Santos,Catholic,Secondary,Yes,No,None,None,4,31,Female,Single,No,"<5,000",1
+Lawrencce Santos,Catholic,Secondary,No,No,None,None,4,35,Male,Separated,No,"<5,000",1
+Quenie Arbule,Catholic,Currently Studying,No,No,None,None,4,6,Female,Single,No,"<5,000",1
+Xyllah Santos,Catholic,Secondary,No,No,None,4ps,4,23,Female,Married,No,"<5,000",1
+Perlita Lizarondo,Catholic,Secondary,No,No,None,None,4,23,Female,Married,Yes,"<5,000",1
+Carolina Lizarondo,Catholic,Secondary,No,No,None,Pension,4,91,Female,Widow,Yes,"11,000-20,000",3
+Carlo Lizarondo,Catholic,College,Yes,No,None,None,4,49,Male,Married,Yes,"5,000-10,000",2
+Romy Quella,Catholic,College,No,No,Factory,Work Salary,4,24,Male,Single,Yes,"21,000-30,000",4
+Renato Lizarondo,Catholic,Currently Studying,No,No,None,Student's Allowance,4,16,Male,Single,No,"<5,000",1
+Vamgeline Lizaronfo,Catholic,Elementary,No,No,None,Pension,4,82,Female,Widow,Yes,"11,000-20,000",3
+Reynel Lizarondo,Catholic,Secondary,No,No,OFW,Work Salary,4,37,Male,Married,Yes,"21,000-30,000",4
+Crisanto Vasquez,Catholic,Secondary,No,No,None,None,4,30,Male,Married,Yes,"<5,000",1
+Teresita Vasquez,Catholic,Elementary,No,No,None,Pension,4,74,Female,Widow,Yes,"5,000-10,000",2
+Gerarld Vasquiez,Catholic,College,No,No,Teacher,Work Salary,4,49,Male,Single,Yes,"21,000-30,000",4
+King Vasquez,Catholic,College,No,No,None,None,4,45,Male,Single,No,"<5,000",1
+Kimbell Vasquez,Catholic,College,No,No,Teacher,Work Salary,4,54,Female,Separated,Yes,"11,000-20,000",3
+Kurt Tallara,Catholic,College,No,No,None,None,4,23,Male,Single,No,"<5,000",1
+Krizzy Kurato,Catholic,Secondary,No,No,Factory,Work Salary,4,43,Female,Married,Yes,"21,000-30,000",4
+Arcado Dionisio Baluyot,Catholic,Elementary,No,No,None,None,4,51,Male,Married,Yes,"<5,000",1
+Romano Baluyot,Adventist,Elementary,No,No,None,Pension,4,63,Male,Separated,Yes,"5,000-10,000",2
+Cecilia Baluyot,Adventist,College,No,No,OFW,Work Salary,4,35,Female,Single,Yes,"21,000-30,000",4
+Rey Fajardo,Catholic,Elementary,No,Yes,Fisherman,Work Income,4,70,Male,Married,Yes,"21,000-30,000",4
+Marienne Fajardo,Catholic,Elementary,No,Yes,Office,Work Salary,4,65,Female,Married,Yes,"21,000-30,000",4
+Raymar Fajardo,Catholic,Currently Studying,No,No,None,Student's Allowance,4,24,Male,Single,No,"<5,000",1
+Mario Baluyot,Catholic,Elementary,No,No,None,Pension,4,78,Male,Widower,Yes,"5,000-10,000",2
+Jose Roy Baluyot,Catholic,Currently Studying,No,No,None,Student's Allowance,4,26,Male,Single,No,"<5,000",1
+Eliza Baluyot,Catholic,College,No,No,None,None,4,58,Female,Married,Yes,"<5,000",1
+Patria Manio,Catholic,College,No,No,None,None,4,68,Female,Married,Yes,"<5,000",1
+Juvy Manio,Catholic,College,No,No,OFW,Work Salary,4,40,Female,Single,Yes,"21,000-30,000",4
+Joana Manio,Catholic,College,No,No,Factory,Work Salary,4,43,Female,Married,Yes,"21,000-30,000",4
+Jana Audrey Manio,Catholic,Secondary,No,No,Factory,Work Salary,4,39,Female,Separated,Yes,"21,000-30,000",4
+Sophie Manio,Catholic,Secondary,No,No,None,None,4,40,Female,Married,No,"<5,000",1
+Alyana Pangan,Catholic,Secondary,No,No,OFW,Work Salary,4,38,Female,Married,Yes,"21,000-30,000",4
+Jennfer Pangan,Catholic,College,No,No,None,None,4,42,Female,Separated,Yes,"<5,000",1
+Carmelita Dimla,Catholic,Secondary,No,No,None,None,4,22,Female,Married,No,"<5,000",1
+Cristilito Dimla,Catholic,Secondary,No,No,None,4ps,4,25,Female,Married,No,"<5,000",1
+Christopher Dimla,Catholic,Secondary,No,No,None,None,4,0,Male,Married,No,"<5,000",1
+Angeline Dimla,Catholic,Secondary,No,No,None,None,4,72,Female,Married,Yes,"<5,000",1
+Marlon Dimla,Catholic,Elementary,No,No,Business Owner,Business Income,4,0,Male,Married,Yes,"11,000-20,000",3
+Mayumi Torres,Catholic,Secondary,No,No,Driver,Work Income,4,0,Female,Married,Yes,"11,000-20,000",3
+Hirumi Torres,Catholic,Secondary,No,No,None,None,4,0,Female,Married,Yes,"5,000-10,000",2
+Shaka Nataochi,Catholic,College,No,No,Office,Work Salary,4,0,Female,Single,Yes,"11,000-20,000",3
+Yolanda Dionisio Vivar,Catholic,Secondary,No,No,Driver,Work Income,4,56,Female,Married,Yes,"11,000-20,000",3
+Leo Vivar,Catholic,Elementary,No,No,Lender,Work Income,4,52,Male,Married,Yes,"11,000-20,000",3
+Lester Vivar,Catholic,College,No,No,Office,Work Salary,4,24,Male,Single,Yes,"<5,000",1
+Leslie Vivar,Catholic,Secondary,No,No,None,None,4,0,Female,Single,No,"11,000-20,000",3
+Reign Vivar,Catholic,Secondary,No,No,SDA,Work Income,4,35,Female,Separated,Yes,"11,000-20,000",3
+Eugenio De Leon,Catholic,Currently Studying,No,No,None,Student's Allowance,4,17,Male,Single,No,"<5,000",1
+Bonifacio De Leon,Catholic,Secondary,No,No,Furniture,Work Income,4,42,Male,Married,Yes,"11,000-20,000",3
+Gerald De Leon,Catholic,Secondary,No,No,Laundry,Work Income,4,52,Male,Married,Yes,"11,000-20,000",3
+Eugene De Leon,Catholic,College,No,No,Office,Work Salary,4,23,Male,Single,Yes,"11,000-20,000",3
+Coleta De Leon,Catholic,Currently Studying,No,No,None,Student's Allowance,4,15,Male,Single,No,"<5,000",1
+Aldrin De Leon,Catholic,College,No,No,None,None,4,26,Male,Single,No,"<5,000",1
+Alberto De Leon,Catholic,Secondary,No,No,Construction,Work Salary,4,56,Male,Married,Yes,"5,000-10,000",2
+Elvira De Leon,Catholic,Secondary,No,No,None,None,4,56,Female,Married,No,"<5,000",1
+Jay De leon,Catholic,Secondary,No,No,Construction,Work Salary,4,25,Male,Single,Yes,"5,000-10,000",2
+John De Leon,Catholic,Secondary,No,No,Construction,Work Salary,4,53,Male,Married,Yes,"5,000-10,000",2
+Robyeth Baluyot,Catholic,Elementary,No,No,None,None,4,55,Male,Married,Yes,"<5,000",1
+Nina De Leon,Catholic,Currently Studying,No,No,None,Student's Allowance,4,20,Female,Single,No,"<5,000",1
+Ethea Baluyot,Catholic,Unknown,No,No,None,None,4,0,Female,Single,No,"<5,000",1
+Jalen De Leon,Catholic,Secondary,No,Yes,Construction,Work Salary,4,23,Female,Married,Yes,"5,000-10,000",2
+Jsohua Fajardo,Catholic,Secondary,No,Yes,Business Owner,Business Income,4,54,Male,Married,No,"11,000-20,000",3
+Edwin De Leon,Catholic,Secondary,No,Yes,None,None,4,26,Male,Married,No,"<5,000",1
+John Gabriel De Leon,Catholic,Secondary,No,Yes,Landscape,Work Income,4,49,Male,Married,Yes,"21,000-30,000",4
+John Zeth De Leon,Catholic,Secondary,No,Yes,None,Sideline,4,47,Male,Married,Yes,"<5,000",1
+John Matet De Leon,Catholic,Secondary,No,No,None,Pension,4,91,Female,Widow,Yes,"11,000-20,000",3
+Florante De Guzman,Adventist,Secondary,No,No,None,Pension,4,81,Male,Widow,Yes,"11,000-20,000",3
+Susan Nabong,Adventist,Secondary,No,No,None,Pension,4,76,Male,Widow,Yes,"11,000-20,000",3
+Jhe Laeza Pau Nabong,Adventist,Secondary,No,No,None,None,4,56,Male,Widower,Yes,"<5,000",1
+Pastor Yamat,Born Again,Secondary,Yes,No,Contractor,Work Salary,4,57,Male,Married,Yes,"5,000-10,000",2
+Anabele Yamat,Born Again,Elementary,No,No,None,Pension,4,91,Female,Widow,Yes,"5,000-10,000",2
+Phoebe de Yamat,Born Again,Secondary,Yes,No,None,None,4,52,Female,Separated,Yes,"5,000-10,000",2
+Pamela Yamat,Born Again,Currently Studying,Yes,No,Business Owner,Business Income,4,22,Female,Single,No,"11,000-20,000",3
+Precilla Yamat Orcales,Born Again,Secondary,No,No,None,None,4,66,Female,Widow,Yes,"<5,000",1
+Raul Orcales,Born Again,Secondary,No,No,Painter,Work Salary,4,46,Male,Married,Yes,"11,000-20,000",3
+Calvin Oracales,Born Again,Secondary,No,No,Laundry,Work Salary,4,53,Male,Married,No,"11,000-20,000",3
+Myrna Yamat,Born Again,Currently Studying,No,No,None,Student's Allowance,4,21,Female,Single,No,"<5,000",1
+Hanaka Yamat,Adventist,Secondary,No,No,Foreman,Work Salary,4,57,Female,Married,Yes,"11,000-20,000",3
+Jaime Yamat,Adventist,Secondary,No,No,None,None,4,53,Female,Married,No,"<5,000",1
+Clarisse Yamat,Adventist,College,No,No,Office,Work Salary,4,27,Female,Single,Yes,"11,000-20,000",3
+Resha Yamat,Catholic,Secondary,No,No,None,None,4,36,Female,Married,Yes,"<5,000",1
+Ramie Yamat,Catholic,Secondary,No,No,OFW,Work Salary,4,26,Male,Married,Yes,"21,000-30,000",4
+Marilynn Yamat,Catholic,Secondary,No,No,None,None,4,0,Female,Married,Yes,"<5,000",1
+Franze Railey Yamat,Catholic,Secondary,No,No,None,4ps,4,0,Male,Married,Yes,"<5,000",1
+Nicole Yamat,Catholic,College,No,No,None,None,4,59,Female,Married,Yes,"<5,000",1
+Arnel Angeles,Catholic,College,No,No,Construction,Work Salary,4,58,Female,Married,Yes,"5,000-10,000",2
+Ma. Luisa Angeles,Catholic,College,No,No,None,Sideline,4,39,Female,Married,Yes,"<5,000",1
+Arisa Angeles,Catholic,College,No,No,None,Sideline,4,24,Female,Married,Yes,"<5,000",1
+Arionel Angeles,Catholic,Secondary,No,No,None,None,4,0,Female,Single,Yes,"<5,000",1
+Aren Anegeles,Catholic,Secondary,Yes,No,None,4ps,4,43,Female,Married,Yes,"<5,000",1
+Maricel Yamat,Catholic,Secondary,Yes,Yes,None,4ps,4,36,Female,Married,Yes,"<5,000",1
+Bella Yamat,Catholic,Elementary,Yes,Yes,Business Owner,Business Income,4,0,Female,Single,Yes,"5,000-10,000",2
+Ma. Elena C. Yamat,Catholic,College,No,No,OFW,Work Salary,4,57,Female,Married,Yes,"21,000-30,000",4
+Ma. Isabel Yamat,Catholic,College,No,No,None,Sideline,4,54,Female,Married,Yes,"<5,000",1
+Edgar A. Pigon Jr,Catholic,Currently Studying,No,No,None,Student's Allowance,4,13,Male,Single,No,"<5,000",1
+Conrado Lechico Gallego,Born Again,College,Yes,No,Contractor,Work Salary,4,58,Male,Married,Yes,"21,000-30,000",4
+Franscisca Yamat,Born Again,College,Yes,No,None,None,4,57,Female,Married,Yes,"<5,000",1
+Sara Yamat,Born Again,College,Yes,No,Office,Work Salary,4,26,Female,Single,Yes,"21,000-30,000",4
+Henry Tolentino Yambao,Born Again,College,Yes,No,Office,Work Salary,4,22,Male,Single,Yes,"21,000-30,000",4
+Harry Yambao,Catholic,Unknown,No,No,None,4ps,4,0,Male,Unknown,Yes,"<5,000",1
+Harvy Yambao,Catholic,Secondary,No,No,None,Sideline,4,59,Male,Married,Yes,"<5,000",1
+Norma Yambao,Catholic,College,No,No,None,Sideline,4,55,Female,Married,Yes,"<5,000",1
+Jocelyn V. Yambao,Catholic,Currently Studying,No,No,None,Student's Allowance,4,18,Female,Single,No,"<5,000",1
+Jhoreen Yambao,Catholic,Secondary,Yes,No,Contractor,Work Salary,4,66,Female,Married,Yes,"21,000-30,000",4
+Antonio Yambao Jr.,Catholic,Secondary,No,No,None,None,4,67,Male,Married,No,"<5,000",1
+Michelle Mendozav,Catholic,College,Yes,Yes,Contractor,Work Salary,4,38,Female,Married,Yes,"21,000-30,000",4
+Ma. Chelsea Yambao,Catholic,College,Yes,Yes,None,None,4,38,Female,Married,Yes,"<5,000",1
+Cheska Scarlet,Catholic,Currently Studying,No,No,None,Student's Allowance,4,0,Female,Single,No,"<5,000",1
+Jason D Geamoga,Catholic,College,Yes,No,None,None,4,41,Male,Single,Yes,"<5,000",1
+Joana Geamoga,Catholic,College,Yes,No,OFW,Work Salary,4,36,Female,Single,Yes,"21,000-30,000",4
+Nica Coleen Geamoga,Catholic,College,Yes,No,Office,Work Salary,4,33,Female,Separated,Yes,"21,000-30,000",4
+Natasha Nicole Geamoga,Catholic,College,Yes,No,None,None,4,10,Female,Single,Yes,"<5,000",1
+Frederick Buensuesco,Catholic,Secondary,No,Yes,Office,Work Salary,4,43,Male,Married,Yes,"21,000-30,000",4
+Ofelia Buensusesco,Catholic,Secondary,No,Yes,None,None,4,40,Female,Married,Yes,"5,000-10,000",2
+Lyka Buensesco,Catholic,Secondary,Yes,Yes,Barangay Official,Work Salary,4,46,Female,Married,Yes,"11,000-20,000",3
+Juluis Bunsusesco,Catholic,Secondary,Yes,Yes,Business Owner,Business Income,4,45,Male,Married,Yes,"11,000-20,000",3
+Akiro Buensusesco,Catholic,College,No,No,OFW,Work Salary,4,20,Female,Married,Yes,"21,000-30,000",4
+Luigi Buesuesco,Catholic,Secondary,No,No,None,Sideline,4,88,Male,Married,Yes,"<5,000",1
+Simon Rubio,Catholic,Secondary,Yes,No,None,Sideline,5,43,Male,Married,Yes,"<5,000",1
+Lucila Caso,Catholic,College,Yes,No,Teacher,Work Salary,5,58,Female,Married,No,"11,000-20,000",3
+Michael Jeff Rubio,Catholic,Secondary,Yes,No,Staff,Work Salary,5,30,Male,Married,Yes,"11,000-20,000",3
+Angeline Rubio,Catholic,Secondary,No,No,Utility,Work Salary,5,28,Female,Married,Yes,"5,000-10,000",2
+A.Marieta jean Rubio,Catholic,College,No,No,None,None,5,29,Female,Single,Yes,"<5,000",1
+Harleen Quinzel Capili,Catholic,College,No,No,Office,Work Salary,5,31,Female,Single,No,"21,000-30,000",4
+Mark Joseph Rubio,Catholic,Secondary,No,No,None,4ps,5,28,Male,Single,No,"<5,000",1
+Maria teresa Rubio,Catholic,College,No,No,None,None,5,25,Female,Single,Yes,"11,000-20,000",3
+Marvin Rubio,Catholic,Currently Studying,No,Yes,OFW,Work Salary,5,21,Male,Single,Yes,"21,000-30,000",4
+Marjorie Rubio,Catholic,College,No,Yes,Kitchen,Work Salary,5,26,Female,Single,No,"11,000-20,000",3
+Jaime Rubio,Catholic,Secondary,Yes,No,None,Sideline,5,57,Male,Married,No,"5,000-10,000",2
+Cecilia Rubio,Catholic,Secondary,No,No,None,Sideline,5,50,Female,Married,Yes,"5,000-10,000",2
+James Rubio,Catholic,College,Yes,No,None,Pension,5,61,Male,Single,Yes,"5,000-10,000",2
+Jia Mae Rubio,Catholic,College,Yes,No,Poultry,Work Income,5,26,Female,Single,Yes,"5,000-10,000",2
+Jamie Rubio,Catholic,College,Yes,No,None,Work Salary,5,23,Female,Single,No,"11,000-20,000",3
+Jayare Serrano,Catholic,Secondary,Yes,No,None,4ps,5,38,Male,Married,Yes,"<5,000",1
+Jonny Vasquez,Catholic,Secondary,Yes,No,Business Owner,Business Income,5,27,Female,Married,Yes,"11,000-20,000",3
+Raymond Flores,Catholic,College,No,No,Construction,Work Salary,5,40,Male,Married,Yes,"5,000-10,000",2
+Jicell Flores,Catholic,College,No,No,Office,Work Salary,5,34,Female,Married,Yes,"11,000-20,000",3
+Pepito Aguilar,Catholic,College,No,No,Police,Work Salary,5,51,Male,Married,Yes,"21,000-30,000",4
+Isabelita Aguilar,Catholic,College,No,No,Office,Work Salary,5,24,Female,Married,No,"21,000-30,000",4
+Marrieane Aguilar,Catholic,Secondary,No,No,None,Pension,5,24,Female,Single,Yes,"<5,000",1
+Serafin Carpio,Catholic,Secondary,No,No,None,Pension,5,63,Male,Single,No,"5,000-10,000",2
+Esmeralda Dionisio,Catholic,Primary,No,No,None,Pension,5,69,Female,Widow,Yes,"5,000-10,000",2
+Claude Dionisio,Catholic,Secondary,Yes,No,None,None,5,30,Male,Married,Yes,"5,000-10,000",2
+Melissa Dionisio,Catholic,Secondary,Yes,No,OFW,Work Salary,5,30,Female,Married,Yes,"21,000-30,000",3
+Carina Perez,Catholic,Secondary,Yes,No,None,Sideline,5,45,Male,Separated,Yes,"5,000-10,000",2
+Johan Perez,Catholic,Secondary,Yes,No,None,Sideline,5,24,Male,Single,Yes,"5,000-10,000",2
+Joselito Manio,Catholic,Secondary,Yes,No,Office,Work Salary,5,47,Male,Married,Yes,"11,000-20,000",3
+Jeniffer Manio,Catholic,Secondary,No,No,Construction,Work Salary,5,42,Female,Married,No,"5,000-10,000",2
+Joffer Manio,Catholic,Currently Studying,No,No,None,4ps,5,20,Male,Single,Yes,"<5,000",1
+Joffernina Manio,Catholic,Currently Studying,No,No,None,Student's Allowance,5,16,Female,Single,No,"<5,000",1
+Jilliah Manio,Catholic,Currently Studying,Yes,No,None,None,5,16,Female,Single,Yes,"<5,000",1
+Darwin Manio,Catholic,Secondary,No,No,Construction,Work Salary,5,43,Male,Married,Yes,"5,000-10,000",2
+Daisy Ponciano,Catholic,Secondary,No,No,None,Sideline,5,31,Female,Married,Yes,"5,000-10,000",2
+Kurt Daniel Manio,Catholic,Currently Studying,No,Yes,None,Pension,5,12,Male,Single,Yes,"<5,000",1
+Kate Manio,Catholic,Currently Studying,No,Yes,None,Pension,5,11,Female,Single,Yes,"<5,000",1
+Kris Manio,Catholic,Currently Studying,No,Yes,Office,Student's Allowance,5,5,Female,Single,Yes,"<5,000",1
+Kerbie Manio,Catholic,Unknown,No,Yes,None,4ps,5,25,Male,Single,Yes,"5,000-10,000",2
+Rocando Torres,Catholic,Secondary,No,No,OFW,Work Salary,5,46,Male,Married,No,"21,000-30,000",4
+Lucia Torres,Catholic,Secondary,No,No,OFW,Work Salary,5,48,Female,Married,No,"21,000-30,000",4
+Errol Torres,Catholic,College,No,No,Teacher,Work Salary,5,27,Male,Single,No,"21,000-30,000",4
+Kate Torres,Catholic,Unknown,No,No,None,Student's Allowance,5,20,Female,Single,Yes,"<5,000",1
+Jania Torres,Catholic,Secondary,No,No,Driver,Work Income,5,31,Female,Single,No,"5,000-10,000",2
+John Lyndon Tuano,Catholic,Secondary,Yes,No,Driver,Work Income,5,31,Male,Married,No,"5,000-10,000",2
+Allysa Tuano,Catholic,Secondary,Yes,No,None,Pension,5,28,Female,Married,Yes,"5,000-10,000",2
+Agson Tuano,Catholic,Unknown,No,Yes,None,None,5,5,Male,Single,Yes,"<5,000",1
+Edmundo Coja,Catholic,Primary,No,Yes,None,None,5,54,Male,Married,Yes,"<5,000",1
+Bonita Coja,Catholic,Primary,No,Yes,None,4ps,5,35,Female,Married,No,"5,000-10,000",2
+Arturo Acosta,Catholic,College,No,Yes,None,None,5,60,Male,Married,No,"5,000-10,000",2
+Maura Acosta,Catholic,College,Yes,No,Office,Work Salary,5,61,Female,Married,Yes,"21,000-30,000",4
+Maureen Acosta,Catholic,College,Yes,No,Nurse,Work Salary,5,30,Female,Single,Yes,"21,000-30,000",4
+Arnel Acosta,Catholic,College,Yes,No,OFW,Work Salary,5,23,Male,Single,No,"11,000-20,000",3
+mario Reyes,Catholic,Secondary,No,No,OFW,Work Salary,5,59,Male,Married,No,"21,000-30,000",4
+Guillerma Reyes,Catholic,Primary,No,No,None,Sideline,5,61,Female,Married,No,"<5,000",1
+Mary Jane Reyes,Catholic,Secondary,No,No,None,None,5,27,Female,Single,Yes,"5,000-10,000",2
+Jonah Reyes,Catholic,College,No,No,Seaman,Work Salary,5,26,Male,Single,Yes,"21,000-30,000",4
+Laureana Reyes,Catholic,Secondary,No,No,None,None,5,77,Female,Widow,Yes,"5,000-10,000",2
+Jericho Reyes,Catholic,Unknown,No,No,Contractor,Work Income,5,45,Male,Unknown,No,"5,000-10,000",2
+Emmalou Reyes,Catholic,College,No,No,Contractor,Work Income,5,30,Female,Unknown,No,"11,000-20,000",3
+Kaldon Arcila,Catholic,Unknown,No,No,Business Owner,Business Income,5,48,Male,Unknown,No,"11,000-20,000",3
+Ylona Reyes,Catholic,Unknown,No,No,None,4ps,5,1,Female,Single,Yes,"<5,000",1
+Edgardo Reyes,Catholic,Secondary,No,No,Construction,Work Salary,5,60,Male,Married,Yes,"5,000-10,000",2
+Maria Reyes,Catholic,Secondary,No,No,None,None,5,62,Female,Married,Yes,"5,000-10,000",2
+Edmarie Reyes,Catholic,Secondary,No,No,Bakery,Business Income,5,19,Female,Single,No,"5,000-10,000",2
+Pablo Reyes,Catholic,Primary,No,No,Bakery,Business Income,5,46,Male,Married,No,"11,000-20,000",3
+Ma.Carolina Reyes,Catholic,Secondary,Yes,Yes,None,Pension,5,35,Female,Married,Yes,"5,000-10,000",2
+Louis clark Reyes,Catholic,Unknown,Yes,Yes,None,Pension,5,18,Male,Single,No,"5,000-10,000",2
+kaycee Reyes,Catholic,Unknown,No,Yes,Driver,Work Income,5,16,Female,Single,No,"5,000-10,000",2
+Kristian Reyes,Catholic,Unknown,No,Yes,None,Sideline,5,13,Female,Single,Yes,"<5,000",1
+Crisanto Reyes,Catholic,Secondary,No,No,None,Work Income,5,45,Male,Married,Yes,"5,000-10,000",2
+Madel Reyes,Catholic,Secondary,No,No,Driver,Work Income,5,37,Female,Married,Yes,"11,000-20,000",3
+Mark Reyes,Catholic,Unknown,No,No,None,Sideline,5,14,Male,Single,Yes,"<5,000",1
+Pepito Reyes,Catholic,Secondary,No,No,None,4ps,5,49,Male,Married,Yes,"5,000-10,000",2
+Eliza Hagos,Catholic,Secondary,No,No,None,4ps,5,53,Female,Married,Yes,"5,000-10,000",2
+Angela Hapin,Catholic,Unknown,No,No,Business Owner,Business Income,5,21,Female,Single,Yes,"11,000-20,000",3
+Jimmark Flores,Catholic,Secondary,No,No,None,Pension,5,36,Male,Married,No,"5,000-10,000",2
+Jasmin Flores,Catholic,Secondary,No,No,None,Sideline,5,37,Female,Married,No,"5,000-10,000",2
+Jimmin Flores,Catholic,Unknown,Yes,Yes,None,Sideline,5,13,Female,Single,Yes,"<5,000",1
+Jossiah Flores,Catholic,Unknown,Yes,Yes,None,None,5,8,Male,Single,No,"<5,000",1
+Jia Zyric Flores,Catholic,Unknown,No,Yes,None,Sideline,5,6,Female,Single,No,"<5,000",1
+Marlyn Raco,Catholic,Secondary,No,No,Driver,Work Income,5,45,Female,Unknown,No,"5,000-10,000",2
+Jhon Ronmark  De Leon,Catholic,Unknown,No,No,None,None,5,11,Male,Unknown,Yes,"<5,000",1
+Sophia Reyes,Catholic,Secondary,No,No,Business Owner,Business Income,5,57,Female,Single,Yes,"11,000-20,000",3
+Cristina Lagro,Catholic,Secondary,No,No,Business Owner,Business Income,5,49,Female,Single,Yes,"11,000-20,000",3
+Noel Occicental,Catholic,Secondary,No,No,None,4ps,5,36,Male,Married,No,"5,000-10,000",2
+Rani Vecente,Born Again,Secondary,No,No,None,None,5,34,Female,Married,No,"5,000-10,000",2
+Princess Occidental,Catholic,Unknown,No,No,Office,Work Salary,5,11,Female,Single,Yes,"<5,000",1
+Pauline Occidental,Catholic,Unknown,No,No,None,Sideline,5,9,Female,Single,Yes,"<5,000",1
+Patricia Occidental,Catholic,Unknown,No,No,None,Sideline,5,7,Female,Single,Yes,"<5,000",1
+Jesusa Torres,Catholic,Secondary,No,No,None,Pension,5,58,Female,Unknown,Yes,"5,000-10,000",2
+Jethrodol David Sr.,Catholic,Secondary,No,No,Office,Sideline,5,31,Male,Married,Yes,"11,000-20,000",3
+Nina Mendoza,Catholic,Secondary,No,No,None,Sideline,5,39,Female,Married,Yes,"5,000-10,000",2
+Allan Mendoza,Catholic,Unknown,No,No,Volunteer,Sideline,5,18,Male,Single,Yes,"<5,000",1
+Alyanah Mendoza,Catholic,Secondary,No,No,None,None,5,9,Female,Single,No,"<5,000",1
+Jethrodol David Jr.,Catholic,Unknown,No,No,None,None,5,7,Male,Single,No,"<5,000",1
+Sotoro Torres,Catholic,Secondary,No,No,None,None,5,53,Male,Separated,Yes,"5,000-10,000",2
+Sharmaine Torres,Catholic,Secondary,No,No,Business Owner,Business Income,5,29,Female,Single,Yes,"11,000-20,000",3
+mark Angelo Torres,Catholic,Secondary,Yes,No,None,Pension,5,24,Male,Single,Yes,"5,000-10,000",2
+Roberto Catipon,Catholic,College,Yes,No,Driver,Work Income,5,36,Male,Married,No,"5,000-10,000",2
+Catherine Catipon,Catholic,Secondary,Yes,Yes,None,Sideline,5,32,Female,Married,Yes,"5,000-10,000",2
+Fedlyn Raco,Born Again,Secondary,No,Yes,None,Sideline,5,28,Female,Single,Yes,"5,000-10,000",2
+Francis Raco,Born Again,Secondary,No,Yes,Factory,Work Salary,5,24,Male,Single,Yes,"5,000-10,000",2
+Fatima Raco,Born Again,Secondary,No,Yes,None,4ps,5,22,Female,Single,Yes,"<5,000",1
+Tredorick raco,Born Again,Secondary,No,Yes,None,Sideline,5,17,Male,Single,Yes,"<5,000",1
+Marhifie Raco,Unknown,Unknown,Yes,No,None,Sideline,5,0,Female,Unknown,No,"<5,000",1
+Edwin Nunan,Catholic,Secondary,Yes,No,Teacher,Work Salary,5,60,Male,Married,Yes,"21,000-30,000",4
+Socorro Nunan,Catholic,College,No,No,Driver,Work Income,5,60,Female,Married,Yes,"5,000-10,000",2
+Carina Nunan,Catholic,Unknown,No,No,None,4ps,5,21,Female,Single,No,"<5,000",1
+Erwin Nunan,Catholic,Secondary,No,No,None,4ps,5,37,Male,Separated,No,"5,000-10,000",2
+Sherwin Nunan,Catholic,Primary,No,No,None,4ps,5,11,Male,Unknown,No,"<5,000",1
+Edson Nunan,Catholic,Secondary,Yes,Yes,Sales,Work Salary,5,35,Male,Married,Yes,"11,000-20,000",3
+Pamela Lomotan,Catholic,Secondary,No,No,Construction,Work Salary,5,0,Female,Married,Yes,"5,000-10,000",2
+Buentura Nunan,Catholic,Unknown,No,No,Driver,Work Income,5,5,Female,Single,Yes,"<5,000",1
+Eric Nunan,Catholic,Secondary,No,No,None,Student's Allowance,5,33,Male,Married,Yes,"<5,000",1
+Rose Ann Nunan,Catholic,College,No,No,None,Student's Allowance,5,33,Female,Married,Yes,"<5,000",1
+Vinco Nunan,Catholic,Unknown,No,No,Volunteer,4ps,5,13,Male,Single,Yes,"<5,000",1
+Erica Mae Nunan,Catholic,Unknown,No,No,None,None,5,11,Female,Single,Yes,"<5,000",1
+Ron Paulo Vicente,Catholic,Secondary,No,No,OFW,Work Salary,5,32,Male,Single,Yes,"21,000-30,000",4
+Raniel Vicente Sr.,Catholic,Secondary,No,No,Teacher,Work Salary,5,28,Male,Separated,No,"21,000-30,000",4
+Rose Marie Vicente,Catholic,Unknown,No,No,None,None,5,21,Female,Single,Yes,"5,000-10,000",2
+Randell Vecente,Catholic,Unknown,No,No,Nurse,Work Salary,5,13,Male,Single,No,"11,000-20,000",3
+Roselyn Tores Vicente,Catholic,Secondary,No,No,OFW,Work Salary,5,23,Female,Married,Yes,"11,000-20,000",3
+Geronimo Balatbat,Catholic,Secondary,No,Yes,None,None,5,25,Male,Married,Yes,"5,000-10,000",2
+Colerina Balatbat,Catholic,Secondary,No,Yes,None,None,5,48,Female,Married,Yes,"5,000-10,000",2
+Jayson balatbat,Catholic,Secondary,No,No,Driver,Work Income,5,25,Male,Married,No,"5,000-10,000",2
+Yumiko Balatbat,Catholic,Secondary,No,No,None,None,5,25,Female,Married,No,"5,000-10,000",2
+Roberto Torres,Catholic,Secondary,No,No,None,Student's Allowance,5,0,Male,Married,Yes,"<5,000",1
+Rizalina torres,Catholic,Secondary,No,No,None,None,5,31,Female,Married,No,"5,000-10,000",2
+Arvie Torres,Catholic,Unknown,No,No,Driver,Work Income,5,14,Male,Single,Yes,"<5,000",1
+Aldon Torres,Catholic,Unknown,No,No,None,Pension,5,8,Male,Single,Yes,"<5,000",1
+Florencio,Catholic,Secondary,No,No,Driver,Work Income,5,45,Male,Married,Yes,"5,000-10,000",2
+Mary Rose Bautista,Catholic,Secondary,No,No,None,None,5,39,Female,Married,No,"5,000-10,000",2
+Trixia Mui Bautista,Catholic,Unknown,No,No,None,None,5,12,Female,Single,No,"<5,000",1
+Jhoryll Bautista,Catholic,Unknown,No,No,None,Pension,5,15,Female,Single,Yes,"<5,000",1
+Frecious torres,Catholic,Unknown,No,No,Office,Work Salary,5,11,Female,Single,No,"<5,000",1
+Jesus Torres,Catholic,Primary,No,No,None,None,5,64,Male,Married,No,"11,000-20,000",3
+Armelinda Torres,Catholic,Primary,No,No,None,4ps,5,64,Female,Married,Yes,"5,000-10,000",2
+Virginia David,Catholic,Secondary,No,No,None,None,5,43,Female,Widow,Yes,"5,000-10,000",2
+Ronald David,Catholic,Secondary,Yes,No,Office,Work Salary,5,20,Male,Single,Yes,"11,000-20,000",3
+Rayna David,Catholic,Unknown,Yes,No,None,None,5,14,Female,Single,Yes,"<5,000",1
+Ron Lamber Francisco,Catholic,Secondary,Yes,No,None,Sideline,5,24,Male,Single,Yes,"5,000-10,000",2
+Ronalyn David,Catholic,Unknown,Yes,No,None,Student's Allowance,5,23,Female,Single,Yes,"<5,000",1
+Awer Francisco,Catholic,Unknown,No,No,None,None,5,4,Male,Single,Yes,"<5,000",1
+Lieza Torres,Catholic,Secondary,No,No,None,Pension,5,36,Female,Single,Yes,"5,000-10,000",2
+Ryan Torres,Catholic,Secondary,No,No,Office,Work Salary,5,35,Male,Single,Yes,"21,000-30,000",4
+Richard Torres,Born Again,Secondary,No,No,None,Student's Allowance,5,18,Male,Married,No,"<5,000",1
+Genovera Torres,Born Again,Secondary,No,No,Driver,Work Income,5,52,Female,Married,Yes,"5,000-10,000",2
+Arrieane Torres,Born Again,Unknown,No,No,Construction,Work Salary,5,30,Female,Single,Yes,"5,000-10,000",2
+Chem manquil,Catholic,Primary,No,No,None,None,5,50,Male,Married,No,"5,000-10,000",2
+Mylin Manquil,Catholic,Primary,No,No,Factory,Work Salary,5,40,Female,Married,No,"11,000-20,000",3
+Charlyn Manquil,Catholic,Secondary,No,No,Factory,Work Salary,5,19,Female,Single,Yes,"5,000-10,000",2
+Jovelyn Manquil,Catholic,Unknown,No,No,None,None,5,18,Female,Single,No,"<5,000",1
+John Michael Manquil,Catholic,Unknown,No,No,OFW,Work Salary,5,14,Male,Single,Yes,"<5,000",1
+Mark Lorence Manquil,Catholic,Unknown,No,No,None,None,5,11,Male,Single,Yes,"<5,000",1
+Nemoncio Sabino,Catholic,College,No,No,None,None,5,60,Male,Married,Yes,"5,000-10,000",2
+Anita Sabino,Catholic,College,No,No,None,4ps,5,53,Female,Married,Yes,"5,000-10,000",2
+Ana Nonita Sabino,Catholic,College,No,No,None,None,5,30,Female,Single,Yes,"11,000-20,000",3
+Ana Norissa Sabino,Catholic,College,No,No,None,None,5,26,Female,Single,Yes,"11,000-20,000",3
+Paulina Cabazal,Catholic,Primary,No,No,Business Owner,Business Income,5,57,Female,Widow,Yes,"11,000-20,000",3
+Jose Sabino,Catholic,Secondary,No,No,Driver,Work Income,5,30,Male,Married,Yes,"5,000-10,000",2
+Mariel Sabino,Catholic,Secondary,No,No,None,None,5,30,Female,Married,Yes,"5,000-10,000",2
+Liam sabino,Catholic,Unknown,No,No,Office,Work Salary,5,2,Male,Single,Yes,"11,000-20,000",3
+Lucila Santos,Catholic,Secondary,No,No,Driver,Work Income,5,58,Female,Unknown,Yes,"5,000-10,000",2
+Nicolas santos,Catholic,Secondary,No,No,Lender,Work Income,5,31,Male,Married,Yes,"11,000-20,000",3
+Ricardo Dias,Catholic,Secondary,No,No,Office,Work Salary,5,39,Male,Married,Yes,"11,000-20,000",3
+Rachell Diaz,Catholic,Unknown,No,No,None,None,5,18,Male,Single,Yes,"<5,000",1
+Veronica Diaz,Catholic,Secondary,No,No,SDA,None,5,9,Female,Single,Yes,"<5,000",1
+John Anthony Reyes,Catholic,Unknown,No,No,None,Student's Allowance,5,7,Male,Single,No,"<5,000",1
+Mark Angol Reyes,Catholic,Secondary,No,No,Furniture,Work Income,5,53,Male,Separated,Yes,"5,000-10,000",2
+Janet Carpio,Catholic,Secondary,No,No,Laundry,Work Income,5,29,Female,Single,Yes,"5,000-10,000",2
+Jayson Carpio,Catholic,Secondary,No,No,Office,Work Salary,5,24,Male,Single,Yes,"21,000-30,000",4
+Jeffry Carpio,Catholic,College,No,No,None,Student's Allowance,5,36,Male,Married,Yes,"5,000-10,000",2
+John Paul Carpio,Catholic,Secondary,No,No,None,None,5,32,Male,Married,Yes,"5,000-10,000",2
+Annabele Carpilo,Catholic,Secondary,No,No,Construction,Work Salary,5,28,Female,Single,Yes,"5,000-10,000",2
+Alvin Carpio,Catholic,Secondary,No,No,None,None,5,24,Male,Single,Yes,"<5,000",1
+Jaypee Carpio,Catholic,Secondary,No,No,Construction,Work Salary,5,22,Male,Single,No,"5,000-10,000",2
+Lynbee Carpip,Catholic,Secondary,No,No,Construction,Work Salary,5,17,Female,Single,Yes,"<5,000",1
+Anthony Vivero,Catholic,Unknown,No,No,None,None,5,0,Male,Unknown,No,"<5,000",1
+Marie Vivero,Catholic,Secondary,No,No,None,Student's Allowance,5,60,Female,Married,Yes,"<5,000",1
+Francis Vivero,Catholic,College,No,No,None,None,5,60,Male,Married,Yes,"5,000-10,000",2
+Mark Andrei Vivero,Catholic,Unknown,No,Yes,Construction,Work Salary,5,21,Male,Single,No,"5,000-10,000",2
+Anthony Vivero,Catholic,Secondary,No,Yes,Business Owner,Business Income,5,37,Male,Separated,Yes,"11,000-20,000",3
+Grayson Vivero,Catholic,Primary,No,Yes,None,None,5,11,Male,Unknown,Yes,"<5,000",1
+Rasalle Sales,Catholic,Secondary,No,Yes,Landscape,Work Income,5,35,Female,Married,Yes,"5,000-10,000",2
+Raizei Sales,Catholic,Secondary,No,Yes,None,Sideline,5,0,Female,Married,Yes,"<5,000",1
+Raizhan Sales,Catholic,Unknown,No,No,None,Pension,5,5,Female,Single,Yes,"<5,000",1
+Feliza Sales,Catholic,Secondary,No,No,None,Pension,5,33,Female,Married,Yes,"5,000-10,000",2
+Alma Santos,Catholic,College,No,No,None,Pension,5,33,Female,Married,Yes,"11,000-20,000",3
+Jasmin Santos,Catholic,Unknown,No,No,None,None,5,13,Female,Single,Yes,"<5,000",1
+Jess Clarin Azueta,Catholic,Unknown,Yes,No,Contractor,Work Salary,5,27,Male,Single,No,"5,000-10,000",2
+Karmell Navaliza,Catholic,Secondary,No,No,None,Pension,5,32,Female,Single,Yes,"5,000-10,000",2
+Gregorio Aguilar,Catholic,Secondary,Yes,No,None,None,5,28,Male,Separated,Yes,"5,000-10,000",2
+Jeff Aguilar,Catholic,Unknown,Yes,No,Business Owner,Business Income,5,21,Male,Single,Yes,"11,000-20,000",3
+Feniffer Aguilar,Catholic,Secondary,No,No,None,None,5,36,Female,Single,Yes,"<5,000",1
+Camella Galang,Catholic,Secondary,No,No,Painter,Work Salary,5,26,Female,Single,Yes,"5,000-10,000",2
+Rosemel Galang,Catholic,Secondary,No,No,Laundry,Work Salary,5,0,Male,Single,Yes,"<5,000",1
+Ricardo Putane,Catholic,Secondary,No,No,None,Student's Allowance,5,0,Male,Single,Yes,"<5,000",1
+Catherin Putatne,Catholic,College,No,No,Foreman,Work Salary,5,59,Male,Single,Yes,"5,000-10,000",2
+Jenny Putane,Catholic,College,No,No,None,None,5,58,Female,Single,Yes,"5,000-10,000",2
+John Gabriel Putane,Catholic,College,No,No,Office,Work Salary,5,39,Male,Single,Yes,"11,000-20,000",3
+John Kurt Putane,Catholic,College,No,No,None,None,5,24,Male,Single,Yes,"5,000-10,000",2
+Angle Putane,Catholic,Secondary,No,No,OFW,Work Salary,5,31,Female,Single,Yes,"21,000-30,000",4

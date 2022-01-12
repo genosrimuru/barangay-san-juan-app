@@ -1,0 +1,236 @@
+<html>
+    <head>
+        <title></title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+        <link rel="stylesheet" href="css/stylesheet.css">
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/billboard.js/dist/billboard.min.css">
+        <script src="https://d3js.org/d3.v5.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/billboard.js/dist/billboard.min.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" integrity="sha512-Fo3rlrZj/k7ujTnHg4CGR2D7kSs0v4LLanw2qksYuRlEzO+tcaEPQogQ0KaoGN26/zrn20ImR1DfuLWnOo7aBA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
+    </head>
+    <body>
+
+      <div id="login-form">
+        <input id="username" type="text" placeholder="Username">
+        <input id="password" type="password" placeholder="Username">
+        <button id="login-user">Login</button>
+      </div>
+      <div id="all-pages"> 
+        <nav>
+            <img src="../San Juan Logo-modified.png" class="logo"> <br>
+            <div class="Title">
+                <h3>PAMAHALAANG BARANGAY NG</h3>
+                <h1>SAN JUAN</h1>
+                <ul>
+                    <li><button id="Visualization-tab">VISUALIZATION</button></li>
+                    <li><button id="Population-tab">POPULATION</button></li>
+                    <li><button id="Financial-tab">FINANCIAL AID</button></li>
+                    <li><button id="About-tab">ABOUT</button></li>
+                    <li><button id="logout-button"><i class="fas fa-sign-out-alt"></i></button></li>
+                </ul>
+            </div>
+
+            <hr>
+        </nav>
+      
+      
+  
+      <div id="Index-Table">
+          <span id="visualization-title">VISUALIZATION</span>
+          <br>
+          <span id="filter-text">FILTER:</span>
+          <select id="visualization-filter">
+            <option value="0">Social Class</option>
+            <option value="1">Gender</option>
+            <option value="2">Civil Status</option>
+            <option value="3">Educational Attainment</option>
+          </select>
+          <button id="visualization-filter-btn">GO</button>
+          <table id="visualization-header">
+            <tr>
+              <th>Type: Barangay</th>
+              <th>Municipality: Hagonoy</th>
+              <th>Province: Bulacan</th>
+              <th>Region: III</th>
+              <th>Island Group: Luzon</th>
+              <th>Postal Code: 3002</th>
+            </tr>
+          </table>
+          <div class="tables-chart">
+            <div id="chart-border">
+              <div id="visualization-legends">
+              </div>
+              <div id="visualization-chart"></div>
+              <span class="chart-bold">Zone | Purok</span>
+            </div>
+            <div class="more-visualization">
+              <table id="visualization-table">
+              </table>
+              <div class="bottom-visualization">
+                <table id="visualization-total">
+                </table>
+                <div id="visualization-total-data">
+                  <span id="vtotal-title">TOTAL DATA</span>
+                  <span id="vtotal-data">123898</span>
+                </div>
+              </div>
+            </div>
+          </div>
+          <span id="visualization-hint">San Juan is situated at approximately 14.8661, 120.7414, in the island of Luzon. Elevation at these coordinates is estimated at 8.1 meters or 26.6 feet above mean sea level.</span>
+      </div>
+
+
+      <div id="population-view">
+        
+        <button id="btn-add">ADD</button>
+      <label id="buhay-label" >Social Class:</label>
+          <select id="buhay">
+              <option value="1" selected>1 = Poor</option>
+              <option value="2">2 = Low income</option>
+              <option value="3">3 = Middle income</option>
+              <option value="4">4 = High income</option>
+          </select>
+      <label id="purok-label" >Zone</label>
+          <select id="zone">
+              <option value="1" selected>1</option>
+              <option value="2">2</option>
+              <option value="3">3</option>
+              <option value="4">4</option>
+              <option value="5">5</option>
+          </select>
+          <div class="button-sa-filter">
+          <button  id="btn-filter"><i class="fas fa-check"></i></button>
+          <button id="btn-filter-data" id="btn-reset"><i class="fas fa-redo-alt"></i></button>
+        </div>
+          <br>
+          <table id="Population-Table"></table>
+          
+          
+      </div>
+      <br>
+      <div id="form-edit">
+          <form >
+             <label>Name:</label>
+             <input id="newname" type="text" required ><br>
+             <label>Age:</label>
+             <input id="newage" type="text" required><br>
+             <label>Gender:</label>
+             <input id="newgender" type="text" required><br>
+             <label >Civil Status:</label>
+             <input id="newstatus" type="text" required><br>
+             <label >Zone: </label>
+             <input id="newzone" type="text" required><br>
+             <label >Work:</label>
+             <input id="newwork" type="text" required><br>
+             <label >Source of Income: </label>
+             <input id="newincome" type="text" required><br>
+             <label >Budget: </label>
+             <input id="newbudget" type="text" required><br>
+             <label>Social Class: </label>
+             <input id="newclass" type="text" required><br>
+             <label>Educational Attainment: </label>
+             <input id="neweducational" type="text" required><br>
+             <button id="new-record">Update</button>&nbsp <button id="form-close">Close</button>
+          </form>
+      </div>
+
+
+      <div id="financial-view">
+
+
+        <p id="financial-title">FINANCIAL AID</p>
+        <br>
+        <table id="Financial-Table"></table>
+        <br>
+        <button id="btn-add-Schedule">ADD</button>
+      </div>
+
+
+      <div id="about">
+       
+          <h1>MISYON</h1>
+          <p><b>Pamahalaan na may katapatan, may kababaang loob ang buong nasasakupan. Walang kinikilingan, luntiang kapaligiran, payapa ang isipan, nagkakaisa, nagtutulungan, nagdadamayan at kapakanan ng kapwa ay pinahahalagahan.</b></p>
+          <h1>PANANAW</h1>
+          <p><b> barangay na payapa, tahimik at may malinis na kapaligiran. Nagkakaisa ang mga mamamayan at aktibong nakikilahok ang bawat sektor sa mga programa at proyektong tungo sa ikauunlad ng pamayanan na pinamumunuan ng tapat at maayos na pamahalaan.</b></p>
+      </div>
+
+      <div class="citizen">
+          <table>
+             <form >
+             <label class="name">Name:</label>
+             <input id="citizen-name" type="text" required><br>
+             <label class="name">Age:</label>
+             <input id="citizen-age" type="text" required><br>
+             <label class="name">Gender:</label>
+             <input id="citizen-gender" type="text" required><br>
+             <label class="name">Civil Status:</label>
+             <input id="citizen-status" type="text" required><br>
+             <label class="name">Zone: </label>
+             <input id="citizen-zone" type="text" required><br>
+             <label class="name">Work:</label>
+             <input id="citizen-work" type="text" required><br>
+             <label class="name">Source of Income: </label>
+             <input id="citizen-income" type="text" required><br>
+             <label class="name">Budget: </label>
+             <input id="citizen-budget" type="text" required><br>
+             <label class="name">Social Class: </label>
+             <input id="citizen-class" type="text" required><br>
+             <label class="name">Educational Attainment: </label>
+             <input id="citizen-educational" type="text" rqeuired><br>
+
+             <button id="submit-citizen">Confirm</button>
+             <button id="btn-back-population">Back</button>
+          </form>
+         
+      </table>
+    </div>
+
+
+
+    <div class="schedule">
+      <table>
+         <form >
+         <label >Zone:</label>
+         <input id="schedule-zone" type="text" required><br>
+         <label >Social Class:</label>
+         <input id="schedule-socialclass" type="text" required><br>
+         <label>Schedule Date:</label>
+         <input id="schedule-scheduledate" type="text" required><br>
+         <label >Schedule Time:</label>
+         <input id="schedule-scheduletime" type="text" required><br>
+         <label>Amount: </label>
+         <input id="schedule-amount" type="text" required><br>
+        
+
+         <button id="submit-schedule">Confirm</button>
+         <button id="btn-back-financial">Back</button>
+      </form>
+     
+  </table>
+</div>
+
+<div id="form-edit-schedule">
+  <form class="form-financial">
+     <label>Zone:</label>
+     <input id="newzone1" type="text" required ><br>
+     <label>Social Class:</label>
+     <input id="newsocialclass" type="text" required><br>
+     <label>Schedule Date:</label>
+     <input id="newscheduledate" type="text" required><br>
+     <label >Schedule Time:</label>
+     <input id="newscheduletime" type="text" required><br>
+     <label >Amount: </label>
+     <input id="newamount" type="text" required><br>
+     <button id="new-sched">Update</button>&nbsp; <button id="close-form-sched">Close</button>
+  </form>
+</div>
+
+<script src="js/login.js"></script>
+<script src="js/population.js"></script>
+<script src="js/visualization.js"></script>
+<script src="js/financial.js"></script>
+</div>
+
+    </body>
+</html>
