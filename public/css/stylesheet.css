@@ -35,7 +35,10 @@ button{
 button:hover{
   background-color: blueviolet;
 }
-
+.nav-button{
+  width: 150px;
+  height: 40px;
+}
 
 
 .ud-button{
@@ -51,11 +54,14 @@ button:hover{
 #form-edit{
   display: none;
   align-content: center;
+  margin-left: 40%;
+  background-color: lightgray;
   
 }
 #form-edit-schedule
 {
   display: none;
+  
 }
 
 label{
@@ -90,14 +96,59 @@ form
   text-align: center;
   justify-content: center;
 }
+.login-view{  
+  margin-top: 50%;
+  height: 80px;
+  margin-top: 20%;
+}
 
+
+.login-logo {
+  height: 150px;
+  width: 150px;
+  position: absolute;
+}
+
+.login-word-small{
+  position: absolute;
+  margin-top: 13%;
+}
+
+.login-word{
+  position: absolute;
+  margin-top: 14%;
+  font-weight: bolder;
+  font-size: 50px;
+}
 
 .schedule{
   display: none;
 }
 
+#login-form{
+  
+  justify-content: center;
+  display: flex;
+  margin-top: 10%;
+  
+
+}
+.login-user{
+  border-radius: 100px;
+  background-color: none;
+}
+.citizen table tr:last-child td:last-child{
+  margin-left: 90%;
+}
+
 .citizen{
   display: none;
+  border: solid black 2px;
+  border-radius: 5px;
+  width: 300px;
+  justify-content: center;
+  display: flex;
+  margin-left: 40%;
 }
 #btn-Add{
   display: none;
@@ -242,9 +293,15 @@ form
 
 .citizen {
   text-align: center;
+  justify-content: center;
 }
+
+.citizen table 
 #form-edit{
   text-align: center;
+  justify-content: center;
+  position: absolute;
+
 }
 #index-table {
   text-align: center;
