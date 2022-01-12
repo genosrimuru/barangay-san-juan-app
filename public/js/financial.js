@@ -33,8 +33,9 @@ financial.addEventListener('click', function(){
     $('#btn-filter').css('display', 'none')
     $('#btn-filter-data').css('display', 'none')
     $('#about').css('display', 'none')
-    $('#financial-view').css('display', 'block')
+    $('#financial-view').css('display', 'flex')
     $('.schedule').css('display', 'none')
+    $('#form-edit-schedule').css('display', 'none')
   })
 
   btnaddschedule.addEventListener('click', function(){
@@ -55,8 +56,9 @@ financial.addEventListener('click', function(){
   fetchSchedule()
 
 
-  createSchedule.addEventListener('click', function(){
-    event.preventDefault()
+  createSchedule.addEventListener('click', function(){ 
+    if ( $('#schedule-zone').val()!= "" && $('#schedule-socialclass').val() != "" && $('#schedule-scheduledate').val() != "" && $('#schedule-scheduletime').val() != "" && $('#schedule-amount').val() != ""){
+      event.preventDefault()
       $.ajax({
       url: '/add-schedule',
       method: 'POST',
@@ -77,10 +79,13 @@ financial.addEventListener('click', function(){
         
       }
   
-    })
+    })  
+    }
+    
   })
 
 function fetchSchedule(){
+  
     $.ajax({
         url: '/fetch-schedule',
         method: 'GET',
@@ -105,6 +110,9 @@ function fetchSchedule(){
                       <td>${ result[k].Scheduletime}</td>\
                       <td>${ result[k].Amount}</td>\
                       <td> <button class="ud-button" id="edit-${ k }" pop-sched-date="${ result[k].Scheduledate }" pop-sched-time="${ result[k].Scheduletime }" pop-zone="${result[k].Zone}"><i class="fas fa-user-edit"></i></button>
+
+                      <button class="ud-button" id="schedule-${ k }-delete" schedule-zone="${ result[k].Zone }" schedule-socialclass="${ result[k].Socialclass }" schedule-scheduledate="${ result[k].Scheduledate}"schedule-scheduletime="${ result[k].Scheduletime }" schedule-amount="${ result[k].Amount }"><i class="fas fa-trash-alt"></i></button></td>
+
                     </tr>\
                 `)
                 const btnedit = document.getElementById("edit")
@@ -147,6 +155,26 @@ function fetchSchedule(){
                   }
                  })
                })
+
+               $(`#schedule-${ k }-delete`).click(function() {
+                event.preventDefault()
+                $.ajax({
+                    url: '/delete-schedule',
+                    method: 'POST',
+                    data: {
+                        zone: $(this).attr('schedule-zone'),
+                        socialclass: $(this).attr('schedule-socialclass'),
+                        scheduledate: $(this).attr('schedule-scheduledate'),
+                        scheduletime: $(this).attr('schedule-scheduletime'),
+                        amount: $(this).attr('schedule-amount'),
+                    },
+                    success: function(result) {
+                        alert('Deleted')
+                        fetchSchedule()
+                    }
+                })
+            })
+
             }
         }
      })
