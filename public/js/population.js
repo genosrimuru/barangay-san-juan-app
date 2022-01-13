@@ -89,6 +89,7 @@ visualization.addEventListener('click', function(){
   $('#btn-filter-data').css('display', 'none')
   $('#about').css('display', 'none')
   $('.schedule').css('display', 'none')
+  $('#financial-view').css('display', 'none')
 })
 
 
