@@ -82,7 +82,7 @@ form
 }
 
 .form-financial{
-  position: absolute;
+  
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -145,10 +145,12 @@ form
   display: none;
   border: solid black 2px;
   border-radius: 5px;
+  height: 350px;
   width: 300px;
   justify-content: center;
-  display: flex;
   margin-left: 40%;
+  text-align: center;
+  
 }
 #btn-Add{
   display: none;
@@ -291,12 +293,8 @@ form
     margin-right: 200px;
   }
 
-.citizen {
-  text-align: center;
-  justify-content: center;
-}
 
-.citizen table 
+
 #form-edit{
   text-align: center;
   justify-content: center;
