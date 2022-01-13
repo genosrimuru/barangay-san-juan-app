@@ -111,7 +111,6 @@
 
 
       <div id="population-view">
-        
         <button id="btn-add">ADD</button>
       <label id="buhay-label" >Social Class:</label>
           <select id="buhay">
@@ -202,20 +201,29 @@
         <table id="Financial-Table"></table>
         <br>
         <button id="btn-add-Schedule">ADD</button>
+        <div id="form-edit-schedule">
+          <form class="form-financial">
+             <label>Zone:</label>
+             <input id="newzone1" type="text" required ><br>
+             <label>Social Class:</label>
+             <input id="newsocialclass" type="text" required><br>
+             <label>Schedule Date:</label>
+             <input id="newscheduledate" type="text" required><br>
+             <label >Schedule Time:</label>
+             <input id="newscheduletime" type="text" required><br>
+             <label >Amount: </label>
+             <input id="newamount" type="text" required><br>
+             <button id="new-sched">Update</button>&nbsp; <button id="close-form-sched">Close</button>
+          </form>
+        </div>
       </div>
 
 
-      <div id="about">
-       
-          <h1>MISYON</h1>
-          <p><b>Pamahalaan na may katapatan, may kababaang loob ang buong nasasakupan. Walang kinikilingan, luntiang kapaligiran, payapa ang isipan, nagkakaisa, nagtutulungan, nagdadamayan at kapakanan ng kapwa ay pinahahalagahan.</b></p>
-          <h1>PANANAW</h1>
-          <p><b> barangay na payapa, tahimik at may malinis na kapaligiran. Nagkakaisa ang mga mamamayan at aktibong nakikilahok ang bawat sektor sa mga programa at proyektong tungo sa ikauunlad ng pamayanan na pinamumunuan ng tapat at maayos na pamahalaan.</b></p>
-      </div>
+    
 
       <div class="citizen">
-          <table>
-             <form >
+          <table >
+             <form id="citizen-table-1" >
                <tr>
                  <td><label class="name">Name:</label></td>
                 <td><input id="citizen-name" type="text" required><br></td>
@@ -237,28 +245,28 @@
      
             <tr>
               <td><label class="name">Zone: </label></td>
-              <td><input id="citizen-zone" type="text" required><br></td>
+              <td><input id="citizen-zone" type="text" placeholder="zone number" required><br></td>
             </tr>
             
              <tr>
                <td> <label class="name">Work:</label></td>
-               <td><input id="citizen-work" type="text" required><br></td>
+               <td><input id="citizen-work" type="text" placeholder="current work"required><br></td>
              </tr>
              <tr>
                <td> <label class="name">Source of Income: </label></td>
-               <td> <input id="citizen-income" type="text" required><br></td>
+               <td> <input id="citizen-income" type="text" placeholder=""required><br></td>
              </tr>
             <tr>
               <td><label class="name">Budget: </label></td>
               <td> <input id="citizen-budget" type="text" required><br></td>
             </tr>
             <tr>
-              <td><label class="name">Social Class: </label></td>
-              <td><input id="citizen-class" type="text" required><br></td>
+              <td><label class="name" >Social Class: </label></td>
+              <td><input id="citizen-class" type="text" placeholder="Class Number 1-4" required><br></td>
             </tr>
              <tr>
                <td> <label class="name">Educational Attainment: </label></td>
-               <td><input id="citizen-educational" type="text" rqeuired><br></td>
+               <td><input id="citizen-educational" type="text" placeholder="Latest school attended" rqeuired><br></td>
              </tr>
              <tr>
              <td colspan="2"><button id="submit-citizen">Confirm</button>
@@ -293,20 +301,13 @@
   </table>
 </div>
 
-<div id="form-edit-schedule">
-  <form class="form-financial">
-     <label>Zone:</label>
-     <input id="newzone1" type="text" required ><br>
-     <label>Social Class:</label>
-     <input id="newsocialclass" type="text" required><br>
-     <label>Schedule Date:</label>
-     <input id="newscheduledate" type="text" required><br>
-     <label >Schedule Time:</label>
-     <input id="newscheduletime" type="text" required><br>
-     <label >Amount: </label>
-     <input id="newamount" type="text" required><br>
-     <button id="new-sched">Update</button>&nbsp; <button id="close-form-sched">Close</button>
-  </form>
+
+<div id="about">
+       
+  <h1>MISYON</h1>
+  <p><b>Pamahalaan na may katapatan, may kababaang loob ang buong nasasakupan. Walang kinikilingan, luntiang kapaligiran, payapa ang isipan, nagkakaisa, nagtutulungan, nagdadamayan at kapakanan ng kapwa ay pinahahalagahan.</b></p>
+  <h1>PANANAW</h1>
+  <p><b> barangay na payapa, tahimik at may malinis na kapaligiran. Nagkakaisa ang mga mamamayan at aktibong nakikilahok ang bawat sektor sa mga programa at proyektong tungo sa ikauunlad ng pamayanan na pinamumunuan ng tapat at maayos na pamahalaan.</b></p>
 </div>
 
 <script src="js/login.js"></script>
