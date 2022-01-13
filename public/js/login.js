@@ -24,7 +24,7 @@ $('#login-user').click(() => {
 
 $('#logout-button').click(() => {
   $('#all-pages').css('display', 'none')
-  $('#login-form').css('display', 'block')
+  $('#login-form').css('display', 'flex')
   $('#logout-button').css('display', 'none')
 
   $('#Population-Table').css('display', 'none')
