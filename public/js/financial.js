@@ -18,6 +18,8 @@ financial.addEventListener('click', function(){
     $('#about').css('display', 'none')
     $('#financial-view').css('display', 'flex')
     $('.schedule').css('display', 'none')
+    $('#Search').css('display', 'none')
+    $('#Search-input').css('display', 'none')
   })
 
   btnbackfinancial.addEventListener('click', function(){
@@ -36,6 +38,8 @@ financial.addEventListener('click', function(){
     $('#financial-view').css('display', 'flex')
     $('.schedule').css('display', 'none')
     $('#form-edit-schedule').css('display', 'none')
+    $('#Search').css('display', 'none')
+    $('#Search-input').css('display', 'none')
   })
 
   btnaddschedule.addEventListener('click', function(){
@@ -51,6 +55,8 @@ financial.addEventListener('click', function(){
     $('#buhay-label').css('display', 'none')
     $('#buhay').css('display', 'none')
     $('.schedule').css('display', 'block')
+    $('#Search').css('display', 'none')
+    $('#Search-input').css('display', 'none')
   })
 
   fetchSchedule()
@@ -59,6 +65,12 @@ financial.addEventListener('click', function(){
   createSchedule.addEventListener('click', function(){ 
     if ( $('#schedule-zone').val()!= "" && $('#schedule-socialclass').val() != "" && $('#schedule-scheduledate').val() != "" && $('#schedule-scheduletime').val() != "" && $('#schedule-amount').val() != ""){
       event.preventDefault()
+      $('#Confirmation').css('display', 'block')
+      $('#confirmation-message').text('Are you sure to add schedule?')
+    
+      $('#confirmation-accept').click(function() {
+        $('#Confirmation').css('display', 'none')
+      
       $.ajax({
       url: '/add-schedule',
       method: 'POST',
@@ -67,7 +79,7 @@ financial.addEventListener('click', function(){
         socialclass: $('#schedule-socialclass').val(),
         scheduledate: $('#schedule-scheduledate').val(),
         scheduletime: $('#schedule-scheduletime').val(),
-        amount: $('#schedule-amount').val()
+        amount: $('#schedule-amount').val() 
       },
       success: function (result) {
         $('#schedule-zone').val('')
@@ -80,6 +92,10 @@ financial.addEventListener('click', function(){
       }
   
     })  
+  })
+  $('#confirmation-cancel').click(function() {
+    $('#Confirmation').css('display', 'none')
+  })
     }
     
   })
@@ -127,12 +143,31 @@ function fetchSchedule(){
                 document.getElementById(`edit-${ k }`).addEventListener('click', function(){
                   
                   $('#form-edit-schedule').css('display', 'block')
+
+                  const splitCountSched = $(this).attr('id')
+                  const countLoopSched = splitCountSched.split('edit-')
+ 
+                  $('#newzone1').val(result[countLoopSched[1]].Zone),
+                   $('#newsocialclass').val(result[countLoopSched[1]].Socialclass),
+                   $('#newscheduledate').val(result[countLoopSched[1]].Scheduledate),
+                   $('#newscheduletime').val(result[countLoopSched[1]].Scheduletime),
+                   $('#newamount').val(result[countLoopSched[1]].Amount)
+                 
+
                  const popzone = $(this).attr('pop-zone')
                  const popdate = $(this).attr('pop-sched-date')
                  const poptime = $(this).attr('pop-sched-time')
                   newsched.addEventListener('click', function(){
                     if ($('#newzone1').val().length > 0) {
                      event.preventDefault()
+
+                     $('#Confirmation').css('display', 'block')
+                     $('#confirmation-message').text('Update this data?')
+                   
+                     $('#confirmation-accept').click(function() {
+                       $('#Confirmation').css('display', 'none')
+                       $('#form-edit-schedule').css('display', 'none')
+
                    $.ajax({
                      url: '/edit-schedule',
                      method: 'POST',
@@ -152,27 +187,49 @@ function fetchSchedule(){
                      
                      }
                    })
+                  })
+                  $('#confirmation-cancel').click(function() {
+                    $('#Confirmation').css('display', 'none')
+                  })
                   }
                  })
                })
 
                $(`#schedule-${ k }-delete`).click(function() {
+                const schedZone = $(this).attr('schedule-zone')
+                const schedSocialclass =  $(this).attr('schedule-socialclass')
+                const scheddate = $(this).attr('schedule-scheduledate')
+                const schedtime = $(this).attr('schedule-scheduletime')
+                const schedamount = $(this).attr('schedule-amount')
                 event.preventDefault()
+
+                $('#Confirmation').css('display', 'block')
+                $('#confirmation-message').text('Delete this schedule?')
+
+               $('#confirmation-accept').click(function() {
+                  $('#Confirmation').css('display', 'none')
+
                 $.ajax({
-                    url: '/delete-schedule',
-                    method: 'POST',
-                    data: {
-                        zone: $(this).attr('schedule-zone'),
-                        socialclass: $(this).attr('schedule-socialclass'),
-                        scheduledate: $(this).attr('schedule-scheduledate'),
-                        scheduletime: $(this).attr('schedule-scheduletime'),
-                        amount: $(this).attr('schedule-amount'),
-                    },
-                    success: function(result) {
-                        alert('Deleted')
-                        fetchSchedule()
-                    }
+                  url: '/delete-schedule',
+                  method: 'POST',
+                  data: {
+                      zone: schedZone,
+                      socialclass: schedSocialclass,
+                      scheduledate: scheddate,
+                      scheduletime: schedtime,
+                      amount: schedamount,
+                  },
+                  success: function(result) {
+                      alert('Deleted')
+                      fetchSchedule()
+                  }
                 })
+              })
+                $('#confirmation-cancel').click(function() {
+                  $('#Confirmation').css('display', 'none')
+                })
+
+                
             })
 
             }
