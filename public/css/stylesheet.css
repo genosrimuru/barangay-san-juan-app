@@ -1,5 +1,6 @@
 *{
-  font-family: Arial;
+  font-family: 'Arial Narrow';
+  font-weight: bold;
 
 }
 body{
@@ -22,6 +23,7 @@ body{
   text-align: center;
   width: 80%;
   margin-left: 100px;
+  font-size: 28px;
 }
 button{
   display: inline;
@@ -88,6 +90,19 @@ form
   transform: translate(-50%, -50%);
   margin: 0;
   text-align: left;
+  border-width: thick;
+  border-color: black;
+  border-radius: 10px;
+}
+
+#newzone1, #newsocialclass, #newscheduledate, #newscheduletime, #newamount{
+  border-width: medium;
+  border-color: black;
+  border-radius: 5px;
+}
+
+table tr td:last-child{
+  justify-content: center;
 }
 
 #financial-view
@@ -104,97 +119,167 @@ form
 
 
 .login-logo {
-  height: 150px;
-  width: 150px;
+  height: 170px;
+  width: 170px;
   position: absolute;
 }
 
 .login-word-small{
   position: absolute;
   margin-top: 13%;
+  font-size: 20px;
+  letter-spacing: 2px;
 }
 
 .login-word{
   position: absolute;
   margin-top: 14%;
-  font-weight: bolder;
-  font-size: 50px;
+  font-weight: bold;
+  font-size: 80px;
 }
 
 .schedule{
   display: none;
+  border: solid black;
+  border-width: thick;
+  border-radius: 10px;
+  height: 170px;
+  width: 250px;
+  margin-left: 40%;
+  text-align: center;
 }
+
+#schedule-zone, #schedule-socialclass, #schedule-scheduledate, #schedule-scheduletime, #schedule-amount{
+  border-width: medium;
+  border-color: black;
+  border-radius: 5px;
+}
+
 
 #login-form{
   
   justify-content: center;
   display: flex;
   margin-top: 10%;
-  
+  }
 
+  #citizen-name, #citizen-age, #selectgender, #selectcivilstatus, #selectzone, #citizen-work, #selectincome, #budget, #fillclass, #selecteducation{
+    width: 1270px;
+    border-radius: 80px;
+    border-width: thick;
+    border-color: black;
+  }
+#login-user{
+  margin-left: 19px;
 }
 .login-user{
   border-radius: 100px;
   background-color: none;
+  padding-left: 30px;
 }
-.citizen table tr:last-child td:last-child{
-  margin-left: 90%;
+
+.citizen table tr  td:last-child{
+  justify-content: center;
+
+
 }
+
 
 .citizen{
   display: none;
-  border: solid black 2px;
-  border-radius: 5px;
-  height: 350px;
+
   width: 300px;
-  justify-content: center;
-  margin-left: 40%;
+  
   text-align: center;
+  justify-content: center;
+ 
   
 }
 #btn-Add{
   display: none;
-  
+
   position: absolute;
 
 }
 
 #btn-add-Schedule
 {
+  
   position: absolute;
-  margin-top: 35%;
-  margin-left: 5%;
+  margin-top: 30%;
+  margin-left: 1%;
 }
+
+#Search-input {
+  display:  none ;
+  margin-left: 18%;
+  margin-top: 3px ;
+  position: absolute;
+}
+
+#Search{
+  display: none;
+  margin-left: 10%;
+  position: absolute;
+}
+
+#confirmation-message {
+  display: flex;
+  height: 200px;
+  font-weight: bold;
+  justify-content: center;
+  align-items: center;
+}
+
+#Confirmation{
+  display: none;
+  position: absolute;
+  text-align: center;
+  border-style: solid;
+  width: 500px;
+  height: 300px;
+  background-color: #FFF;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+}
+
 #buhay{
   display: none;
   margin-left: 63%;
-  margin-top: -17px;
+  margin-top: -15px;
   margin-bottom: 3px;
 }
 #buhay-label{
   display: none;
-  margin-left: 55%;
+  margin-left: 54.5%;
+  margin-top: 5px;
   font-weight: bold;
+  position: absolute;
 }
 .button-sa-filter{
   display: flex;
   margin-left: 83%;
-  margin-top: -22px;
+  position: absolute;
+  margin-top: -30px;
 }
 
 #zone{
   display: block;
   margin-left: 79%;
-  margin-top: -22px;
+  margin-top: -33px;
   display: none;
+  position: absolute;
 }
 #purok-label{
   display: block;
   margin-left: 75%;
-  margin-top: -22px;
+  margin-top: -30px;
   margin-bottom: 3px;
   display: none;
   font-weight: bold ;
+  position: absolute;
 }
 
 
@@ -265,7 +350,9 @@ form
    text-decoration: none;
    color: black;
    margin-left: 150px;
+   letter-spacing: 4px;
  }
+
 
  nav ul{
     display: flex;
@@ -279,7 +366,7 @@ form
  }
 
  nav h1{
-    font-size: 3em;
+    font-size: 4.3em;
  }
 
  nav a{
@@ -301,6 +388,19 @@ form
   position: absolute;
 
 }
+
+#edit{
+  border-width: thick;
+  border-color: black;
+  border-radius: 10px;
+}
+
+#newname, #newage, #newgender, #newstatus, #newzone, #newwork, #newincome, #newbudget, #newclass, #neweducational{
+  border-width: medium;
+  border-color: black;
+  border-radius: 5px;
+}
+
 #index-table {
   text-align: center;
 }
@@ -311,6 +411,18 @@ form
 }
 .tables-chart * {
   flex-basis: 100%;
+}
+
+#visualization-filter{
+  border-width: thick;
+  border-color: black;
+  border-radius: 10px;
+}
+
+#username, #password, #Search-input, #buhay, #zone{
+  border-width: thick;
+  border-color: black;
+  border-radius: 10px;
 }
 .more-visualization {
   padding: 0 5px;
@@ -345,6 +457,7 @@ form
 #visualization-title {
   font-size: 40px;
   font-weight: bold;
+  letter-spacing: 4.5px;
 }
 #visualization-hint {
   display: block;
@@ -453,6 +566,7 @@ form
   font-weight: bold;
   font-size: 40px;
   margin-top: -1%;
+  letter-spacing: 4.5px;
 }
 
 #Financial-Table{
