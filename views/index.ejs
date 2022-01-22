@@ -19,7 +19,7 @@
         <table class="login-view">
           <tr>
             <td>
-        <label class="login-user">Username</label>
+        <label class="login-user">USERNAME</label>
             </td>
           </tr>
       <tr>
@@ -29,7 +29,7 @@
       </tr>
       <tr>
         <td>
-        <Label class="login-user">Password</Label>
+        <Label class="login-user">PASSWORD</Label>
       </td>
       </tr>
         <tr>
@@ -39,11 +39,16 @@
       </tr>
       <tr>
         <td>
-        <button id="login-user">Login</button>
+        <button id="login-user">LOGIN</button>
       </td>
       </tr>
     
       </table>
+      </div>
+      <div id="Confirmation" is-active="false">
+        <span id="confirmation-message">Are you sure to ano?</span>
+        <button id="confirmation-accept" class="confirmation-buttons">Accept</button>
+        <button id="confirmation-cancel" class="confirmation-buttons">Cancel</button>
       </div>
       <div id="all-pages"> 
         <nav>
@@ -61,6 +66,7 @@
             </div>
 
             <hr>
+            <br>
         </nav>
       
       
@@ -70,20 +76,20 @@
           <br>
           <span id="filter-text">FILTER:</span>
           <select id="visualization-filter">
-            <option value="0">Social Class</option>
-            <option value="1">Gender</option>
-            <option value="2">Civil Status</option>
-            <option value="3">Educational Attainment</option>
+            <option value="0">SOCIAL CLASS</option>
+            <option value="1">GENDER</option>
+            <option value="2">CIVIL STATUS</option>
+            <option value="3">EDUCATIONAL ATTAINMENT</option>
           </select>
           <button id="visualization-filter-btn">GO</button>
           <table id="visualization-header">
             <tr>
-              <th>Type: Barangay</th>
-              <th>Municipality: Hagonoy</th>
-              <th>Province: Bulacan</th>
-              <th>Region: III</th>
-              <th>Island Group: Luzon</th>
-              <th>Postal Code: 3002</th>
+              <th>TYPE: BARANGAY</th>
+              <th>MUNICIPALITY: HAGONOY</th>
+              <th>PROVINCE: BULACAN</th>
+              <th>REGION: III</th>
+              <th>ISLAND GROUP: LUZON</th>
+              <th>POSTAL CODE: 3002</th>
             </tr>
           </table>
           <div class="tables-chart">
@@ -91,7 +97,7 @@
               <div id="visualization-legends">
               </div>
               <div id="visualization-chart"></div>
-              <span class="chart-bold">Zone | Purok</span>
+              <span class="chart-bold">ZONE | PUROK</span>
             </div>
             <div class="more-visualization">
               <table id="visualization-table">
@@ -112,14 +118,16 @@
 
       <div id="population-view">
         <button id="btn-add">ADD</button>
-      <label id="buhay-label" >Social Class:</label>
+        <button id="Search">SEARCH</button>
+        <input id="Search-input" type="text">
+      <label id="buhay-label" >SOCIAL CLASS:</label>
           <select id="buhay">
               <option value="1" selected>1 = Poor</option>
               <option value="2">2 = Low income</option>
               <option value="3">3 = Middle income</option>
               <option value="4">4 = High income</option>
           </select>
-      <label id="purok-label" >Zone</label>
+      <label id="purok-label" >ZONE:</label>
           <select id="zone">
               <option value="1" selected>1</option>
               <option value="2">2</option>
@@ -132,14 +140,14 @@
           <button id="btn-filter-data" id="btn-reset"><i class="fas fa-redo-alt"></i></button>
         </div>
           <br>
-          <table id="Population-Table"></table>
-          
+          <table id="Population-Table"></table>  
           
       </div>
-      <br>
+    
+
       <div id="form-edit">
         
-          <form >
+          <form id="edit" >
             <table>
               <tr>
                 <td><label>Name:</label></td>
@@ -182,8 +190,8 @@
                <td><input id="neweducational" type="text" required><br></td>
              </tr>
              <tr>
-               <td>
-             <button id="new-record" >Update</button>&nbsp; <button id="form-close">Close</button>
+               <td colspan="2"> 
+             <button id="new-record" >Update</button> <button id="form-close">Close</button>
              </td>
              </tr>
             </table>
@@ -198,23 +206,38 @@
 
         <p id="financial-title">FINANCIAL AID</p>
         <br>
+        <br>
         <table id="Financial-Table"></table>
         <br>
         <button id="btn-add-Schedule">ADD</button>
         <div id="form-edit-schedule">
           <form class="form-financial">
-             <label>Zone:</label>
-             <input id="newzone1" type="text" required ><br>
-             <label>Social Class:</label>
-             <input id="newsocialclass" type="text" required><br>
-             <label>Schedule Date:</label>
-             <input id="newscheduledate" type="text" required><br>
-             <label >Schedule Time:</label>
-             <input id="newscheduletime" type="text" required><br>
-             <label >Amount: </label>
-             <input id="newamount" type="text" required><br>
-             <button id="new-sched">Update</button>&nbsp; <button id="close-form-sched">Close</button>
-          </form>
+            <table>
+              <tr>
+                <td><label>Zone:</label></td>
+                <td> <input id="newzone1" type="text" required ><br></td>
+              </tr>
+              <tr>
+                <td><label>Social Class:</label></td>
+                <td>  <input id="newsocialclass" type="text" required><br></td>
+              </tr>
+              <tr>
+                <td> <label>Schedule Date:</label></td>
+                <td><input id="newscheduledate" type="text" required><br></td>
+              </tr> 
+              <tr>
+                <td> <label >Schedule Time:</label></td>
+                <td><input id="newscheduletime" type="text" required><br></td>
+              </tr>
+              <tr>
+                <td> <label >Amount: </label></td>
+                <td> <input id="newamount" type="text" required><br></td>
+              </tr>
+              <tr> 
+                <td colspan="2"> <button id="new-sched">Update</button>&nbsp; <button id="close-form-sched">Close</button></td>
+              </tr>
+            </form>
+        </table>
         </div>
       </div>
 
@@ -222,59 +245,98 @@
     
 
       <div class="citizen">
-          <table >
-             <form id="citizen-table-1" >
+        <table>
+        <form>  
+       
                <tr>
-                 <td><label class="name">Name:</label></td>
+                <td><label >Name:</label></td>
                 <td><input id="citizen-name" type="text" required><br></td>
             </tr>
             
              <tr>
-               <td><label class="name">Age:</label></td>
+               <td><label >Age:</label></td>
                <td><input id="citizen-age" type="text" required><br></td>
              </tr>
              <tr>
-               <td><label class="name">Gender:</label></td>
-               <td><input id="citizen-gender" type="text" required><br></td>
+               <td><label >Gender:</label></td>
+               <td>
+                 <select id="selectgender">
+                <option value="male" selected>MALE</option>
+                <option value="female">FEMALE</option>
+                </select>
+                </td>
              </tr>
             
              <tr>
-               <td><label class="name">Civil Status:</label></td>
-               <td> <input id="citizen-status" type="text" required><br></td>
+               <td><label >Civil Status:</label></td>
+               <td> 
+                <select id="selectcivilstatus" >
+                  <option value="single" selected>SINGLE</option>
+                  <option value="married">MARRIED</option>
+                  <option value="widow">WIDOW</option>
+                </select>
+               </td>
              </tr>
      
             <tr>
-              <td><label class="name">Zone: </label></td>
-              <td><input id="citizen-zone" type="text" placeholder="zone number" required><br></td>
+              <td><label >Zone: </label></td>
+              <td>
+                <select id="selectzone">
+                <option value="1" selected>ZONE 1</option>
+                <option value="2">ZONE 2</option>
+                <option value="3">ZONE 3</option>
+                <option value="4">ZONE 4</option>
+                <option value="5">ZONE 5</option>
+              </select></td>
             </tr>
             
              <tr>
-               <td> <label class="name">Work:</label></td>
+               <td> <label >Work:</label></td>
                <td><input id="citizen-work" type="text" placeholder="current work"required><br></td>
              </tr>
              <tr>
-               <td> <label class="name">Source of Income: </label></td>
-               <td> <input id="citizen-income" type="text" placeholder=""required><br></td>
+               <td> <label >Source of Income: </label></td>
+               <td>
+                  <select id="selectincome">
+                <option value="none" selected>NONE</option>
+                <option value="work">WORK</option>
+                <option value="business">BUSINESS</option>
+                <option value="pension">PENSION</option>
+              </select></td>
              </tr>
             <tr>
-              <td><label class="name">Budget: </label></td>
-              <td> <input id="citizen-budget" type="text" required><br></td>
+              <td><label>Monthly Budget: </label></td>
+              <td>  
+                <select id="budget">
+                <option disabled selected>CHOOSE BUDGET</option>
+                <option value="poor"> < 5,000</option>
+                <option value="low"> 5,000 - 10,000 </option>
+                <option value="middle"> 11,000 - 20,000</option>
+                <option value="high"> > 21,000 </option>
+              </select></td>
             </tr>
             <tr>
-              <td><label class="name" >Social Class: </label></td>
-              <td><input id="citizen-class" type="text" placeholder="Class Number 1-4" required><br></td>
+              <td><label>Social Class: </label></td>
+              <td><input id="fillclass" type="text" disabled></td>
             </tr>
              <tr>
-               <td> <label class="name">Educational Attainment: </label></td>
-               <td><input id="citizen-educational" type="text" placeholder="Latest school attended" rqeuired><br></td>
+               <td> <label>Educational Attainment: </label></td>
+               <td>
+                <select id="selecteducation">
+                <option value="NOT YET STUDYING" selected>NOT YET STUDYING</option>
+                <option value="ELEMENTARY">ELEMENTARY</option>
+                <option value="SECONDARY">SECONDARY</option>
+                <option value="COLLEGE">COLLEGE</option>
+                <option value="CURRENTLY STUDYING">CURRENTLY STUDYING</option>
+              </select></td>
              </tr>
              <tr>
-             <td colspan="2"><button id="submit-citizen">Confirm</button>
+             <td colspan="2" ><button id="submit-citizen">Confirm</button>
              <button id="btn-back-population">Back</button></td>
             </tr>
-          </form>
-         
-      </table>
+      
+    </form>
+  </table>
     </div>
 
 
@@ -282,23 +344,33 @@
     <div class="schedule">
       <table>
          <form >
-         <label >Zone:</label>
-         <input id="schedule-zone" type="text" required><br>
-         <label >Social Class:</label>
-         <input id="schedule-socialclass" type="text" required><br>
-         <label>Schedule Date:</label>
-         <input id="schedule-scheduledate" type="text" required><br>
-         <label >Schedule Time:</label>
-         <input id="schedule-scheduletime" type="text" required><br>
-         <label>Amount: </label>
-         <input id="schedule-amount" type="text" required><br>
+           <tr>
+             <td><label >Zone:</label></td>
+             <td> <input id="schedule-zone" type="text" required><br></td>
+           </tr>
+           <tr>
+             <td><label >Social Class:</label></td>
+             <td> <input id="schedule-socialclass" type="text" required><br></td>
+           </tr>
+           <tr>
+             <td><label>Schedule Date:</label></td>
+             <td> <input id="schedule-scheduledate" type="text" required><br></td>
+           </tr>
+           <tr>
+             <td><label >Schedule Time:</label></td>
+             <td><input id="schedule-scheduletime" type="text" required><br></td>
+           </tr>
+           <tr>
+             <td><label>Amount: </label></td>
+             <td><input id="schedule-amount" type="text" required><br></td>
+           </tr>
+           <tr>
+             <td><button id="submit-schedule">Confirm</button></td>
+             <td><button id="btn-back-financial">Back</button></td>
+           </tr>
         
-
-         <button id="submit-schedule">Confirm</button>
-         <button id="btn-back-financial">Back</button>
       </form>
-     
-  </table>
+    </table>
 </div>
 
 
@@ -307,7 +379,7 @@
   <h1>MISYON</h1>
   <p><b>Pamahalaan na may katapatan, may kababaang loob ang buong nasasakupan. Walang kinikilingan, luntiang kapaligiran, payapa ang isipan, nagkakaisa, nagtutulungan, nagdadamayan at kapakanan ng kapwa ay pinahahalagahan.</b></p>
   <h1>PANANAW</h1>
-  <p><b> barangay na payapa, tahimik at may malinis na kapaligiran. Nagkakaisa ang mga mamamayan at aktibong nakikilahok ang bawat sektor sa mga programa at proyektong tungo sa ikauunlad ng pamayanan na pinamumunuan ng tapat at maayos na pamahalaan.</b></p>
+  <p><b> Barangay na payapa, tahimik at may malinis na kapaligiran. Nagkakaisa ang mga mamamayan at aktibong nakikilahok ang bawat sektor sa mga programa at proyektong tungo sa ikauunlad ng pamayanan na pinamumunuan ng tapat at maayos na pamahalaan.</b></p>
 </div>
 
 <script src="js/login.js"></script>
