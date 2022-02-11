@@ -80,6 +80,7 @@ btnAdd.addEventListener('click', function(){
   $('#hr').css('display', 'none')
   $('.citizen').css('display', 'block')
   $('#btn-add').css('display', 'none')
+  $('#form-edit').css('display', 'none')
   $('#purok-label').css('display', 'none')
   $('#zone').css('display', 'none')
   $('#btn-filter').css('display', 'none')
