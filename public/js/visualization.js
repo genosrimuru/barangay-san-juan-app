@@ -118,10 +118,10 @@ function fetchVisualization(filter) {
                 ["Poor", poorArr[0], poorArr[1], poorArr[2], poorArr[3], poorArr[4]]
             ],
             colors: {
-                  High: "yellow",
-                  Middle: "red",
-                  Low: "orange",
-                  Poor: "blue"
+                  High: "#540b0e",
+                  Middle: "#e09f3e",
+                  Low: "#9e2a2b",
+                  Poor: "#fff3b0"
             },
             type: "bar",
           },
@@ -212,8 +212,8 @@ function fetchVisualization(filter) {
                 ["Female", femaleArr[0], femaleArr[1], femaleArr[2], femaleArr[3], femaleArr[4]]
             ],
             colors: {
-                  Male: "blue",
-                  Female: "red"
+                  Male: "#fff3b0",
+                  Female: "#e09f3e"
             },
             type: "bar",
           },
@@ -288,12 +288,12 @@ function fetchVisualization(filter) {
                 ["Unknown", unknownArr[0], unknownArr[1], unknownArr[2], unknownArr[3], unknownArr[4]]
             ],
             colors: {
-                  Single: "yellow",
-                  Married: "orange",
-                  Widow: "red",
-                  Widower: "blue",
-                  Separated: "green",
-                  Unknown: "black"
+                  Single: "#540b0e",
+                  Married: "#9e2a2b",
+                  Widow: "#e09f3e",
+                  Widower: "#fff3b0",
+                  Separated: "#335c67",
+                  Unknown: "#f58549"
             },
             type: "bar",
           },
@@ -409,13 +409,13 @@ function fetchVisualization(filter) {
                 ["Unknown", sUnknownArr[0], sUnknownArr[1], sUnknownArr[2], sUnknownArr[3], sUnknownArr[4]]
             ],
             colors: {
-                  College: "yellow",
-                  Currently_Studying: "orange",
-                  Elementary: "red",
-                  Not_Yet_Studying: "blue",
-                  Primary: "green",
-                  Secondary: "violet",
-                  Unknown: "black"
+                  College: "#540b0e",
+                  Currently_Studying: "#9e2a2b",
+                  Elementary: "#e09f3e",
+                  Not_Yet_Studying: "#fff3b0",
+                  Primary: "#335c67",
+                  Secondary: "#606c38",
+                  Unknown: "f58549"
             },
             type: "bar",
           },
