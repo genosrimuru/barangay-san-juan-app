@@ -155,6 +155,8 @@ table tr td:last-child{
   width: 250px;
   margin-left: 40%;
   text-align: center;
+  position: absolute;
+  margin-top: -20px;
 }
 
 .schedule table  tr td:last-child{
@@ -609,7 +611,7 @@ table tr td:last-child{
   overflow: scroll;
 }
 #Financial-Table tr:first-child {
-  background-color: #000;
+  background-color: #9e2a2b;
 }
 #Financial-Table tr:first-child th:first-child {
   border-top-left-radius: 10.5px;
