@@ -23,6 +23,7 @@ financial.addEventListener('click', function(){
   })
 
   btnbackfinancial.addEventListener('click', function(){
+    $('#Financial-Table').css('display', 'block')
     $('#Population-Table').css('display', 'none')
     $('#Index-Table').css('display', 'none')
     $('#hr').css('display', 'none')
@@ -57,6 +58,7 @@ financial.addEventListener('click', function(){
     $('.schedule').css('display', 'block')
     $('#Search').css('display', 'none')
     $('#Search-input').css('display', 'none')
+    $('#Financial-Table').css('display', 'none')
   })
 
   fetchSchedule()
