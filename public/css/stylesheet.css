@@ -1,21 +1,28 @@
 *{
-  font-family: 'Arial Narrow';
-  font-weight: bold;
+  font-family: 'Staatliches';
 
 }
-body{
-    background-image: url('../Background.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
 
+body{
+  background-color: white;
+  background-repeat: no-repeat;
+    background-size: cover;
   }
+
+nav{
+  background-image: url('../navbg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 24.5%;
+}
 
 .logo{
     width: 130px;
     height: 130px;
     border-radius: 50%;
     overflow: hidden;
-    margin-top: -6px;
+    margin-top: 15px;
+    margin-left: 15px;
     position: absolute;
 }
 #about{
@@ -29,15 +36,16 @@ button{
   display: inline;
   border: none;
   border-radius: 20px;
-  background-color: black;
+  background-color: #9e2a2b;
   color: white;
   width: 100px;
   height: 30px;
 }
 button:hover{
-  background-color: blueviolet;
+  background-color: #e09f3e;
 }
 .nav-button{
+  margin-top: 42px;
   width: 150px;
   height: 40px;
 }
@@ -67,7 +75,7 @@ button:hover{
 }
 
 label{
-  font-weight: bold;
+  font-weight: normal;
 }
 
 form
@@ -134,7 +142,7 @@ table tr td:last-child{
 .login-word{
   position: absolute;
   margin-top: 14%;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 80px;
 }
 
@@ -143,10 +151,15 @@ table tr td:last-child{
   border: solid black;
   border-width: thick;
   border-radius: 10px;
-  height: 170px;
+  height: 180px;
   width: 250px;
   margin-left: 40%;
   text-align: center;
+}
+
+.schedule table  tr td:last-child{
+  padding-left: 12px;
+  
 }
 
 #schedule-zone, #schedule-socialclass, #schedule-scheduledate, #schedule-scheduletime, #schedule-amount{
@@ -164,9 +177,9 @@ table tr td:last-child{
   }
 
   #citizen-name, #citizen-age, #selectgender, #selectcivilstatus, #selectzone, #citizen-work, #selectincome, #budget, #fillclass, #selecteducation{
-    width: 1270px;
-    border-radius: 80px;
-    border-width: thick;
+    width: 180px;
+    border-radius: 5px;
+    border-width: medium;
     border-color: black;
   }
 #login-user{
@@ -180,24 +193,25 @@ table tr td:last-child{
 
 .citizen table tr  td:last-child{
   justify-content: center;
-
-
+  padding-left: 55px;
+  word-spacing: 20px;
+  padding-top: 10px;
 }
 
 
 .citizen{
   display: none;
-
-  width: 300px;
-  
+  border: solid black;
+  border-width: thick;
+  border-radius: 10px;
+  height: 450px;
+  width: 350px;
+  margin-left: 40%;
   text-align: center;
-  justify-content: center;
- 
   
 }
 #btn-Add{
   display: none;
-
   position: absolute;
 
 }
@@ -226,7 +240,7 @@ table tr td:last-child{
 #confirmation-message {
   display: flex;
   height: 200px;
-  font-weight: bold;
+  font-weight: normal;
   justify-content: center;
   align-items: center;
 }
@@ -248,21 +262,21 @@ table tr td:last-child{
 #buhay{
   display: none;
   margin-left: 63%;
-  margin-top: -15px;
+
   margin-bottom: 3px;
 }
 #buhay-label{
   display: none;
   margin-left: 54.5%;
   margin-top: 5px;
-  font-weight: bold;
+  font-weight: normal;
   position: absolute;
 }
 .button-sa-filter{
   display: flex;
   margin-left: 83%;
   position: absolute;
-  margin-top: -30px;
+  margin-top: -35px;
 }
 
 #zone{
@@ -278,7 +292,7 @@ table tr td:last-child{
   margin-top: -30px;
   margin-bottom: 3px;
   display: none;
-  font-weight: bold ;
+  font-weight: normal ;
   position: absolute;
 }
 
@@ -306,7 +320,7 @@ table tr td:last-child{
     overflow: scroll;
   }
   #Population-Table tr:first-child {
-    background-color: #000;
+    background-color: #9e2a2b;
   }
   #Population-Table tr:first-child th:first-child {
     border-top-left-radius: 10.5px;
@@ -329,7 +343,7 @@ table tr td:last-child{
     border-style: solid;
     border-top-style: none;
     font-size: 15px;
-    font-weight: bold;
+    font-weight: normal;
     padding: 1.5px 10px;
   }
   #Population-Table tr:last-child {
@@ -353,11 +367,14 @@ table tr td:last-child{
    letter-spacing: 4px;
  }
 
+ .divnav{
+   background-image: url('../San Juan Logo-modified.png');
+ }
 
  nav ul{
     display: flex;
     justify-content: space-between;
-    align-items: flex-end;
+    
  }
 
  nav li{
@@ -366,12 +383,10 @@ table tr td:last-child{
  }
 
  nav h1{
-    font-size: 4.3em;
+    font-size: 4.6em;
+    
  }
 
- nav a{
-   font-weight: 300;
- }
 
 
 
@@ -385,14 +400,19 @@ table tr td:last-child{
 #form-edit{
   text-align: center;
   justify-content: center;
-  position: absolute;
+  width: 250px;
 
 }
 
 #edit{
   border-width: thick;
   border-color: black;
-  border-radius: 10px;
+  border-radius: 5px;
+}
+
+#edit table tr td:last-child{
+  padding-left: 35px;
+  word-spacing: 20px;
 }
 
 #newname, #newage, #newgender, #newstatus, #newzone, #newwork, #newincome, #newbudget, #newclass, #neweducational{
@@ -432,7 +452,7 @@ table tr td:last-child{
   display: flex;
 }
 #filter-text {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px;
 }
 #visualization-total-data {
@@ -444,24 +464,24 @@ table tr td:last-child{
 }
 #vtotal-title {
   display: block;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px;
   padding: 30px 0 0 0;
 }
 #vtotal-data {
   flex-basis: 100%;
   display: block;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 50px;
 }
 #visualization-title {
   font-size: 40px;
-  font-weight: bold;
+  font-weight: normal;
   letter-spacing: 4.5px;
 }
 #visualization-hint {
   display: block;
-  font-weight: bold;
+  font-weight: normal;
   padding: 10px;
 }
 #visualization-table {
@@ -477,7 +497,9 @@ table tr td:last-child{
   border-spacing: 0;
 }
 #visualization-total th {
-  background-color: #FFF;
+  background-color: #9e2a2b;
+  color: white;
+  border-color: black;
   border-style: solid;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
@@ -488,7 +510,7 @@ table tr td:last-child{
   border-top-style: none;
   border-bottom-style: none;
   text-align: center;
-  font-weight: bold;
+  font-weight: normal;
 }
 #visualization-total tr:last-child td {
   border-bottom-left-radius: 10px;
@@ -511,7 +533,7 @@ table tr td:last-child{
   border-bottom-right-radius: 10px;
 }
 #visualization-header {
-  background-color: #000;
+  background-color:#9e2a2b;
   width: 100%;
   border-radius: 10px;
   color: #FFF;
@@ -524,10 +546,10 @@ table tr td:last-child{
   padding: 10px;
 }
 #chart-legend {
-  font-weight: bold;
+  font-weight: normal;
 }
 .chart-bold {
-  font-weight: bold;
+  font-weight: normal;
   font-size: 20px;
 }
 .legend-circle {
@@ -539,31 +561,37 @@ table tr td:last-child{
   margin: 0 5px;
 }
 .circle-yellow {
-  background-color: yellow;
+  background-color: #540b0e;
 }
 .circle-orange {
-  background-color: orange;
+  background-color: #9e2a2b;
 }
 .circle-red {
-  background-color: red;
+  background-color: #e09f3e;
 }
 .circle-blue {
-  background-color: blue;
+  background-color: #fff3b0;
 }
 .circle-green {
-  background-color: green;
+  background-color: #335c67;
 }
 .circle-violet {
-  background-color: violet;
+  background-color: #606c38;
 }
 .circle-black {
-  background-color: black;
+  background-color: #f58549;
 }
+.navfont{
+  color: black;
+  position: absolute;
+  margin-top: 25px;
+}
+
 
 #financial-title
 {
   position: absolute;
-  font-weight: bold;
+  font-weight: normal;
   font-size: 40px;
   margin-top: -1%;
   letter-spacing: 4.5px;
@@ -604,7 +632,7 @@ width: 150px;
   border-style: solid;
   border-top-style: none;
   font-size: 15px;
-  font-weight: bold;
+  font-weight: normal;
   padding: 1.5px 10px;
 }
 #Financial-Table tr:last-child {
